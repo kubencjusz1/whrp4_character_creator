@@ -1,0 +1,1285 @@
+Uczeń Aptekarza - Brąz 3
+Umiejętności: Język (Klasyczny), Leczenie, Mocna Głowa,Rzemiosło (Aptekarstwo), Rzemiosło (Truciciel), Wiedza(Chemia), Wiedza (Medycyna), Wiedza (Rośliny)
+Talenty: Czytanie/Pisanie, Etykieta (Uczeni), Przyrządzanie Mikstur, Wytwórca (Aptekarz)
+Wyposażenie: Księga (Pusta), Mikstura Lecznicza, Moździerz z Tłuczkiem, Skórzany Kaftan
+
+Aptekarz - Srebro 1
+Umiejętności: Charyzma, Język (Gildii), Percepcja, Plotkowanie, Targowanie, Wiedza (Nauka)
+Talenty: Aptekarz, Etykieta (Członkowie Cechu), Przestępca, Żyłka Handlowa
+Wyposażenie: Licencja Cechu Aptekarzy, Narzędzia Pracy(Aptekarza)
+
+Mistrz Aptekarski - Srebro 3
+Umiejętności: Badania Naukowe, Dowodzenie, Intuicja,Sekretne Znaki (Cechu)
+Talenty: Błyskotliwość, Mistrz Rzemiosła (Aptekarz), Mól Książkowy, Odporny na (Trucizny)
+Wyposażenie: Książka (Aptekarstwo), Uczeń, Warsztat
+
+Główny Aptekarz - Złoto 1
+Umiejętności: Jeździectwo (Konie), Zastraszanie
+Talenty: Mistrz Rzemiosła (Truciciel), Wyczulony Zmysł(Smak), Zimna Krew, Znawca (Aptekarstwo)
+Wyposażenie: Duży Warsztat, Przywilej od Władcy
+
+Uczeń Czarodzieja - Brąz 3
+Umiejętności: Broń Biała (Podstawowa), Broń Biała (Drzewcowa), Intuicja, Język (Magiczny), Percepcja, Splatanie Magii (Dowolny Kolor), Unik, Wiedza (Magia)
+Talenty: Czytanie/Pisanie, Magia Prosta (Dowolna), Percepcja Magiczna, Zmysł Magii
+Wyposażenie: Kostur, Księga Zaklęć
+
+Czarodziej - Srebro 3
+Umiejętności: Charyzma, Język (Bitewny), Język (Dowolny), Opanowanie, Plotkowanie, Zastraszanie
+Talenty: Magia Tajemna (Dowolna Tradycja), Rozpoznanie Artefaktu, Ruchliwe Dłonie, Szósty Zmysł
+Wyposażenie: Licencja na Uprawianie Magii
+
+Mistrz Magii - Złoto 1
+Umiejętności: Jeździectwo (Konie), Opieka nad Zwierzętami, Wiedza (Wojna), Wycena
+Talenty: Dwie Bronie, Groźny, Precyzyjne Inkantowanie, Wykrywanie Magii
+Wyposażenie: Lekki Koń Bojowy, Przedmiot Magiczny, Uczeń
+
+Arcymag - Złoto 2
+Umiejętności: Język (Dowolny), Wiedza (Dowolna)
+Talenty: Mag Bitewny, Straszny, Zmysł Walki, Żelazna Wola
+Wyposażenie: Biblioteka (Magia), Uczeń, Warsztat (Magia)
+
+Student Inżynierii - Brąz 4
+Umiejętności: Broń Zasięgowa (Prochowa), Język (Klasyczny), Mocna Głowa, Odporność, Opanowanie, Percepcja, Rzemiosło (Inżynier),Wiedza (Inżynier)
+Talenty: Artylerzysta, Czytanie/Pisanie, Talent Artystyczny, Złota Rączka
+Wyposażenie: Księga (Inżynieria), Młot i Gwoździe
+
+Inżynier - Srebro 2
+Umiejętności: Badania Naukowe, Broń Zasięgowa (Eksperymentalna), Język (Gildii), Nawigacja, Powożenie, Unik
+Talenty: Wytwórca (Inżynier), Etykieta (Członkowie Gildii), Strzelec Wyborowy, Wyczucie Kierunku
+Wyposażenie: Licencja Gildii Inżynierów, Narzędzia Pracy (Inżyniera)
+
+Mistrz Inżynierii - Srebro 4
+Umiejętności: Dowodzenie, Jeździectwo (Konie), Język (Khazalid), Sekretne Znaki (Gildii)
+Talenty: Etykieta (Uczeni), Geniusz Arytmetyczny, Mistrz Rzemiosła (Inżynieria), Snajper
+Wyposażenie: Warsztat
+
+Inżynier Dyplomowany - Złoto 2
+Umiejętności: Język (Dowolny), Wiedza (Dowolna)
+Talenty: Arcydzieło, Niewzruszony, Szybkie Przeładowanie, Znawca (Inżynieria)
+Wyposażenie: Biblioteka (Inżyniera), Doskonałe Narzędzia Pracy (Inżyniera), Duży Warsztat (Inżyniera), Licencja Cechu
+
+Kleryk - Brąz 2
+Umiejętności: Atletyka, Badania Naukowe, Intuicja, Modlitwa, Odporność, Opanowanie, Percepcja, Wiedza (Teologia)
+Talenty: Błogosławieństwo (Dowolne Bóstwo), Charyzmatyczny, Czytanie/Pisanie, Święte Wizje
+Wyposażenie: Symbol Religijny, Szata
+
+Kapłan - Srebro 1
+Umiejętności: Broń Biała (Podstawowa), Charyzma, Leczenie, Plotkowanie, Występy (Gawędziarstwo), Zastraszanie
+Talenty: Etykieta (Kultyści), Gadanina, Inwokacja (Dowolne Bóstwo), Mól Książkowy
+Wyposażenie: Księga (Religia), Szata Ceremonialna
+
+Arcykapłan - Złoto 1
+Umiejętności: Dowodzenie, Sztuka (Pisarstwo), Wiedza (Heraldyka), Występy (Przemowy)
+Talenty: Nienawiść (Dowolna), Odporność Psychiczna, Porywająca Gorliwość, Wyczulony Zmysł (Dowolny)
+Wyposażenie: Podwładni Kapłani, Relikwia, Szata Dobrej Jakości, Świątynia
+
+Lektor - Złoto 2
+Umiejętności: Język (Dowolny), Wiedza (Polityka)
+Talenty: Czysta Dusza, Odporny na (Dowolne Zagrożenie), Krasomówstwo, Znawca (Teologia)
+Wyposażenie: Biblioteka (Teologia), Podwładni Arcykapłani
+
+Uczeń Lekarza - Brąz 4
+Umiejętności: Leczenie, Odporność, Opanowanie, Percepcja, Plotkowanie, Powożenie, Przekupstwo, Zwinne Palce
+Talenty: Czytanie/Pisanie, Mól Książkowy, Ogłuszenie, Pierwsza Pomoc
+Wyposażenie: Bandaże, Mikstura Lecznicza
+
+Lekarz - Srebro 3
+Umiejętności: Charyzma, Język (Gildii), Rzemiosło (Cyrulik), Targowanie, Wiedza (Anatomia), Wiedza (Medycyna)
+Talenty: Chirurgia, Etykieta (Członkowie Cechu),Przestępca, Zimna Krew
+Wyposażenie: Księga (Medycyna), Licencja Cechu,Narzędzia Pracy (Medycyna)
+
+Doktor - Srebro 5
+Umiejętności: Badania Naukowe, Dowodzenie, Mocna Głowa, Zastraszanie
+Talenty: Błyskotliwość, Etykieta (Uczeni), MorderczyAtak, Odporny na (Choroby)
+Wyposażenie: Uczeń, Warsztat (Medyczny)
+
+Nadworny Medyk - Złoto 1
+Umiejętności: Wiedza (Szlachta), Występy (Taniec)
+Talenty: Etykieta (Szlachta), Odporność Psychiczna, Znawca (Medycyna), Zręczny
+Wyposażenie: Nominacja, Strój Dworski
+
+Nowicjuszka - Brąz 1
+Umiejętności: Leczenie, Modlitwa, Odporność, Opanowanie, Plotkowanie, Sztuka (Kaligrafia), Wiedza (Teologia), Występy (Gawędziarstwo)
+Talenty: Błogosławieństwo (Dowolne Bóstwo), Czytanie/ Pisanie, Naciągacz, Wstrzemięźliwy
+Wyposażenie: Symbol Religijny, Szata
+
+Mniszka - Brąz 4
+Umiejętności: Badania Naukowe, Broń Biała (Dowolna), Przekonywanie, Rzemiosło (Browarnik), Rzemiosło (Winiarz), Rzemiosło (Zielarz)
+Talenty: Etykieta (Kultyści), Inwokacja (Dowolne Bóstwo), Pierwsza Pomoc, Święte Wizje
+Wyposażenie: Księga (Religia), Narzędzia Pracy (Dowolne), Relikwia
+
+Przeorysza - Srebro 2
+Umiejętności: Dowodzenie, Percepcja, Wiedza (Lokalna), Wiedza (Polityka)
+Talenty: Odporny na (Dowolne Zagrożenie), Krzepki, Znawca (Teologia), Waleczne Serce
+Wyposażenie: Opactwo, Biblioteka (Teologia)
+
+Matka Przełożona - Srebro 5
+Umiejętności: Język (Dowolny), Wiedza (Dowolna)
+Talenty: Czysta Dusza, Odporność Psychiczna, Władcza Postura, Żelazna Wola
+Wyposażenie: Zakon Religijny
+
+Student Prawa - Brąz 4
+Umiejętności: Badania Naukowe, Język (Klasyczny), Mocna Głowa, Odporność, Percepcja, Targowanie, Wiedza (Prawo), Wiedza (Teologia)
+Talenty: Czytanie/Pisanie, Etykieta (Uczeni), Gadanina, Szybkie Czytanie
+Wyposażenie: Księga (Prawo), Lupa
+
+Prawnik - Srebro 3
+Umiejętności: Przekupstwo, Charyzma, Plotkowanie, Intuicja, Język (Gildii), Sekretne Znaki (Gildii)
+Talenty: Charyzmatyczny, Etykieta (Członkowie Gildii), Przekonujący, Przestępca
+Wyposażenie: Licencja Gildii, Szaty Dworskie, Zestaw do Pisania
+
+Adwokat - Złoto 1
+Umiejętności: Sztuka (Pisarstwo), Wiedza (Dowolna), Występy (Przemowy), Zastraszanie
+Talenty: Błyskotliwość, Gładkie Słówka, Mól Książkowy, Porywająca Gorliwość
+Wyposażenie: Kantor, Asystent (Student lub Służący)
+
+Sędzia - Złoto 2
+Umiejętności: Opanowanie, Wiedza (Polityka)
+Talenty: Majętny, Szycha, Władcza Postura, Znawca (Prawo)
+Wyposażenie: Młotek Sędziego, Pretensjonalna Peruka
+
+Student - Brąz 3
+Umiejętności: Badania Naukowe, Hazard, Język (Klasyczny), Mocna Głowa, Plotkowanie, Targowanie, Wiedza (Dowolna), Występy (Gawędziarstwo)
+Talenty: Błyskotliwość, Czytanie/Pisanie, Geniusz Arytmetyczny, Hulaka
+Wyposażenie: Alkohol, Księga, Listy Polecające, Zestaw do Pisania
+
+Uczony - Srebro 2
+Umiejętności: Intuicja, Język (Dowolny), Percepcja, Rzemiosło (Dowolne), Sztuka (Pisarstwo), Wiedza (Dowolna)
+Talenty: Charyzmatyczny, Etykieta (Uczeni), Mól Książkowy, Szybkie Czytanie
+Wyposażenie: Dostęp do Biblioteki, Stopień Naukowy
+
+Wykładowca - Srebro 5
+Umiejętności: Język (Dowolny), Wiedza (Dowolna), Występy (Wykłady), Zastraszanie
+Talenty: Mówca, Poliglota, Wieża Pamięci, Znawca (Dowolna Dziedzina)
+Wyposażenie: Biret, Szata
+
+Profesor - Złoto 1
+Umiejętności: Wiedza (Dowolna), Występy (Retoryka)
+Talenty: Arcydzieło, Czujny, Krasomówstwo, Znawca (Dowolna Dziedzina)
+Wyposażenie: Gabinet
+
+Pamflecista - Brąz 1
+Umiejętności: Charyzma, Mocna Głowa, Plotkowanie, Przekupstwo, Rzemiosło (Drukarstwo), Sztuka (Pisarstwo), Targowanie, Wiedza (Polityka)
+Talenty: Czytanie/Pisanie, Gadanina, Naciągacz, Towarzyski
+Wyposażenie: Młotek i Gwoździe, Plik Ulotek, Zestaw do Pisania
+
+Agitator - Brąz 2
+Umiejętności: Dowodzenie, Hazard, Intuicja, Opanowanie, Unik, Występy (Gawędziarstwo)
+Talenty: Mówca, Porywająca Gorliwość, Przekonujący, Ulicznik
+Wyposażenie: Skórzana Kurta
+
+Podżegacz - Brąz 3
+Umiejętności: Atletyka, Broń Biała (Bijatyka), Percepcja, Zastraszanie
+Talenty: Chodu!, Cios Poniżej Pasa, Gładkie Słówka, Zejście z Linii
+Wyposażenie: Broń Ręczna, Pomocny Pamflecista
+
+Demagog - Brąz 5
+Umiejętności: Jeździectwo (Konie), Wiedza (Heraldyka)
+Talenty: Charyzmatyczny, Etykieta (Dowolna Grupa), Intrygant, Krasomówstwo
+Wyposażenie: Imponujący Kapelusz, Patron, Prasa Drukarska, Trzech Pamflecistów
+
+Pamflecista - Brąz 1
+Umiejętności: Charyzma, Mocna Głowa, Plotkowanie, Przekupstwo, Rzemiosło (Drukarstwo), Sztuka (Pisarstwo), Targowanie, Wiedza (Polityka)
+Talenty: Czytanie/Pisanie, Gadanina, Naciągacz, Towarzyski
+Wyposażenie: Młotek i Gwoździe, Plik Ulotek, Zestaw do Pisania
+
+Agitator - Brąz 2
+Umiejętności: Dowodzenie, Hazard, Intuicja, Opanowanie, Unik, Występy (Gawędziarstwo)
+Talenty: Mówca, Porywająca Gorliwość, Przekonujący, Ulicznik
+Wyposażenie: Skórzana Kurta
+
+Podżegacz - Brąz 3
+Umiejętności: Atletyka, Broń Biała (Bijatyka), Percepcja, Zastraszanie
+Talenty: Chodu!, Cios Poniżej Pasa, Gładkie Słówka, Zejście z Linii
+Wyposażenie: Broń Ręczna, Pomocny Pamflecista
+
+Demagog - Brąz 5
+Umiejętności: Jeździectwo (Konie), Wiedza (Heraldyka)
+Talenty: Charyzmatyczny, Etykieta (Dowolna Grupa), Intrygant, Krasomówstwo
+Wyposażenie: Imponujący Kapelusz, Patron, Prasa Drukarska, Trzech Pamflecistów
+
+Przekupka - Srebro 1
+Umiejętności: Charyzma, Hazard, Mocna Głowa, Powożenie, Plotkowanie, Targowanie, Unik, Wspinaczka
+Talenty: Ulicznik, Niegodny Uwagi, Etykieta (Słudzy), Krzepki
+Wyposażenie: Mieszkanie na Mieście, Mocne Buty
+
+Mieszczka - Srebro 2
+Umiejętności: Broń Biała (Bijatyka), Intuicja, Muzyka (Dowolna), Przekupstwo, Wiedza (Lokalna), Wycena
+Talenty: Defraudant, Etykieta (Dowolna Grupa), Towarzyski, Żyłka Handlowa
+Wyposażenie: Skromna Kamienica, Służący, Pióro i Kałamarz
+
+Rajca Miejski - Srebro 5
+Umiejętności: Badania Naukowe, Opanowanie, Percepcja, Wiedza (Prawo)
+Talenty: Czytanie/Pisanie, Łapówkarz, Mówca, Pomocny
+Wyposażenie: Powóz z Woźnicą, Kamienica
+
+Burmistrz - Złoto 1
+Umiejętności: Wiedza (Polityka), Zastraszanie
+Talenty: Charyzmatyczny, Intrygant, Krasomówstwo, Władcza Postura
+Wyposażenie: Dobre Ubranie, Duża Kamienica z Ogrodami i Służbą, Powóz z Lokajem, Sieć Biur
+
+Czeladnik - Brąz 2
+Umiejętności: Atletyka, Opanowanie, Mocna Głowa, Unik, Odporność, Wycena, Skradanie (Miasto), Rzemiosło (Dowolne)
+Talenty: Bardzo Silny, Mocne Plecy, Talent Artystyczny, Wytwórca (Dowolne Rzemiosło)
+Wyposażenie: Kreda, Skórzany Kaftan, k10 Szmat
+
+Rzemieślnik - Srebro 1
+Umiejętności: Charyzma, Język (Cechu), Percepcja, Plotkowanie, Targowanie, Wiedza (Lokalna)
+Talenty: Etykieta (Członkowie Cechu), Tragarz, Zręczny, Żyłka Handlowa
+Wyposażenie: Licencja Cechu, Narzędzia Pracy
+
+Mistrz Rzemiosła - Srebro 3
+Umiejętności: Badania Naukowe, Dowodzenie, Intuicja, Sekretne Znaki (Cechu)
+Talenty: Czytanie/Pisanie, Mistrz Rzemiosła (Dowolne), Wyczulony Zmysł (Smak albo Dotyk), Złota Rączka
+Wyposażenie: Uczeń, Warsztat
+
+Mistrz Cechu - Złoto 1
+Umiejętności: Przekupstwo, Zastraszanie
+Talenty: Arcydzieło, Intrygant, Łapówkarz, Mówca
+Wyposażenie: Cech, Dobre Ubranie
+
+Rekrut Straży - Brąz 3
+Umiejętności: Atletyka, Broń Biała (Dowolna), Hazard, Mocna Głowa, Odporność, Percepcja, Unik, Wspinaczka
+Talenty: Ogłuszenie, Musztra, Twardziel, Wytrwały
+Wyposażenie: Broń Ręczna, Mundur, Skórzana Kurta
+
+Strażnik - Srebro 1
+Umiejętności: Charyzma, Intuicja, Opanowanie, Plotkowanie, Wiedza (Lokalna), Zastraszanie
+Talenty: Przestępca, Szybkobiegacz, Widzenie w Ciemności, Wtargnięcie z Włamaniem
+Wyposażenie: Latarnia na Drągu, Lampa Oliwna, Miedziana Odznaka
+
+Sierżant Straży - Srebro 3
+Umiejętności: Dowodzenie, Targowanie, Wiedza (Prawo), Występy (Gawędziarstwo)
+Talenty: Etykieta (Żołnierze), Nieustraszony (Przestępcy), Nos do Kłopotów, Rozbrojenie
+Wyposażenie: Hełm, Napierśnik, Symbol Rangi
+
+Kapitan Straży - Złoto 1
+Umiejętności: Wiedza (Polityka), Jeździectwo (Konie)
+Talenty: Krzepki, Intrygant, Mówca, Szycha
+Wyposażenie: Dobra Broń Ręczna, Dobry Kapelusz, Imponujący Symbol Rangi, Koń Wierzchowy z Rzędem
+
+Łowca Szczurów - Brąz 3
+Umiejętności: Atletyka, Tresura (Psy), Oswajanie, Mocna Głowa, Odporność, Broń Biała (Podstawowa), Broń Zasięgowa (Proca), Skradanie (Miasto albo Podziemia)
+Talenty: Odporny na (Choroby), Ogłuszenie, Silny Cios, Widzenie w Ciemności
+Wyposażenie: Mały, ale Zajadły Pies, Proca z Amunicją, Worek
+
+Szczurołap - Srebro 1
+Umiejętności: Opieka nad Zwierzętami, Percepcja, Plotkowanie, Targowanie, Wiedza (Trucizny), Zastawianie Pułapek
+Talenty: Etykieta (Członkowie Cechu), Nieustraszony (Szczury), Niezwykle odporny, Walka w Ciasnocie
+Wyposażenie: Sidła na zwierzęta, Drąg na martwe szczury
+
+Strażnik Kanałów - Srebro 2
+Umiejętności: Broń Zasięgowa (Kusza Pistoletowa), Opanowanie, Unik, Wspinaczka
+Talenty: Silne Nogi, Szczur Kanałowy, Twardziel, Waleczne Serce
+Wyposażenie: Lampa Davricha, Broń Ręczna, Skórzana Kurta
+
+Tępiciel - Srebro 3
+Umiejętności: Dowodzenie, Tropienie
+Talenty: Groźny, Krzepki, Odporność Psychiczna, Nieustraszony (Skaveny)
+Wyposażenie: Asystent, Duży i Zajadły Pies, Worek Zatrutej Przynęty (10 Porcji Sercoboju)
+
+Szpicel - Srebro 1
+Umiejętności: Charyzma, Intuicja, Opanowanie, Percepcja, Plotkowanie, Skradanie (Miasto), Tropienie, Wspinaczka
+Talenty: Czytanie/Pisanie, Czujny, Niegodny Uwagi, Ulicznik
+Wyposażenie: Dziennik, Lampa Oliwna, Latarnia, Pióro i Kałamarz
+
+Śledczy - Srebro 2
+Umiejętności: Broń Biała (Bijatyka), Mocna Głowa, Otwieranie Zamków, Unik, Wiedza (Prawo), Zwinne Palce
+Talenty: Błyskotliwość, Cień, Etykieta (Dowolna Grupa), Wytrwały
+Wyposażenie: Broń Ręczna, Lupa, Skórzana Kurta, Wytrych
+
+Mistrz Śledczy - Srebro 3
+Umiejętności: Dowodzenie, Przekupstwo, Wiedza (Dowolna), Wycena
+Talenty: Charyzmatyczny, Szósty Zmysł, Mól Książkowy, Wtargnięcie z Włamaniem
+Wyposażenie: Asystent, Biuro
+
+Detektyw - Srebro 5
+Umiejętności: Wiedza (Dowolna), Zastraszanie
+Talenty: Szybkie Czytanie, Wieża Pamięci, Wyczulony Zmysł (Dowolny), Znawca (Dowolna Dziedzina)
+Wyposażenie: Luneta, Sieć Informatorów
+
+Biedak - Brąz 0
+Umiejętności: Atletyka, Charyzma, Intuicja, Mocna Głowa, Odporność, Opanowanie, Skradanie (Miasto), Unik
+Talenty: Naciągacz, Niezwykle Odporny, Odporny na (Choroby), Wstrzemięźliwy Wyposażenie: Podłej Jakości Koc, Kubek
+
+Żebrak - Brąz 2
+Umiejętności: Percepcja, Plotkowanie, Targowanie, Występy (Aktorstwo), Występy (Dowolne), Zwinne Palce
+Talenty: Etykieta (Przestępcy), Niegodny Uwagi, Przestępca, Ulicznik
+Wyposażenie: Kule do Chodzenia, Miska
+
+Mistrz Żebraków - Brąz 4
+Umiejętności: Dowodzenie, Oswajanie, Sekretne Znaki (Włóczykijów),Wiedza (Lokalna)
+Talenty: Cios Poniżej Pasa, Gadanina, Twardziel, Zejście z Linii
+Wyposażenie: Kryjówka, Towarzyszący Biedak, Zestaw do Charakteryzacji
+
+Król Żebraków - Srebro 2
+Umiejętności: Przekupstwo, Zastraszanie
+Talenty: Charyzmatyczny, Gładkie Słówka, Nieustraszony (Strażnicy), Szycha
+Wyposażenie: Kryjówka, Duża Grupa Towarzyszących Żebraków
+
+Uczennica Artysty - Srebro 1
+Umiejętności: Mocna Głowa, Odporność, Opanowanie,
+Percepcja, Plotkowanie, Skradanie (Miasto), Sztuka (Dowolna), Wycena
+Talenty: Czujny, Mocne Plecy, Talent Artystyczny, Wytrwały
+Wyposażenie: Dłuto albo Pędzel, albo Pióro
+
+Artystka - Srebro 3
+Umiejętności: Język (Klasyczny), Hazard, Intuicja, Targowanie, Wspinaczka, Rzemiosło (Przybory dla artystów)
+Talenty: Hulaka, Przestępca, Towarzyski, Zręczny
+Wyposażenie: Torba na Ramię Zawierająca Narzędzia Pracy (Artysty)
+
+Mistrzyni Sztuki - Srebro 5
+Umiejętności: Charyzma, Dowodzenie, Wiedza (Sztuka), Wiedza (Heraldyka)
+Talenty: Etykieta (Dowolna Grupa), Nos do Kłopotów, Wyczulony Zmysł (Dowolny), Żyłka Handlowa
+Wyposażenie: Patron, Uczeń, Warsztat (Artysty)
+
+Maestro - Złoto 2
+Umiejętności: Badania Naukowe, Jeździectwo (Konie)
+Talenty: Arcydzieło, Czytanie/Pisanie, Oburęczność, Szycha
+Wyposażenie: Biblioteka (Sztuka), Duży Warsztat (Artysty), 3 Uczniów
+
+Asystent - Srebro 2
+Umiejętności: Język (Klasyczny), Mocna Głowa, Odporność, Percepcja, Plotkowanie, Przekupstwo, Targowanie, Wiedza (Polityka)
+Talenty: Czytanie/Pisanie, Etykieta (Dowolna Grupa), Niegodny Uwagi, Towarzyski
+Wyposażenie: Zestaw do Pisania
+
+Doradca - Srebro 4
+Umiejętności: Hazard, Intuicja, Opanowanie, Przekonywanie, Wiedza (Lokalna), Wycena
+Talenty: Gadanina, Intrygant, Pomocny, Przestępca
+Wyposażenie: Liberia
+
+Radca - Złoto 1
+Umiejętności: Dowodzenie, Język (Dowolny), Wiedza (Dowolna), Występy (Gawędziarstwo)
+Talenty: Gładkie Słówka, Hulaka, Łapówkarz, Przekonujący
+Wyposażenie: Asystent, Dobre Ubranie
+
+Kanclerz - Złoto 3
+Umiejętności: Jeździectwo (Konie),Wiedza (Heraldyka)
+Talenty: Charyzmatyczny, Defraudant, Szycha, Władcza Postura
+Wyposażenie: Dobry Strój Dworski, Koń Wierzchowy z Rzędem, Zespół Doradców i Asystentów
+
+Nadzorca - Srebro 1
+Umiejętności: Atletyka, Intuicja, Mocna Głowa, Opanowanie, Odporność, Oswajanie, Percepcja, Wiedza (Lokalna)
+Talenty: Czujny, Groźny, Ogłuszenie, Widzenie w Ciemności
+Wyposażenie: Klucze, Lampa Oliwna, Latarnia, Liberia
+
+Namiestnik - Srebro 3
+Umiejętności: Broń Biała (Podstawowa), Broń Zasięgowa (Łuk), Jeździectwo (Konie), Opieka nad Zwierzętami, Pływanie, Sztuka Przetrwania
+Talenty: Posłuch u Zwierząt, Etykieta (Słudzy), Doświadczony Wędrowiec (Dowolne), Włóczykij
+Wyposażenie: Broń Ręczna albo Łuk z 10 Strzałami, Koń Wierzchowy z Rzędem, Skórzana Kurta
+
+Seneszal - Złoto 1
+Umiejętności: Charyzma, Plotkowanie, Przekupstwo, Przywództwo
+Talenty: Czytanie/Pisanie, Defraudant, Numizmatyka, Pomocny
+Wyposażenie: Ceremonialne Berło, Grupa Nadzorców i Namiestników, Napierśnik
+
+Gubernator - Złoto 3
+Umiejętności: Język (Dowolny),Wycena
+Talenty: Charyzmatyczny, Etykieta (Dowolna Grupa), Władcza Postura, Znawca (Wiedza Lokalna)
+Wyposażenie: Asystent, Rezydencja Gubernatora, Służący
+
+Herold - Srebro 2
+Umiejętności: Atletyka, Charyzma, Intuicja, Jeździectwo (Konie), Odporność, Powożenie, Unik, Wioślarstwo
+Talenty: Charyzmatyczny, Czytanie/Pisanie, Etykieta (Szlachta), Gadanina
+Wyposażenie: Liberia, Skórzana Kurta, Tuba na Zwoje
+
+Poseł - Srebro 4
+Umiejętności: Opanowanie, Plotkowanie, Przekupstwo, Sztuka (Pisarstwo), Targowanie, Wiedza (Polityka)
+Talenty: Atrakcyjny, Gładkie Słówka, Etykieta (Dowolna Grupa), Doświadczony Wędrowiec
+Wyposażenie: Pióro i Kałamarz, 10 Arkuszy Pergaminu
+
+Dyplomata - Złoto 2
+Umiejętności: Dowodzenie, Język (Dowolny), Nawigacja, Zastraszanie
+Talenty: Hulaka, Intrygant, Towarzyski, Żyłka Handlowa
+Wyposażenie: Asystent, Dobre Ubranie, Mapa
+
+Ambasador - Złoto 5
+Umiejętności: Język (Dowolny), Wiedza (Dowolna)
+Talenty: Błękitna Krew, Błyskotliwość, Łapówkarz, Władcza Postura
+Wyposażenie: Asystent, Strój Dworski Najlepszej Jakości, Ekipa Dyplomatów, Herold
+
+Posługacz - Srebro 1
+Umiejętności: Atletyka, Intuicja, Odporność, Percepcja, Powożenie, Skradanie (Dowolne), Unik, Wspinaczka
+Talenty: Krzepki, Mocne Plecy, Niegodny Uwagi, Odporność Psychiczna
+Wyposażenie: Szczotka do Podłogi
+
+Służący - Srebro 3
+Umiejętności: Hazard, Mocna Głowa, Opieka nad Zwierzętami, Plotkowanie, Targowanie, Wycena
+Talenty: Cień, Dobrze Przygotowany, Etykieta (Słudzy), Wytrwały
+Wyposażenie: Liberia
+
+Lokaj - Srebro 5
+Umiejętności: Charyzma, Wiedza (Lokalna), Zastraszanie
+Talenty: Charyzmatyczny, Defraudant, Odporny na (Trucizny), Pomocny
+Wyposażenie: Lampa Oliwna, Lampa Sztormowa, Liberia Dobrej Jakości, Pudełko na Hubkę i Krzesiwo
+
+Ochmistrz - Złoto 1
+Umiejętności: Broń Biała (Podstawowa), Dowodzenie
+Talenty: Błyskotliwość, Czytanie/Pisanie, Etykieta (Dowolna Grupa), Numizmatyka
+Wyposażenie: Broń Ręczna, Dobre Ubranie, Służący
+
+Dziedzic - Złoto 1
+Umiejętności: Broń Biała (Szermiercza), Hazard, Dowodzenie, Mocna Głowa, Muzyka (Dowolna), Przekupstwo, Wiedza (Heraldyka), Zastraszanie
+Talenty: Błękitna Krew, Czytanie/Pisanie, Etykieta (Szlachta), Szczęście
+Wyposażenie: Biżuteria warta 3k10 ZK, Dworski Strój, Lusterko Ręczne albo Floret, Osobisty Służący
+
+Szlachcic - Złoto 3
+Umiejętności: Broń Biała (Parująca), Charyzma, Język (Klasyczny), Jeździectwo (Konie), Plotkowanie, Wiedza (Lokalna)
+Talenty: Atrakcyjny, Charyzmatyczny, Hulaka, Łapówkarz
+Wyposażenie: Biżuteria warta 50 ZK, Dobry Płaszcz albo Lewak, Dworski Strój Dobrej Jakości, Dworski Strój, Koń Wierzchowy z Rzędem albo Powóz, 4 Służący Domowi
+
+Magnat - Złoto 5
+Umiejętności: Intuicja, Język (Dowolny), Percepcja, Wiedza (Polityka)
+Talenty: Intrygant, Mówca, Zimna krew, Żyłka handlowa
+Wyposażenie: Biżuteria warta 200 ZK, Lenno, Sygnet, 2 Komplety Strojów Dworskich Dobrej Jakości, 200 ZK
+
+Lord - Złoto 7
+Umiejętności: Tropienie, Wiedza (Dowolna)
+Talenty: Majętny, Władcza Postura, Wódz, Żelazna Wola
+Wyposażenie: Biżuteria warta 500 ZK, Lusterko Ręczne albo Floret Dobrej Jakości, 500 ZK, 4 Komplety Strojów Dworskich Najlepszej Jakości, Prowincja
+
+Informator - Brąz 3
+Umiejętności: Charyzma, Hazard, Opanowanie, Percepcja, Plotkowanie, Przekupstwo, Skradanie (Dowolne), Targowanie
+Talenty: Cień, Gadanina, Hulaka, Towarzyski
+Wyposażenie: Płaszcz z Kapturem, Torba na Ramię Zawierająca 2 różne Komplety Ubrań, Węgiel do Rysowania
+
+Szpieg - Srebro 3
+Umiejętności: Broń Biała (Podstawowa), Intuicja, Sekretne Znaki (Dowolne), Wspinaczka, Występy (Aktorstwo), Zwinne Palce
+Talenty: Czytanie/Pisanie, Czytanie z Ruchu Warg, Etykieta (Dowolna Grupa), Sekretna Tożsamość
+Wyposażenie: Broń Ręczna, Informator, Sieć Informatorów, Teleskop, Zestaw do Charakteryzacji
+
+Agent - Złoto 1
+Umiejętności: Dowodzenie, Język (Dowolny), Opieka nad Zwierzętami, Tresura (Gołąb)
+Talenty: Atrakcyjny, Gładkie Słówka, Mistrz Charakteryzacji, Naśladowca
+Wyposażenie: Kałamarz i Pióro, Księga (Kryptografia), Sieć Szpiegów i Informatorów, Strych z Gołębiami Pocztowymi
+
+Mistrz Szpiegów - Złoto 4
+Umiejętności: Badania Naukowe, Wiedza (Dowolna)
+Talenty: Charyzmatyczny, Intrygant, Łapówkarz, Wieża Pamięci
+Wyposażenie: Duża Szpiegowska Sieć Agentów, Szpiegów i Informatorów, Kantor z Pracownikami
+
+Szermierz - Srebro 3 w walce.
+Umiejętności: Atletyka, Broń Biała (Dowolna), Intuicja, temu udoskonalić swoje umiejętności walki. Język (Klasyczny), Leczenie, Odporność, Percepcja, Unik
+Talenty: Finta, Rozproszenie Uwagi, Zbicie Broni, Zejście z Linii
+Wyposażenie: Broń Ręczna albo Rapier, Torba na Ramię Zawierająca Ubranie i 1k10 Bandaży
+
+Zwadźca - Srebro 5
+Umiejętności: Broń Biała (Parująca), Broń Zasięgowa (Prochowa), Charyzma, Hazard, Opanowanie, Rzemiosło (Rusznikarz)
+Talenty: Bitewny Refleks, Błyskawiczny Strzał, Etykieta (Dowolna Grupa), Odwrócenie Szans
+Wyposażenie: Lewak albo Łamacz Mieczy, Pistolet z Prochem i Amunicją
+
+Mistrz Pojedynków - Złoto 1
+Umiejętności: Broń Biała (Podstawowa), Dowodzenie, Występy (Akrobatyka), Zastraszanie
+Talenty: Dwie Bronie, Oburęczność, Riposta, Rozbrojenie
+Wyposażenie: Broń Ręczna, Dobry Rapier, 2 Drewniane Miecze Treningowe, Zaufany Sekundant
+
+Szampierz Sądowy - Złoto 3
+Umiejętności: Broń Biała (Dowolna), Wiedza (Prawo)
+Talenty: Atak Wyprzedzający, Groźny, Mistrz Walki, Morderczy Atak
+Wyposażenie: 2 sztuki Broni Dobrej Jakości
+
+Parobek - Brąz 2
+Umiejętności: Atletyka, Broń Biała (Bijatyka), Mocna Głowa, Odporność, Opieka nad Zwierzętami, Plotkowanie, Sztuka Przetrwania, Wiedza (Lokalna)
+Talenty: Mocne Plecy, Odporność Psychiczna, Włóczykij, Wstrzemięźliwy
+Wyposażenie: Brak
+
+Chłop - Brąz 3
+Umiejętności: Broń Biała (Podstawowa), Powożenie, Rzemiosło (Dowolne), Targowanie, Unik, Występy (Gawędziarstwo)
+Talenty: Bardzo Silny, Posłuch u Zwierząt,T wardziel, Wytrwały
+Wyposażenie: Broń Ręczna (Topór), Narzędzia Pracy (Odpowiednie dla Rzemiosła), Skórzany Kaftan
+
+Kmieć - Brąz 4
+Umiejętności: Charyzma, Dowodzenie, Przekupstwo, Zastraszanie
+Talenty: Niezwykle Odporny, Waleczne Serce, Wytwórca (Dowolny), Żyłka Handlowa
+Wyposażenie: Wóz z Mułem, Dom Wiejski z Warsztatem
+
+Starszy Wioskowy - Srebro 2
+Umiejętności: Intuicja, Wiedza (Historia)
+Talenty: Mistrz Rzemiosła (Dowolne), Mówca, Znawca (Wiedza Lokalna), Zręczny
+Wyposażenie: Szacunek Wioski
+
+Poszukiwacz - Brąz 2
+Umiejętności: Broń Biała (Dwuręczna), Intuicja, Odporność, Opanowanie, Percepcja, Pływanie, Sztuka Przetrwania, Wiedza (Lokalna)
+Talenty: Doświadczony Wędrowiec (Teren Skalisty), Tragarz, Włóczykij, Wytrwały
+Wyposażenie: Kiepska Mapa, Panew, Szpadel, Węgiel do Rysowania
+
+Górnik - Brąz 4
+Umiejętności: Broń Biała (Podstawowa), Mocna Głowa,
+Rzemiosło (Materiały Wybuchowe), Sekretne Znaki (Górników), Wspinaczka, Wycena
+Talenty: Bardzo Silny, Mocne Plecy, Silny Cios, Widzenie w Ciemności
+Wyposażenie: Broń Ręczna (Kilof ), Lampa Davricha, Lampa Oliwna, Skórzana Kurta
+
+Mistrz Górniczy - Brąz 5
+Umiejętności: Plotkowanie, Rzemiosło (Inżynieria), Skradanie (Podziemia), Wiedza (Geologia)
+Talenty: Cios Mierzony, Szczur Tunelowy, Wytwórca (Materiały Wybuchowe), Złota Rączka
+Wyposażenie: Hełm, Narzędzia Pracy (Inżyniera), Wielka Broń (Dwuręczny Kilof )
+
+Sztygar - Srebro 4
+Umiejętności: Charyzma, Dowodzenie
+Talenty: Czytanie/Pisanie, Defraudant, Odporność Psychiczna, Przekonujący
+Wyposażenie: Brygada Górników, Zestaw do Pisania
+
+Uczeń Guślarza - Brąz 1
+Umiejętności: Intuicja, Język (Magiczny), Odporność, Percepcja, Splatanie Magii, Sztuka Przetrwania, Wiedza (Ludowa), Wiedza (Zioła)
+Talenty: Magia Prosta, Doświadczony Wędrowiec (Lasy), Ruchliwe Dłonie, Włóczykij
+Wyposażenie: Kostur, Plecak, 1k10 Amuletów na Szczęście
+
+Guślarz - Brąz 2
+Umiejętności: Opanowanie, Plotkowanie, Leczenie, Wiedza (Lokalna), Rzemiosło (Amulety), Rzemiosło (Zielarz)
+Talenty: Magia Tajemna (Guślarstwo), Posłuch u Zwierząt, Szósty Zmysł, Zmysł Magii
+Wyposażenie: Kataplazm Leczniczy, Narzędzia Pracy (Zielarza), Zestaw do Leczenia Zatruć
+
+Starszy Guślarzy - Brąz 3
+Umiejętności: Targowanie, Wiedza (Duchy), Wiedza (Genealogia), Wiedza (Magia)
+Talenty: Czysta Dusza, Odporny na (Choroby), Wykrywanie Magii, Wytwórca (Zielarz)
+Wyposażenie: Odosobniona Chata, Uczeń
+
+Wiedzący - Brąz 5
+Umiejętności: Modlitwa, Zastraszanie
+Talenty: Mistrz Rzemiosła (Zielarz), Odporność Psychiczna, Widzenie w Ciemności, Wyczulony Zmysł (Dowolny)
+Wyposażenie: Ceremonialny Płaszcz z Wiankiem, Zbiór Zwierzęcych Czaszek
+
+Traper - Brąz 2
+Umiejętności: Broń Zasięgowa (Proca), Odporność, Oswajanie, Percepcja, Sztuka Przetrwania, Wiedza (Zwierzęta), Wspinaczka, Zastawianie Pułapek
+Talenty: Doświadczony Wędrowiec (Dowolny Teren), Traper, Twardziel, Włóczykij
+Wyposażenie: Broń Ręczna, Mocne Buty i Płaszcz, Wybór Sideł na Zwierzęta, Proca z 10 Kamiennymi Pociskami
+
+Łowca - Brąz 4
+Umiejętności: Broń Biała (Podstawowa), Broń Zasięgowa (Łuk), Intuicja, Opanowanie, Sekretne Znaki (Łowców), Skradanie (Wieś)
+Talenty: Błyskawiczny Strzał, Celny Strzał, Oko Łowcy, Strzelec Wyborowy
+Wyposażenie: Łuk z 10 Strzałami
+
+Tropiciel - Srebro 1
+Umiejętności: Jeździectwo (Konie), Nawigacja, Pływanie, Tropienie
+Talenty: Nieustraszony (Zwierzęta), Prosto Między Oczy, Strzał w Dziesiątkę, Wyczulony Zmysł (Dowolny)
+Wyposażenie: Namiot, Plecak, Zwijane Posłanie
+
+Mistrz Łowów - Srebro 3
+Umiejętności: Opieka nad Zwierzętami, Tresura (Dowolna)
+Talenty: Krzepki, Nieustraszony (Potwory), Snajper, Strzał Przebijający
+Wyposażenie: Koń Wierzchowy z Rzędem, Psiarnia z Psami Łowieckimi
+
+Wróżbiarz - Brąz 1
+Umiejętności: Charyzma, Intuicja, Percepcja, Plotkowanie, Targowanie, Unik, Występy (Wróżenie), Zwinne Palce
+Talenty: Atrakcyjny, Charyzmatyczny, Percepcja Magiczna, Szczęście
+Wyposażenie: Talia Kart albo Zestaw Kości,Tania Biżuteria
+
+Mistyk - Brąz 2
+Umiejętności: Opanowanie, Przekupstwo, Wiedza (Astrologia), Wycena, Występy (Proroctwa), Zastraszanie
+Talenty: Dobrze Przygotowany, Rozpoznanie Artefaktu, Szósty Zmysł, Święte Wizje
+Wyposażenie: Wybór Amuletów
+
+Mędrzec - Brąz 3
+Umiejętności: Język (Dowolny), Oswajanie, Sztuka (Pisarstwo), Występy (Gawędziarstwo)
+Talenty: Czarownica!, Czytanie/Pisanie, Magia Prosta, Nos do Kłopotów
+Wyposażenie: Narzędzia Pracy (Pisarza)
+
+Prorok - Brąz 4
+Umiejętności: Splatanie Magii (Azyr), Wiedza (Proroctwa)
+Talenty: Groźny, Odporność Psychiczna, Magia Tajemna (Niebios), Wykrywanie Magii
+Wyposażenie: Narzędzia Pracy (Astrologa)
+
+Poborca Podatków - Srebro 1
+Umiejętności: Broń Biała (Podstawowa), Odporność, Opanowanie, Percepcja, Plotkowanie, Targowanie, Unik, Zastraszanie
+Talenty: Defraudant, Mocne plecy, Numizmatyka, Wytrwały
+Wyposażenie: Broń Ręczna, Mała Zamykana Szkatułka
+
+Zarządca - Srebro 5
+Umiejętności: Dowodzenie, Intuicja, Przekupstwo, Przekonywanie, Wiedza (Lokalna), Wycena
+Talenty: Ogłuszenie, Przemawianie, Przestępca, Wtargnięcie z Włamaniem
+Wyposażenie: Skórzana Kurta, 3 Poborców Podatków
+
+Włodarz - Złoto 1
+Umiejętności: Jeździectwo (Konie), Nawigacja, Opieka nad Zwierzętami, Wiedza (Heraldyka)
+Talenty: Czytanie/Pisanie, Groźny, Nos do Kłopotów, Szycha
+Wyposażenie: Koń z Siodłem i Uprzężą, Napierśnik, Zarządca
+
+Komornik - Złoto 3
+Umiejętności: Język (Klasyczny), Wiedza (Prawo)
+Talenty: Błyskotliwość, Intrygant, Władcza Postura, Żelazna Wola
+Wyposażenie: Biblioteka (Prawo), Pieczęć Urzędowa, Szata Dobrej Jakości
+
+Zbieraczka Ziół - Brąz 2
+Umiejętności: Odporność, Oswajanie, Percepcja, Pływanie, Rzemiosło (Zielarz), Sztuka Przetrwania, Wiedza (Zioła), Wspinaczka
+Talenty: Doświadczony Wędrowiec (Dowolny Teren), Włóczykij, Wyczucie Kierunku, Wyczulony Zmysł (Smak)
+Wyposażenie: Buty, Płaszcz, Torba na Ramię Zawierająca Wybór Ziół
+
+Zielarka - Brąz 4
+Umiejętności: Leczenie, Mocna Głowa, Opanowanie, Plotkowanie, Targowanie, Wiedza (Lokalna)
+Talenty: Czujny, Tragarz, Zręczne Palce, Żyłka Handlowa
+Wyposażenie: Broń Ręczna (Sierp), Kataplazm Leczniczy, Narzędzia Pracy (Zielarza)
+
+Mistrzyni Ziołolecznictwa - Srebro 1
+Umiejętności: Dowodzenie, Intuicja, Rzemiosło (Trucizny), Wiedza (Medycyna)
+Talenty: Błyskotliwość, Pierwsza Pomoc, Twardziel, Wytwórca (Zielarz)
+Wyposażenie: Mikstura Lecznicza, Warsztat (Zielarza), Zbieracz Ziół, 3 Kataplazmy Lecznicze
+
+Arcyzielarka - Srebro 3
+Umiejętności: Powożenie, Nawigacja
+Talenty: Mistrz Rzemiosła (Zielarstwo), Odporny na (Trucizny), Przyrządzanie Mikstur, Znawca (Zioła)
+Wyposażenie: Wóz z Kucem
+
+Przewodnik - Brąz 3
+Umiejętności: Broń Biała (Podstawowa), Odporność, Oswajanie, Percepcja, Plotkowanie, Sztuka Przetrwania, Wiedza (Lokalna), Wspinaczka
+Talenty: Czujny, Doświadczony Wędrowiec (Dowolny Teren), Włóczykij, Wyczucie Kierunku
+Wyposażenie: Broń Ręczna, Lina, Mocne Buty i Płaszcz, Skórzana Kurta
+
+Zwiadowca - Brąz 5
+Umiejętności: Atletyka, Broń Zasięgowa (Łuk), Jeździectwo (Konie), Nawigacja, Skradanie (Wieś), Tropienie
+Talenty: Nos do Kłopotów, Obieżyświat, Widzenie w Ciemności, Zmysł Bitewny
+Wyposażenie: Łuk i 10 Strzał, Kaftan Kolczy
+
+Przepatrywacz - Srebro 1
+Umiejętności: Opieka nad Zwierzętami, Pływanie, Sekretne Znaki (Łowców), Targowanie
+Talenty: Niezwykle Odporny, Silne Nogi, Szósty Zmysł, Wyczulony Zmysł (Wzrok)
+Wyposażenie: Koń Wierzchowy z Rzędem, Juki z Prowiantem na 2 Tygodnie, Mapa, Namiot
+
+Odkrywca - Srebro 5
+Umiejętności: Język (Dowolny), Rzemiosło (Kartograf )
+Talenty: Poliglota, Twardziel, Wytrwały, Znawca (Wiedza Lokalna)
+Wyposażenie: Wybór Map, Narzędzia Pracy (Kartografa)
+
+Gorliwiec - Brąz 0
+Umiejętności: Broń Biała (Korbacz), Intuicja, Leczenie, Odporność, Sztuka Przetrwania, Unik, Wiedza (Sigmar), Zastraszanie
+Talenty: Berserkerska Szarża, Czytanie/Pisanie, Szał Bojowy, Wstrzemięźliwy
+Wyposażenie: Korbacz, Postrzępione Odzienie
+
+Biczownik - Brąz 0
+Umiejętności: Atletyka, Broń Zasięgowa (Proca), Język (Klasyczny), Opanowanie, Sztuka (Ikony), Wiedza (Imperium)
+Talenty: Biczownik, Nienawiść (Heretycy), Nieubłagany, Twardziel
+Wyposażenie: Symbol Religijny, Proca, Tabliczka
+
+Pokutnik - Brąz 0
+Umiejętności: Charyzma, Język (Dowolny), Percepcja, Wiedza (Teologia)
+Talenty: Groźny, Obieżyświat, Pierwsza Pomoc, Wściekły Atak
+Wyposażenie: Relikwia
+
+Piewca Zagłady - Brąz 0
+Umiejętności: Dowodzenie, Występy (Przemowy)
+Talenty: Bitewna Furia, Nieustraszony (Heretycy), Porywająca Gorliwość, Straszny
+Wyposażenie: Księga (Religia), Towarzysze (włącznie z Pokutnikami, Biczownikami i Gorliwcami)
+
+Włóczykij - Brąz 1
+Umiejętności: Charyzma, Intuicja, Odporność, Plotkowanie, Skradanie (Miasto albo Wieś), Sztuka Przetrwania, Targowanie, Występy (Gawędziarstwo)
+Talenty: Chodu!, Rybak, Włóczykij, Złota Rączka
+Wyposażenie: Plecak, Namiot, Zwijane Posłanie, Towary warte 2k10 Brązowych Monet
+
+Domokrążca - Brąz 4
+Umiejętności: Jeździectwo (Konie), Mocna Głowa, Opieka nad Zwierzętami, Oswajanie, Rzemiosło (Złota Rączka), Wycena
+Talenty: Mocne Plecy, Obieżyświat, Wyczucie Kierunku, Żyłka Handlowa
+Wyposażenie: Muł z Jukami, Narzędzia Pracy (Złotej Rączki), Wybór Rondli i Patelni, Towary warte 2k10 Srebrnych Monet
+
+Mistrz Domokrążców - Srebro 1
+Umiejętności: Język (Dowolny), Percepcja, Powożenie, Zastraszanie
+Talenty: Dobrze Przygotowany, Niezwykle Odporny, Numizmatyka, Tragarz
+Wyposażenie: Wóz, Towary warte co najmniej 2k10 Złotych Monet
+
+Wędrowny Handlarz - Srebro 3
+Umiejętności: Wiedza (Geografia), Wiedza (Lokalna)
+Talenty: Charyzmatyczny, Gładkie Słówka, Odporność Psychiczna, Wytrwały
+Wyposażenie: Wóz z Koniem Pociągowym, Towary warte co najmniej 5k10 Złotych i 50 Srebrnych Monet
+
+Grajek Uliczny - Brąz 3
+Umiejętności: Atletyka, Charyzma, Kuglarstwo (Dowolne) Muzyka (Dowolna), Plotkowanie, Targowanie, Występy(Dowolne)
+Talenty: Atrakcyjny, Charyzmatyczny, Naśladowca, Mówca społeczności
+Wyposażenie: Instrument, Miska.
+
+Kuglarz - Brąz 5
+Umiejętności: Broń Biała (Podstawowa), Broń Zasięgowa(Rzucana), Jeździectwo (Dowolne), Kuglarstwo (Dowolne), Muzyka (Dowolna), Występy (Dowolne)
+Talenty: Człowiek Guma, Sprężynka, Strzał w Dziesiątkę, Woltyżerka
+Wyposażenie: Broń Rzucana (kilka sztuk), Kostium, Instrument, Wybór Scenariuszy (których jeszcze nie możesz przeczytać)
+
+Trubadur - Srebro 3
+Umiejętności: Język (Dowolny), Opieka nad Zwierzętami, Sztuka (Pisarstwo), Tresura (Dowolne)
+Talenty: Czytanie/Pisanie, Gadanina, Mistrz Charakteryzacji, Słuch Absolutny
+Wyposażenie: Tresowane Zwierzę, Zestaw do Pisania
+
+Kierownik Trupy - Złoto 1
+Umiejętności: Dowodzenie, Powożenie
+Talenty: Czujny, Etykieta (Dowolna Grupa), Obieżyświat, Żyłka Handlowa
+Wyposażenie: Garderoba z Kostiumami i Rekwizytami, Trupa Kuglarzy, Wóz (Scena) z Końmi Pociągowymi
+
+Oprawca - Srebro 1
+Umiejętności: Broń Biała (Bijatyka), Charyzma, Intuicja, Leczenie, Mocna Głowa, Percepcja, Wiedza (Tortury), Zastraszanie
+Talenty: Czytanie/Pisanie, Groźny, Nieugięty, Zimna Krew
+Wyposażenie: Broń Ręczna, Narzędzia Tortur
+
+Łowca Czarownic - Srebro 3
+Umiejętności: Broń Biała (Dowolna), Broń Zasięgowa (Dowolna), Jeździectwo (Konie), Opanowanie, Plotkowanie, Wiedza (Czarownice)
+Talenty: Cień, Dwie Bronie, Obieżyświat, Percepcja Magiczna, Strzelec Wyborowy
+Wyposażenie: Kapelusz (Kornet), Koń Wierzchowy z Rzędem, Kusza Pistoletowa albo Pistolet, Lina, Posrebrzany Miecz, Skórzana Kurta
+
+Inkwizytor - Srebro 5
+Umiejętności: Dowodzenie, Odporność, Wiedza (Lokalna), Wiedza (Prawo)
+Talenty: Odporność Psychiczna, Nieustępliwy, Nieustraszony (Czarownice), Nos do Kłopotów
+Wyposażenie: Podwładni Oprawcy, Ubranie Dobrej Jakości
+
+Generał Łowców Czarownic - Złoto 1
+Umiejętności: Wiedza (Chaos), Wiedza (Polityka)
+Talenty: Czysta Dusza, Straszny, Wykrywanie Magii, Żelazna Wola
+Wyposażenie: Podwładni Łowcy Czarownic, Strój Dworski Najlepszej Jakości
+
+Pogromczyni Złodziei - Srebro 1
+Umiejętności: Broń Biała (Podstawowa), Charyzma, Intuicja, Percepcja, Plotkowanie, Przekupstwo, Sztuka Przetrwania, Targowanie
+Talenty: Charyzmatyczny, Cień, Ogłuszenie, Wtargnięcie z Włamaniem
+Wyposażenie: Broń Ręczna, Lina, Skórzany Kaftan
+
+Łowczyni Nagród - Srebro 3
+Umiejętności: Atletyka, Broń Zasięgowa (Kusza), Broń Zasięgowa (Unieruchamiająca), Odporność, Tropienie, Zastraszanie
+Talenty: Mocne Plecy, Nieustępliwy, Obieżyświat, Strzelec Wyborowy
+Wyposażenie: Glejty, Kajdany, Kusza i 10 Bełtów, Skórzany Hełm, Sieć
+
+Mistrzyni Łowców Nagród - Srebro 5
+Umiejętności: Jeździectwo (Konie), Opieka nad Zwierzętami, Pływanie, Wspinaczka
+Talenty: Celny Strzał, Cios Mierzony, Dwie Bronie, Szybkobiegacz
+Wyposażenie: Kaftan Kolczy, Koń Wierzchowy z Siodłem
+
+Legenda Łowców Nagród - Złoto 1
+Umiejętności: Powożenie, Wiedza (Prawo)
+Talenty: Prosto Między Oczy, Nieustraszony (Cele Łowów), Twardziel, Strzał Przebijający
+Wyposażenie: Kaftan Kolczy, Powóz z Koniem Pociągowym, 4 pary Kajdan
+
+Goniec - Brąz 3
+Umiejętności: Atletyka, Broń Biała (Bijatyka), Unik, Nawigacja, Odporność, Percepcja, Plotkowanie, Wspinaczka
+Talenty: Bardzo Szybki, Chodu!, Szybkobiegacz, Zejście z Linii
+Wyposażenie: Tuba na Zwoje
+
+Posłaniec - Srebro 1
+Umiejętności: Broń Biała (Podstawowa), Charyzma, Jeździectwo (Konie), Opanowanie, Opieka nad Zwierzętami, Wiedza (Lokalna)
+Talenty: Obieżyświat, Przestępca, Wyczucie Kierunku, Z Bata
+Wyposażenie: Broń Ręczna, Koń Wierzchowy z Rzędem, Skórzana Kurta
+
+Kurier - Srebro 3
+Umiejętności: Mocna Głowa, Oswajanie, Przekupstwo, Sztuka Przetrwania
+Talenty: Nieustępliwy, Nos do Kłopotów, Woltyżerka, Wytrwały
+Wyposażenie: Juki, Plecak, Tarcza
+
+Kapitan Kurierów - Srebro 5
+Umiejętności: Dowodzenie, Zastraszanie
+Talenty: Nienawiść (Banici), Niezwykle Odporny, Szycha, Żyłka Handlowa
+Wyposażenie: Kaftan Kolczy, Kurierzy, Zestaw do Pisania
+
+Mytnik - Brąz 5
+Umiejętności: Broń Biała (Podstawowa), Broń Zasięgowa (Kusza), Hazard, Mocna Głowa, Percepcja, Plotkowanie, Przekupstwo, Targowanie
+Talenty: Defraudant, Numizmatyka, Strzelec Wyborowy, Zimna Krew
+Wyposażenie: Kusza z 10 Bełtami, Skórzana Kurta
+
+Strażnik Dróg - Srebro 2
+Umiejętności: Intuicja, Jeździectwo (Konie), Odporność, Opieka nad Zwierzętami, Sztuka Przetrwania, Zastraszanie
+Talenty: Obieżyświat, Przestępca, Urodzony w Siodle, Z Bata
+Wyposażenie: Broń Ręczna, Kaftan Kolczy, Koń Wierzchowy z Rzędem, Lina
+
+Sierżant Strażników Dróg - Srebro 4
+Umiejętności: Atletyka, Broń Zasięgowa (Prochowa), Charyzma, Dowodzenie
+Talenty: Etykieta (Żołnierze), Nienawiść (Dowolne), Nieustraszony (Banici), Nos do Kłopotów
+Wyposażenie: Drużyna Strażników Dróg, Pistolet z 10 Nabojami, Tarcza, Symbol Rangi
+
+Kapitan Strażników Dróg - Złoto 1
+Umiejętności: Nawigacja, Wiedza (Imperium)
+Talenty: Mówca, Szycha, Władcza Postura, Zmysł Bitewny
+Wyposażenie: Kapelusz i Płaszcz Dobrej Jakości, Lekki
+Koń Bojowy, Pistolet z 10 Nabojami, Oddział Strażników Dróg
+
+Foryś - Srebro 1
+Umiejętności: Broń Zasięgowa (Unieruchamiająca), Jeździectwo (Konie), Odporność, Opieka nad Zwierzętami, Oswajanie, Percepcja, Powożenie, Wspinaczka
+Talenty: Obieżyświat, Posłuch u Zwierząt, Woltyżerka, Wytrwały
+Wyposażenie: Bicz, Ciepły Płaszcz i Rękawice
+
+Woźnica - Srebro 2
+Umiejętności: Broń Zasięgowa (Prochowa), Intuicja, Mocna Głowa, Plotkowanie, Nawigacja, Wiedza (Lokalna)
+Talenty: Artylerzysta, Odporność Psychiczna, Z Bata, Zimna Krew
+Wyposażenie: Garłacz z 10 Nabojami, Kapelusz, Skórzana Kurta, Trąbka od Powozu
+
+Mistrz Woźniców - Srebro 3
+Umiejętności: Język (Dowolny), Tresura (Konie), Wiedza (Szlaki), Zastraszanie
+Talenty: Celny Strzał, Nieustraszony (Banici), Nos do Kłopotów, Żyłka Handlowa
+Wyposażenie: Dobry Płaszcz, Kaftan Kolczy, Pistolet
+
+Mistrz Szlaków - Srebro 5
+Umiejętności: Charyzma, Dowodzenie
+Talenty: Nieustraszony (Zwierzoludzie), Strzelec Wyborowy, Szybkie Przeładowanie, Wyczucie Kierunku
+Wyposażenie: Flota Koni i Powozów, Mapy
+
+Pomocnik Dokera - Brąz 3
+Umiejętności: Atletyka, Broń Biała (Podstawowa), Mocna Głowa, Odporność, Plotkowanie, Pływanie, Unik, Wspinaczka
+Talenty: Bardzo Silny, Cios Poniżej Pasa, Mocne Plecy, Tragarz
+Wyposażenie: Broń Ręczna (Bosak), Skórzane Rękawice
+
+Doker - Srebro 1
+Umiejętności: Hazard, Percepcja, Przekupstwo, Skradanie (Miasto), Występy (Gawędziarstwo), Zastraszanie
+Talenty: Etykieta (Członkowie Cechu), Przestępca, Silne Nogi, Wytrwały
+Wyposażenie: Fajka i Tytoń, Licencja Cechu, Skórzany Kaftan, Czapka Tragarza
+
+Brygadzista - Srebro 3
+Umiejętności: Dowodzenie, Intuicja, Opanowanie, Wycena
+Talenty: Defraudant, Etykieta (Przestępcy), Mówca, Żyłka Handlowa
+Wyposażenie: Gang Dokerów, Gwizdek
+
+Mistrz Dokerów - Srebro 5
+Umiejętności: Charyzma, Wiedza (Podatki)
+Talenty: Czytanie/Pisanie, Groźny, Numizmatyka, Szycha
+Wyposażenie: Kantor z Pracownikami, Zestaw do Pisania
+
+Rybak - Brąz 2
+Umiejętności: Atletyka, Mocna Głowa, Odporność, Plotkowanie, Pływanie, Sztuka Przetrwania, Unik, Wioślarstwo
+Talenty: Doświadczony Wędrowiec (Bagna), Rybak, Świetny Pływak, Towarzyski
+Wyposażenie: Skórzane Nogawice, Wiadro, Wędka z Przynętą
+
+Flisak - Brąz 3
+Umiejętności: Broń Zasięgowa (Rzucana), Broń Zasięgowa (Unieruchamiająca), Hazard, Wiedza (Lokalna), Wiedza (Szlaki Rzeczne), Zastawianie Pułapek
+Talenty: Mocne Plecy, Włóczykij, Wodniak, Wytwórca (Szkutnik)
+Wyposażenie: Pułapka na Węgorze, Skórzany Kaftan, Sieć, Włócznia
+
+Znawca Rzeki - Brąz 5
+Umiejętności: Broń Biała (Drzewcowa), Intuicja, Percepcja, Przekonywanie
+Talenty: Bardzo Silny, Waleczne Serce, Wytrwały, Znawca (Szlaki Rzeczne)
+Wyposażenie: Lampa Sztormowa z Oliwą, Łódź Wiosłowa
+
+Starszy Rzeczny - Srebro 2
+Umiejętności: Wiedza (Ludowa), Występy (Gawędziarstwo)
+Talenty: Czujny, Odporność Psychiczna, Mistrz Rzemiosła (Szkutnictwo), Mówca
+Wyposażenie: Chata lub Szkuta
+
+Przewodnik Rzeczny - Brąz 4
+Umiejętności: Intuicja, Mocna Głowa, Percepcja, Plotkowanie, Pływanie, Wiedza (Lokalna), Wiedza (Szlaki Rzeczne), Wioślarstwo
+Talenty: Rybak, Widzenie w Ciemności, Wodniak, Wyczucie Kierunku
+Wyposażenie: Broń Ręczna (Bosak), Lampa Sztormowa z Oliwą
+
+Pilot Rzeczny - Srebro 1
+Umiejętności: Broń Biała (Podstawowa), Charyzma, Język (Dowolny), Nawigacja, Opanowanie, Występy (Gawędziarstwo)
+Talenty: Etykieta (Cechy), Nos do Kłopotów, Pilot Rzeczny, Żyłka Handlowa
+Wyposażenie: Lina, Łódź Wiosłowa, Skórzany Kaftan
+
+Starszy Pilot - Srebro 3
+Umiejętności: Targowanie, Wiedza (Lokalna), Wiedza (Wraki), Zastraszanie
+Talenty: Bardzo Silny, Pilot, Urodzony Żeglarz, Wyczulony Zmysł (Wzrok),
+Wyposażenie: Drąg, Lampa Sztormowa z Oliwą
+
+Mistrz Pilotów - Srebro 5
+Umiejętności: Dowodzenie, Żeglarstwo
+Talenty: Czujny, Szósty Zmysł, Świetny Pływak, Wytrwały
+Wyposażenie: Chłopiec Pokładowy, Mała Łódź Rzeczna
+
+Szabrownik - Brąz 2
+Umiejętności: Broń Biała (Podstawowa), Mocna Głowa, Odporność, Pływanie, Sztuka Przetrwania, Unik, Wioślarstwo, Wspinaczka
+Talenty: Mocne Plecy, Przestępca, Rybak, Wtargnięcie z Włamaniem
+Wyposażenie: Duży Worek, Łom, Skórzane Rękawice
+
+Pirat Rzeczny - Brąz 3
+Umiejętności: Intuicja, Nawigacja, Opanowanie, Percepcja, Przekupstwo, Zastawianie Pułapek
+Talenty: Chodu!, Świetny Pływak, Traper, Włóczykij
+Wyposażenie: Broń Ręczna (Bosak), Skórzana Kurta, Lampa Sztormowa z Oliwą
+
+Łupieżca - Brąz 5
+Umiejętności: Broń Zasięgowa (Kusza), Plotkowanie, Skradanie (Wieś), Zastraszanie
+Talenty: Cios Poniżej Pasa, Etykieta (Przestępcy), Groźny, Wodniak
+Wyposażenie: Kotwiczka z Liną, Kusza z 10 Bełtami, Łódź Rzeczna
+
+Kapitan Łupieżców - Srebro 2
+Umiejętności: Dowodzenie, Wiedza (Szlaki Wodne)
+Talenty: Pilot, Skrócenie Dystansu, Urodzony Wojownik, Wściekły Atak
+Wyposażenie: Beczułka Piwa, Flota Łodzi Rzecznych z Załogą Piratów, Kajdany
+
+Szmuglerka Rzeczna - Brąz 2
+Umiejętności: Atletyka, Mocna Głowa, Opanowanie, Pływanie, Przekupstwo, Skradanie (Wieś albo Miasto), Wioślarstwo, Żeglarstwo
+Talenty: Doświadczony Wędrowiec (Bagna), Mocne Plecy, Przestępca, Rybak
+Wyposażenie: Chusta albo Maska, Duży Worek, Lampa Sztormowa z Oliwą, Pudełko na Hubkę i Krzesiwo
+
+Przemytniczka - Brąz 3
+Umiejętności: Broń Biała (Podstawowa), Percepcja, Plotkowanie, Sekretne Znaki (Przemytników), Targowanie, Wiedza (Lokalna)
+Talenty: Bardzo Silny, Etykieta (Przestępcy), Wodniak, Żyłka Handlowa
+Wyposażenie: Broń Ręczna, Skórzana Kurta, Łódź Wiosłowa, 2 Beczki
+
+Mistrzyni Przemytników - Brąz 5
+Umiejętności: Intuicja, Wiedza (Szlaki Rzeczne), Wycena, Zastraszanie
+Talenty: Łapówkarz, Nieustraszony (Strażnicy Rzeczni), Pilot, Świetny Pływak
+Wyposażenie: Szmugler Rzeczny, Szybka Łódź Rzeczna
+
+Królowa Przemytników - Srebro 2
+Umiejętności: Dowodzenie, Język (Dowolny)
+Talenty: Błyskotliwość, Doświadczony Wędrowiec (Wybrzeża), Szycha, Urodzony Żeglarz
+Wyposażenie: Mała Flota Łodzi Rzecznych, Zestaw do Charakteryzacji
+
+Chłopiec Pokładowy - Srebro 1
+Umiejętności: Broń Biała (Bijatyka), Mocna Głowa, Odporność, Plotkowanie, Pływanie, Unik, Wioślarstwo, Żeglarstwo
+Talenty: Cios Poniżej Pasa, Mocne Plecy, Rybak, Świetny Pływak
+Wyposażenie: Broń Ręczna (Bosak), Drąg, Skórzana Kurta
+
+Przewoźnik - Srebro 2
+Umiejętności: Atletyka, Intuicja, Percepcja, Targowanie, Wiedza (Szlaki Rzeczne), Występy (Gawędziarstwo)
+Talenty: Bardzo Silny, Etykieta (Cechy), Obieżyświat, Wodniak
+Wyposażenie: Lina, Łódź Wiosłowa
+
+Sternik - Srebro 3
+Umiejętności: Leczenie, Rzemiosło (Szkutnictwo), Wspinaczka, Występy (Śpiewanie)
+Talenty: Defraudant, Nos do Kłopotów, Silny Cios, Żyłka Handlowa
+Wyposażenie: Plecak, Narzędzia Pracy (Szkutnika)
+
+Kapitan Barki - Srebro 5
+Umiejętności: Dowodzenie, Nawigacja
+Talenty: Groźny, Mówca, Pilot, Wyczucie Kierunku
+Wyposażenie: Kapelusz, Łódź Rzeczna z Załogą
+
+Rekrut Rzeczny - Srebro 1
+Umiejętności: Atletyka, Broń Biała (Podstawowa), Odporność, Percepcja, Pływanie, Unik, Wioślarstwo, Żeglarstwo
+Talenty: Bardzo Silny, Mocne Plecy, Świetny Pływak, Wodniak
+Wyposażenie: Broń Ręczna (Miecz), Mundur, Skórzana Kurta
+
+Strażnik Rzeczny - Srebro 2
+Umiejętności: Broń Zasięgowa (Prochowa), Charyzma, Przekupstwo, Plotkowanie, Wiedza (Szlaki Rzeczne), Zastraszanie
+Talenty: Artylerzysta, Obieżyświat, Przestępca, Rybak
+Wyposażenie: Latarnia z Oliwą, Pistolet z 10 Nabojami, Tarcza
+
+Żołnierz Okrętowy - Srebro 4
+Umiejętności: Dowodzenie, Intuicja, Opanowanie, Wspinaczka
+Talenty: Nienawiść (Dowolna), Nieustraszony (Piraci Rzeczni), Pilot, Urodzony Żeglarz
+Wyposażenie: Hełm, Kaftan Kolczy, Kotwiczka
+
+Mistrz Żołnierzy Okrętowych - Złoto 1
+Umiejętności: Nawigacja, Wiedza (Prawo)
+Talenty: Groźny, Szycha, Władcza Postura, Wyczucie Kierunku
+Wyposażenie: Łodzie Patrolowe z Załogą, Symbol Rangi
+
+Szczur Lądowy - Srebro 1
+Umiejętności: Broń Biała (Bijatyka), Hazard, Mocna Głowa, Plotkowanie, Pływanie, Wioślarstwo, Wspinaczka, Żeglarstwo
+Talenty: Doświadczony Wędrowiec (Wybrzeża), Mocne Plecy, Rybak, Świetny Pływak
+Wyposażenie: Mop, Szczotka, Wiadro
+
+Żeglarz - Srebro 3
+Umiejętności: Atletyka, Broń Biała (Podstawowa), Język (Dowolny), Odporność, Unik, Występy (Śpiewanie)
+Talenty: Na Cztery Łapy, Obieżyświat, Silne Nogi, Urodzony Żeglarz
+Wyposażenie: Broń Ręczna (Bosak), Skórzany Kaftan
+
+Bosman - Srebro 5
+Umiejętności: Dowodzenie, Opanowanie, Percepcja, Rzemiosło (Cieśla)
+Talenty: Bardzo Silny, Silny Cios, Wilk Morski, Wytrwały
+Wyposażenie: Narzędzia Pracy (Cieśli)
+
+Kapitan Statku - Złoto 2
+Umiejętności: Charyzma, Nawigacja
+Talenty: Błyskotliwość, Mówca, Pilot, Wyczucie Kierunku
+Wyposażenie: Luneta, Mapy Morskie, Sekstant, Statek Żeglowny z Załogą
+
+Zbój - Brąz 1
+Umiejętności: Atletyka, Broń Biała (Podstawowa), Hazard, Mocna Głowa, Opanowanie, Odporność, Sztuka Przetrwania, Zastraszanie
+Talenty: Zmysł Bitewny, Przestępca, Włóczykij, Chodu!
+Wyposażenie: Broń Ręczna, Pudełko na Hubkę i Krzesiwo, Skórzany Kaftan, Zwijane Posłanie
+
+Banita - Brąz 2
+Umiejętności: Broń Zasięgowa (Łuk), Leczenie, Percepcja, Skradanie (Wieś), Unik, Wiedza (Lokalna)
+Talenty: Cios Poniżej Pasa, Ogłuszenie, Strzelec Wyborowy, Traper
+Wyposażenie: Łuk i 10 Strzał, Namiot, Tarcza
+
+Herszt Banitów - Brąz 4
+Umiejętności: Dowodzenie, Intuicja, Jeździectwo (Konie), Plotkowanie
+Talenty: Groźny, Niezwykle Odporny, Szybkie Przeładowanie, Urodzony w Siodle
+Wyposażenie: Banda Banitów, Hełm, Kaftan Kolczy z Rękawami, Koń Wierzchowy z Rzędem
+
+Król Bandytów - Srebro 2
+Umiejętności: Charyzma, Wiedza (Imperium)
+Talenty: Prosto Między Oczy, Nieustraszony (Strażnicy Dróg), Żelazna Wola, Krzepki
+Wyposażenie: Hołd od Miejscowych Hersztów Banitów, Kryjówka
+
+Szeptucha - Brąz 1
+Umiejętności: Język (Magiczny), Odporność, Opanowanie, Plotkowanie, Skradanie (Wieś), Splatanie Magii, Zastraszanie, Zwinne Palce
+Talenty: Groźny, Magia Prosta, Precyzyjne Inkantowanie, Przestępca
+Wyposażenie: Kreda, Lalka, Szpilki, Świece
+
+Czarownica - Brąz 2
+Umiejętności: Broń Biała (Drzewcowa), Intuicja, Oswajanie, Percepcja, Rzemiosło (Zielarz), Unik
+Talenty: Atrakcyjny, Czarownica!, Magia Tajemna (Czarownic), Percepcja Magiczna, Szósty Zmysł
+Wyposażenie: Kostur, Narzędzia Pracy (Zielarza), Worek, Wybór Ziół
+
+Wiedźma - Brąz 3
+Umiejętności: Charyzma, Przekupstwo, Targowanie, Wiedza (Mroczna Magia)
+Talenty: Posłuch u Zwierząt, Ruchliwe Dłonie, Straszny, Wykrywanie Magii
+Wyposażenie: Amulety na Szczęście, Plecak, Płaszcz z Kilkoma Kieszeniami
+
+Czarnoksiężnik - Brąz 5
+Umiejętności: Wiedza (Demonologia), Wiedza (Magia)
+Talenty: Niezwykle Odporny, Odporność Psychiczna, Szczęście, Zmysł Magii
+Wyposażenie: Czaszka, Szata
+
+Porywacz Zwłok - Brąz 2
+Umiejętności: Intuicja, Odporność, Opanowanie, Percepcja, Plotkowanie, Skradanie (Dowolne), Unik, Wspinaczka
+Talenty: Chodu!, Przestępca, Mocne Plecy, Ulicznik
+Wyposażenie: Łom, Plandeka, Płaszcz z Kapturem, Taczka
+
+Hiena Cmentarna - Brąz 3
+Umiejętności: Broń Biała (Podstawowa), Powożenie, Przekupstwo, Targowanie, Wiedza (Medycyna), Wycena
+Talenty: Bardzo Silny, Odporny na (Choroby), Widzenie w Ciemności, Wtargnięcie z Włamaniem
+Wyposażenie: Broń Ręczna, Lampa Sztormowa z Oliwą, Plecak, Szpadel
+
+Rabuś Grobowców - Srebro 1
+Umiejętności: Badania Naukowe, Otwieranie Zamków, Wiedza (Historia), Zastawianie Pułapek
+Talenty: Czytanie/Pisanie, Silny Cios, Szczur Kanałowy, Wytrwały
+Wyposażenie: Broń Ręczna (Kilof ), Lina, Narzędzia Pracy (Złodziei), Skórzana Kurta, Wóz z Koniem
+
+Łowca Skarbów - Srebro 5
+Umiejętności: Nawigacja, Rzemiosło (Inżynier)
+Talenty: Nieustraszony (Nieumarli), Odporność Psychiczna, Szósty Zmysł, Traper
+Wyposażenie: Mapy, Namiot, Narzędzia Pracy (Inżyniera), Zestaw do Pisania, Zwijane Posłanie
+
+Pośrednik - Srebro 1
+Umiejętności: Broń Biała (Podstawowa), Charyzma, Hazard, Mocna Głowa, Plotkowanie, Targowanie, Unik, Wycena
+Talenty: Szuler, Towarzyski, Ulicznik, Żyłka Handlowa
+Wyposażenie: Broń Ręczna, Skradzione Dobra warte 3k10 Szylingów
+
+Paser - Srebro 2
+Umiejętności: Intuicja, Opanowanie, Percepcja, Rzemiosło (Grawer), Sekretne Znaki (Złodziei), Zastraszanie
+Talenty: Błyskotliwość, Etykieta (Przestępcy), Numizmatyka, Przestępca
+Wyposażenie: Monokl, Narzędzia Pracy (Grawera), Zestaw do Pisania
+
+Mistrz Paserów - Srebro 3
+Umiejętności: Przekupstwo, Wiedza (Lokalna), Wiedza (Sztuka), Występy (Gawędziarstwo)
+Talenty: Charyzmatyczny, Geniusz Arytmetyczny, Ogłuszenie, Szycha
+Wyposażenie: Lombard
+
+Broker Informacji - Srebro 4
+Umiejętności: Badania Naukowe, Wiedza (Heraldyka)
+Talenty: Cios Poniżej Pasa, Groźny, Łapówkarz, Żelazna Wola
+Wyposażenie: Magazyn, Sieć Informatorów, Wynajęty Mięśniak
+
+Naganiacz - Brąz 1
+Umiejętności: Charyzma, Hazard, Mocna Głowa, Przekupstwo, Plotkowanie, Targowanie, Występy (Dowolne), Zastraszanie
+Talenty: Atrakcyjny, Gadanina, Towarzyski, Ulicznik
+Wyposażenie: Flaszka Mocnego Alkoholu
+
+Rajfur - Brąz 3
+Umiejętności: Broń Biała (Podstawowa),
+Intuicja, Odporność, Percepcja, Unik, Wiedza (Lokalna)
+Talenty: Hulaka, Oburęczność, Odporny na (Choroby), Przestępca
+Wyposażenie: Dawka Dziwnokorzenia, Dobre Ubranie
+
+Stręczyciel - Srebro 1
+Umiejętności: Język (Dowolny), Opanowanie, Wiedza (Prawo), Wycena
+Talenty: Charyzmatyczny, Defraudant, Etykieta (Dowolna Grupa), Żyłka Handlowa
+Wyposażenie: Sieć Naganiaczy
+
+Herszt Rajfurów - Srebro 3
+Umiejętności: Dowodzenie, Wiedza (Heraldyka)
+Talenty: Błyskotliwość, Łapówkarz, Numizmatyka, Szycha
+Wyposażenie: Kamienica z Dyskretnym Wejściem od Tyłu, Sieć Rajfurów
+
+Zbir - Brąz 3
+Umiejętności: Broń Biała (Bijatyka), Mocna Głowa, Odporność, Skradanie (Miasto), Opanowanie, Unik, Wiedza (Lokalna), Zastraszanie
+Talenty: Etykieta (Przestępcy), Groźny, Przestępca, Silny Cios
+Wyposażenie: Kastet, Skórzana Kurta
+
+Reketer - Brąz 5
+Umiejętności: Broń Biała (Podstawowa), Charyzma, Język (Estalijski albo Tileański), Plotkowanie, Przekupstwo, Wycena
+Talenty: Cios Poniżej Pasa, Defraudant, Ogłuszenie, Urodzony Wojownik
+Wyposażenie: Broń Ręczna, Kaftan Kolczy, Kapelusz
+
+Głowa Gangu - Srebro 3
+Umiejętności: Intuicja, Dowodzenie, Percepcja, Broń Zasięgowa (Kusza)
+Talenty: Krzepki, Nieustraszony (Straże), Odporny na (Trucizny), Żelazna Wola
+Wyposażenie: Gang Zbirów i Reketerów, Kryjówka, Kusza Pistoletowa z 10 Bełtami
+
+Król Podziemia - Srebro 5
+Umiejętności: Wiedza (Polityka), Wiedza (Prawo)
+Talenty: Majętny, Straszny, Szycha, Władcza Postura
+Wyposażenie: Dobre Ubranie z Kapeluszem, Kilka Podporządkowanych Głów Gangów, Sieć Informatorów
+
+Kanciarz - Brąz 3
+Umiejętności: Charyzma, Hazard, Mocna Głowa, Plotkowanie, Przekupstwo, Targowanie, Występy (Gawędziarstwo), Zwinne Palce
+Talenty: Etykieta (Dowolna Grupa), Szczęście, Szuler, Szuler Kościany
+Wyposażenie: Plecak, Talia Kart, Zestaw Kości, 2 Komplety Ubrań
+
+Szarlatan - Brąz 5
+Umiejętności: Intuicja, Opanowanie, Percepcja, Unik, Wycena, Występy (Aktorstwo)
+Talenty: Gadanina, Przestępca, Ruchliwe Dłonie, Sekretna Tożsamość
+Wyposażenie: 1 Sfałszowany Dokument, 2 Komplety Ubrań Dobrej Jakości, Wybór Kolorowych Proszków i Płynów, Wybór Błyskotek i Amuletów
+
+Oszust - Srebro 2
+Umiejętności: Język (Grypsera), Wiedza (Heraldyka), Otwieranie Zamków, Sekretne Znaki (Złodziei)
+Talenty: Atrakcyjny, Czytanie/Pisanie, Gładkie Słówka, Żyłka Handlowa
+Wyposażenie: Zestaw do Charakteryzacji, Wytrychy, Liczne Sfałszowane Dokumenty
+
+Łajdak - Srebro 4
+Umiejętności: Badania Naukowe, Wiedza (Genealogia)
+Talenty: Charyzmatyczny, Mistrz Charakteryzacji, Nos do Kłopotów, Towarzyski
+Wyposażenie: Podrobiona Pieczęć, Zestaw do Pisania
+
+Bandzior - Brąz 1
+Umiejętności: Atletyka, Intuicja, Odporność, Opanowanie, Percepcja, Skradanie (Miasto), Unik, Wspinaczka
+Talenty: Chodu!, Ogłuszenie, Przestępca, Ulicznik
+Wyposażenie: Łom, Skórzany Kaftan, Worek
+
+Złodziej - Brąz 3
+Umiejętności: Otwieranie Zamków, Plotkowanie, Sekretne Znaki (Złodziei), Wiedza (Lokalna), Wycena, Zwinne Palce
+Talenty: Cień, Etykieta (Przestępcy), Ruchliwe Dłonie, Szybki Refleks, Wtargnięcie z Włamaniem
+Wyposażenie: Lina, Narzędzia Pracy (Złodziei)
+
+Mistrz Złodziejski - Brąz 5
+Umiejętności: Broń Zasięgowa (Kusza), Hazard, Przekupstwo, Zastraszanie
+Talenty: Traper, Widzenie w Ciemności, Zejście z Linii, Zręczne Palce
+Wyposażenie: Kusza Pistoletowa z 10 Bełtami
+
+Włamywacz - Srebro 3
+Umiejętności: Charyzma, Zastawianie Pułapek
+Talenty: Na Cztery Łapy, Majętny, Silne Nogi, Wyborny Wspinacz
+Wyposażenie: Ciemne Ubranie, Chusta albo Maska, Kotwiczka
+
+Pięściarz - Brąz 4
+Umiejętności: Atletyka, Broń Biała (Bijatyka), Broń Biała (Dowolna), Hazard, Odporność, Opanowanie, Unik, Zastraszanie
+Talenty: Cios Poniżej Pasa, Odwrócenie Szans, Skrócenie Dystansu, Żelazna Szczęka
+Wyposażenie: Bandaże, Kastet, Skórzana Kurta
+
+Gladiator - Srebro 2
+Umiejętności: Targowanie, Intuicja, Broń Biała (Podstawowa), Broń Biała (Korbacz albo Dwuręczna), Percepcja, Broń Zasięgowa (Unieruchamiająca)
+Talenty: Bitewny Refleks, Dwie Bronie, Oburęczność, Tarczownik
+Wyposażenie: Broń Ręczna, Bicz albo Sieć, Korbacz albo Broń Dwuręczna, Puklerz albo Tarcza
+
+Mistrz Areny - Srebro 5
+Umiejętności: Kuglarstwo (Walka Pokazowa), Mocna Głowa, Plotkowanie, Wiedza (Anatomia)
+Talenty: Groźny, Krzepki, Mistrz Walki, Rozbrojenie
+Wyposażenie: Hełm, Napierśnik
+
+Legenda Areny - Złoto 2
+Umiejętności: Broń Zasięgowa (Dowolna), Charyzma
+Talenty: Atak Wyprzedzający, Nieubłagany, Straszny, Wściekły Atak
+Wyposażenie: Hełm Dobrej Jakości
+
+Nowicjusz Kapłanów-wojowników - Brąz 2
+Umiejętności: Broń Biała (Dowolna), Dowodzenie, Leczenie, Modlitwa, Odporność, Opanowanie, Wiedza (Teologia), Unik
+Talenty: Błogosławieństwo (Dowolna Tradycja), Czytanie/ Pisanie, Etykieta (Kultyści), Odporność Psychiczna
+Wyposażenie: Broń Biała (Dowolna), Księga (Religia), Skórzany Kaftan, Symbol Religijny, Szata
+
+Kapłan-wojownik - Srebro 2
+Umiejętności: Broń Biała (Dowolna), Broń Zasięgowa (Dowolna), Charyzma, Język (Bitewny), Występy (Przemawianie), Zastraszanie
+Talenty: Dwie Bronie, Inspirujący, Inwokacja (Dowolna Tradycja), Obieżyświat
+Wyposażenie: Broń (Dowolna), Napierśnik
+
+Kapłan-sierżant - Srebro 3
+Umiejętności: Intuicja, Jeździectwo (Konie), Percepcja, Opieka nad zwierzętami
+Talenty: Czysta Dusza, Święte Wizje, Waleczne Serce, Zmysł Bitewny
+Wyposażenie: Lekki Koń Bojowy z Siodłem i Uprzężą
+
+Kapłan-kapitan - Srebro 4
+Umiejętności: Mocna Głowa, Wiedza (Sztuka Wojenna)
+Talenty: Nieustraszony (Dowolny), Święta Nienawiść, Wódz, Wściekły Atak
+Wyposażenie: Relikwia
+
+Jeździec - Srebro 2
+Umiejętności: Broń Biała (Podstawowa), Jeździectwo (Konie), Język (Bitewny), Odporność, Opieka nad Zwierzętami, Oswajanie, Percepcja, Sztuka Przetrwania
+Talenty: Szybki Refleks, Urodzony w Siodle, Z Bata, Zmysł Bitewny
+Wyposażenie: Koń Wierzchowy z Rzędem, Skórzana Kurta
+
+Kawalerzysta - Srebro 4
+Umiejętności: Broń Biała (Kawaleryjska), Broń Zasięgowa (Prochowa), Charyzma, Mocna Głowa, Opanowanie, Plotkowanie
+Talenty: Artylerzysta, Etykieta (Żołnierze), Obieżyświat, Woltyżerka
+Wyposażenie: Hełm, Lekki Koń Bojowy z Siodłem i Uprzężą, Napierśnik, Pistolet z 10 Nabojami, Tarcza
+
+Sierżant Kawalerii - Złoto 1
+Umiejętności: Intuicja, Dowodzenie, Wiedza (Sztuka Wojenna), Zastraszanie
+Talenty: Bitewny Refleks, Błyskawiczny Strzał, Nienawiść (Dowolna), Wódz
+Wyposażenie: Szarfa
+
+Oficer Kawalerii - Złoto 2
+Umiejętności: Hazard, Wiedza (Heraldyka)
+Talenty: Atak Wyprzedzający, Celny Strzał, Inspirujący, Krzepki
+Wyposażenie: Dobre Ubranie, Talia Kart
+
+Stróż - Srebro 1
+Umiejętności: Broń Biała (Podstawowa), Hazard, Intuicja, Mocna Głowa, Odporność, Percepcja, Plotkowanie, Występy (Gawędziarstwo)
+Talenty: Etykieta (Słudzy), Ogłuszenie, Szuler Kościany, Wytrwały
+Wyposażenie: Lampa Sztormowa z Oliwą, Puklerz, Skórzany Kaftan
+
+Ochroniarz - Srebro 2
+Umiejętności: Atletyka, Broń Biała (Drzewcowa), Broń Zasięgowa (Łuk), Opanowanie, Unik, Zastraszanie
+Talenty: Nieustępliwy, Odwrócenie Szans, Silny Cios, Tarczownik
+Wyposażenie: Kaftan Kolczy z Rękawami, Łuk i 10 Strzał, Tarcza, Włócznia
+
+Gwardzista - Srebro 3
+Umiejętności: Broń Biała (Dwuręczna), Język (Bitewny), Leczenie, Wiedza (Etykieta)
+Talenty: Nieustraszony (Intruzi), Niewzruszony, Sprężynka, Waleczne Serce
+Wyposażenie: Broń Dwuręczna albo Halabarda, Hełm, Mundur
+
+Oficer Gwardii - Srebro 5
+Umiejętności: Dowodzenie, Wiedza (Sztuka Wojenna)
+Talenty: Krzepki, Mistrz Walki, Wściekły Atak, Żelazna Wola
+Wyposażenie: Napierśnik
+
+Tani Drań - Brąz 2
+Umiejętności: Atletyka, Broń Biała (Dowolna), Odporność, Plotkowanie, Targowanie, Unik, Występy (Szydzenie), Zastraszanie
+Talenty: Cios Poniżej Pasa, Groźny, Skrócenie Dystansu, Urodzony Wojownik
+Wyposażenie: Kastet, Kaptur albo Maska, Skórzana Kurta
+
+Oprych - Srebro 1
+Umiejętności: Broń Biała (Podstawowa), Charyzma, Intuicja, Jeździectwo (Konie), Percepcja, Przekupstwo
+Talenty: Bitewny Refleks, Odwrócenie Szans, Ogłuszenie, Przestępca
+Wyposażenie: Broń Ręczna, Kaftan Kolczy, Koń Wierzchowy z Rzędem, Tarcza
+
+Płatny Morderca - Srebro 4
+Umiejętności: Broń Zasięgowa (Rzucana), Nawigacja, Opanowanie, Wspinaczka
+Talenty: Cios Mierzony, Nieustępliwy, Rozbrojenie, Strzelec Wyborowy
+Wyposażenie: Garota, Noże do Rzucania, Płaszcz, Trucizna
+
+Skrytobójca - Złoto 1
+Umiejętności: Broń Zasięgowa (Kusza), Występy (Aktorstwo)
+Talenty: Celny Strzał, Morderczy Atak, Oburęczność, Wściekły Atak
+Wyposażenie: Kusza z 10 Bełtami, Zestaw do Charakteryzacji
+
+Giermek - Srebro 3
+Umiejętności: Atletyka, Broń Biała (Kawaleryjska), Jeździectwo (Konie), Leczenie, Opieka nad Zwierzętami, Oswajanie, Rzemiosło (Podkuwanie Koni), Wiedza (Heraldyka)
+Talenty: Etykieta (Dowolna Grupa), Tragarz, Urodzony Wojownik, Urodzony w Siodle
+Wyposażenie: Kaftan Kolczy, Koń Wierzchowy z Rzędem, Narzędzia Pracy (Podkuwanie Koni), Skórzana Kurta, ,Tarcza
+
+Rycerz - Srebro 5
+Umiejętności: Broń Biała (Dowolna), Język (Bitewny), Odporność, Opanowanie, Unik, Zastraszanie
+Talenty: Groźny, Obieżyświat, Silny Cios, Tarczownik
+Wyposażenie: Broń Biała (Dowolna), Kopia, Rumak z Siodłem i Uprzężą, Zbroja Płytowa z Hełmem
+
+Pierwszy Rycerz - Złoto 2
+Umiejętności: Charyzma, Mocna Głowa, Dowodzenie, Wiedza (Sztuka Wojenna)
+Talenty: Niewzruszony, Nieustraszony (Dowolny), Waleczne Serce, Wódz
+Wyposażenie: Kropierz, Mały Oddział Rycerzy
+
+Rycerz Wewnętrznego Kręgu - Złoto 4
+Umiejętności: Sekretne Znaki (Zakonu Rycerskiego), Wiedza (Dowolna)
+Talenty: Inspirujący, Morderczy Atak, Rozbrojenie, Żelazna Wola
+Wyposażenie: Giermek, Pełny Hełm z Pióropuszem, Duży Oddział lub kilka Małych Oddziałów Rycerzy
+
+ Zabójca Trolli - Brąz 2
+Umiejętności: Broń Biała (Podstawowa), Hazard, Leczenie, Mocna Głowa, Odporność, Opanowanie, Unik, Wiedza (Trolle)
+Talenty: Dwie Bronie, Nieustraszony (Wszystko), Szał Bojowy, Zabójca
+Wyposażenie: Flaszka Mocnego Alkoholu, Topór, Tatuaże, Wstyd i Hańba
+
+Zabójca Olbrzymów - Brąz 2
+Umiejętności: Broń Biała (Dwuręczna), Język (Bitewny), Sztuka Przetrwania, Wiedza (Olbrzymy), Wycena, Zastraszanie
+Talenty: Groźny, Nieubłagany, Odwrócenie Szans, Twardziel
+Wyposażenie: Biżuteria, Głowa Trolla, Wielki Topór
+
+Zabójca Smoków - Brąz 2
+Umiejętności: Broń Zasięgowa (Rzucana), Percepcja, Wiedza (Smoki), Występy (Gawędziarstwo)
+Talenty: Wściekły Atak, Nieustępliwy, Krzepki, Niezwykle Odporny
+Wyposażenie: Głowa Olbrzyma, Topory do Rzucania
+
+Zabójca Demonów - Brąz 2
+Umiejętności: Intuicja, Wiedza (Chaos)
+Talenty: Bardzo Silny, Silny Cios, Straszny, Mistrz Walki
+Wyposażenie: Smoczy Łeb
+
+Rekrut - Srebro 1
+Umiejętności: Atletyka, Broń Biała (Podstawowa), Język (Bitewny), Muzyka (Bęben albo Piszczałka), Odporność, Opanowanie, Unik, Wspinaczka
+Talenty: Mocne Plecy, Strzelec Wyborowy, Szuler Kościany, Urodzony Wojownik
+Wyposażenie: Mundur, Skórzany Napierśnik, Sztylet
+
+Żołnierz - Srebro 3
+Umiejętności: Broń Biała (Dowolna), Broń Zasięgowa (Dowolna), Hazard, Mocna Głowa, Plotkowanie, Sztuka Przetrwania
+Talenty: Etykieta (Żołnierze), Musztra, Szybkie Przeładowanie, Tarczownik
+Wyposażenie: Broń (Dowolna), Hełm, Napierśnik
+
+Sierżant - Srebro 5
+Umiejętności: Dowodzenie, Intuicja, Leczenie, Percepcja
+Talenty: Niewzruszony, Walka w Ciasnocie, Wódz, Zmysł Bitewny
+Wyposażenie: Oddział Żołnierzy, Symbol Rangi
+
+Oficer - Złoto 1
+Umiejętności: Nawigacja, Wiedza (Sztuka Wojenna)
+Talenty: Inspirujący, Mówca, Obieżyświat, Waleczne Serce
+Wyposażenie: Awans, Lekki Koń Bojowy z Siodłem i Uprzężą, Mapa, Mundur Dobrej Jakości, Oddział Żołnierzy, Rozkazy, Symbol Rangi
+
+
+

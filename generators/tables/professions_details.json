@@ -1,0 +1,5219 @@
+{
+  "Uczeń Aptekarza": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Język (Klasyczny)",
+      "Leczenie",
+      "Mocna Głowa,Rzemiosło (Aptekarstwo)",
+      "Rzemiosło (Truciciel)",
+      "Wiedza(Chemia)",
+      "Wiedza (Medycyna)",
+      "Wiedza (Rośliny)"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Etykieta (Uczeni)",
+      "Przyrządzanie Mikstur",
+      "Wytwórca (Aptekarz)"
+    ],
+    "wyposażenie": [
+      "Księga (Pusta)",
+      "Mikstura Lecznicza",
+      "Moździerz z Tłuczkiem",
+      "Skórzany Kaftan"
+    ]
+  },
+  "Aptekarz": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Charyzma",
+      "Język (Gildii)",
+      "Percepcja",
+      "Plotkowanie",
+      "Targowanie",
+      "Wiedza (Nauka)"
+    ],
+    "talenty": [
+      "Aptekarz",
+      "Etykieta (Członkowie Cechu)",
+      "Przestępca",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Licencja Cechu Aptekarzy",
+      "Narzędzia Pracy(Aptekarza)"
+    ]
+  },
+  "Mistrz Aptekarski": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Badania Naukowe",
+      "Dowodzenie",
+      "Intuicja,Sekretne Znaki (Cechu)"
+    ],
+    "talenty": [
+      "Błyskotliwość",
+      "Mistrz Rzemiosła (Aptekarz)",
+      "Mól Książkowy",
+      "Odporny na (Trucizny)"
+    ],
+    "wyposażenie": [
+      "Książka (Aptekarstwo)",
+      "Uczeń",
+      "Warsztat"
+    ]
+  },
+  "Główny Aptekarz": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Jeździectwo (Konie)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Mistrz Rzemiosła (Truciciel)",
+      "Wyczulony Zmysł(Smak)",
+      "Zimna Krew",
+      "Znawca (Aptekarstwo)"
+    ],
+    "wyposażenie": [
+      "Duży Warsztat",
+      "Przywilej od Władcy"
+    ]
+  },
+  "Uczeń Czarodzieja": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Broń Biała (Drzewcowa)",
+      "Intuicja",
+      "Język (Magiczny)",
+      "Percepcja",
+      "Splatanie Magii (Dowolny Kolor)",
+      "Unik",
+      "Wiedza (Magia)"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Magia Prosta (Dowolna)",
+      "Percepcja Magiczna",
+      "Zmysł Magii"
+    ],
+    "wyposażenie": [
+      "Kostur",
+      "Księga Zaklęć"
+    ]
+  },
+  "Czarodziej": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Charyzma",
+      "Język (Bitewny)",
+      "Język (Dowolny)",
+      "Opanowanie",
+      "Plotkowanie",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Magia Tajemna (Dowolna Tradycja)",
+      "Rozpoznanie Artefaktu",
+      "Ruchliwe Dłonie",
+      "Szósty Zmysł"
+    ],
+    "wyposażenie": [
+      "Licencja na Uprawianie Magii"
+    ]
+  },
+  "Mistrz Magii": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Jeździectwo (Konie)",
+      "Opieka nad Zwierzętami",
+      "Wiedza (Wojna)",
+      "Wycena"
+    ],
+    "talenty": [
+      "Dwie Bronie",
+      "Groźny",
+      "Precyzyjne Inkantowanie",
+      "Wykrywanie Magii"
+    ],
+    "wyposażenie": [
+      "Lekki Koń Bojowy",
+      "Przedmiot Magiczny",
+      "Uczeń"
+    ]
+  },
+  "Arcymag": {
+    "status": "Złoto 2",
+    "umiejętności": [
+      "Język (Dowolny)",
+      "Wiedza (Dowolna)"
+    ],
+    "talenty": [
+      "Mag Bitewny",
+      "Straszny",
+      "Zmysł Walki",
+      "Żelazna Wola"
+    ],
+    "wyposażenie": [
+      "Biblioteka (Magia)",
+      "Uczeń",
+      "Warsztat (Magia)"
+    ]
+  },
+  "Student Inżynierii": {
+    "status": "Brąz 4",
+    "umiejętności": [
+      "Broń Zasięgowa (Prochowa)",
+      "Język (Klasyczny)",
+      "Mocna Głowa",
+      "Odporność",
+      "Opanowanie",
+      "Percepcja",
+      "Rzemiosło (Inżynier),Wiedza (Inżynier)"
+    ],
+    "talenty": [
+      "Artylerzysta",
+      "Czytanie/Pisanie",
+      "Talent Artystyczny",
+      "Złota Rączka"
+    ],
+    "wyposażenie": [
+      "Księga (Inżynieria)",
+      "Młot i Gwoździe"
+    ]
+  },
+  "Inżynier": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Badania Naukowe",
+      "Broń Zasięgowa (Eksperymentalna)",
+      "Język (Gildii)",
+      "Nawigacja",
+      "Powożenie",
+      "Unik"
+    ],
+    "talenty": [
+      "Wytwórca (Inżynier)",
+      "Etykieta (Członkowie Gildii)",
+      "Strzelec Wyborowy",
+      "Wyczucie Kierunku"
+    ],
+    "wyposażenie": [
+      "Licencja Gildii Inżynierów",
+      "Narzędzia Pracy (Inżyniera)"
+    ]
+  },
+  "Mistrz Inżynierii": {
+    "status": "Srebro 4",
+    "umiejętności": [
+      "Dowodzenie",
+      "Jeździectwo (Konie)",
+      "Język (Khazalid)",
+      "Sekretne Znaki (Gildii)"
+    ],
+    "talenty": [
+      "Etykieta (Uczeni)",
+      "Geniusz Arytmetyczny",
+      "Mistrz Rzemiosła (Inżynieria)",
+      "Snajper"
+    ],
+    "wyposażenie": [
+      "Warsztat"
+    ]
+  },
+  "Inżynier Dyplomowany": {
+    "status": "Złoto 2",
+    "umiejętności": [
+      "Język (Dowolny)",
+      "Wiedza (Dowolna)"
+    ],
+    "talenty": [
+      "Arcydzieło",
+      "Niewzruszony",
+      "Szybkie Przeładowanie",
+      "Znawca (Inżynieria)"
+    ],
+    "wyposażenie": [
+      "Biblioteka (Inżyniera)",
+      "Doskonałe Narzędzia Pracy (Inżyniera)",
+      "Duży Warsztat (Inżyniera)",
+      "Licencja Cechu"
+    ]
+  },
+  "Kleryk": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Atletyka",
+      "Badania Naukowe",
+      "Intuicja",
+      "Modlitwa",
+      "Odporność",
+      "Opanowanie",
+      "Percepcja",
+      "Wiedza (Teologia)"
+    ],
+    "talenty": [
+      "Błogosławieństwo (Dowolne Bóstwo)",
+      "Charyzmatyczny",
+      "Czytanie/Pisanie",
+      "Święte Wizje"
+    ],
+    "wyposażenie": [
+      "Symbol Religijny",
+      "Szata"
+    ]
+  },
+  "Kapłan": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Charyzma",
+      "Leczenie",
+      "Plotkowanie",
+      "Występy (Gawędziarstwo)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Etykieta (Kultyści)",
+      "Gadanina",
+      "Inwokacja (Dowolne Bóstwo)",
+      "Mól Książkowy"
+    ],
+    "wyposażenie": [
+      "Księga (Religia)",
+      "Szata Ceremonialna"
+    ]
+  },
+  "Arcykapłan": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Dowodzenie",
+      "Sztuka (Pisarstwo)",
+      "Wiedza (Heraldyka)",
+      "Występy (Przemowy)"
+    ],
+    "talenty": [
+      "Nienawiść (Dowolna)",
+      "Odporność Psychiczna",
+      "Porywająca Gorliwość",
+      "Wyczulony Zmysł (Dowolny)"
+    ],
+    "wyposażenie": [
+      "Podwładni Kapłani",
+      "Relikwia",
+      "Szata Dobrej Jakości",
+      "Świątynia"
+    ]
+  },
+  "Lektor": {
+    "status": "Złoto 2",
+    "umiejętności": [
+      "Język (Dowolny)",
+      "Wiedza (Polityka)"
+    ],
+    "talenty": [
+      "Czysta Dusza",
+      "Odporny na (Dowolne Zagrożenie)",
+      "Krasomówstwo",
+      "Znawca (Teologia)"
+    ],
+    "wyposażenie": [
+      "Biblioteka (Teologia)",
+      "Podwładni Arcykapłani"
+    ]
+  },
+  "Uczeń Lekarza": {
+    "status": "Brąz 4",
+    "umiejętności": [
+      "Leczenie",
+      "Odporność",
+      "Opanowanie",
+      "Percepcja",
+      "Plotkowanie",
+      "Powożenie",
+      "Przekupstwo",
+      "Zwinne Palce"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Mól Książkowy",
+      "Ogłuszenie",
+      "Pierwsza Pomoc"
+    ],
+    "wyposażenie": [
+      "Bandaże",
+      "Mikstura Lecznicza"
+    ]
+  },
+  "Lekarz": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Charyzma",
+      "Język (Gildii)",
+      "Rzemiosło (Cyrulik)",
+      "Targowanie",
+      "Wiedza (Anatomia)",
+      "Wiedza (Medycyna)"
+    ],
+    "talenty": [
+      "Chirurgia",
+      "Etykieta (Członkowie Cechu),Przestępca",
+      "Zimna Krew"
+    ],
+    "wyposażenie": [
+      "Księga (Medycyna)",
+      "Licencja Cechu,Narzędzia Pracy (Medycyna)"
+    ]
+  },
+  "Doktor": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Badania Naukowe",
+      "Dowodzenie",
+      "Mocna Głowa",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Błyskotliwość",
+      "Etykieta (Uczeni)",
+      "MorderczyAtak",
+      "Odporny na (Choroby)"
+    ],
+    "wyposażenie": [
+      "Uczeń",
+      "Warsztat (Medyczny)"
+    ]
+  },
+  "Nadworny Medyk": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Wiedza (Szlachta)",
+      "Występy (Taniec)"
+    ],
+    "talenty": [
+      "Etykieta (Szlachta)",
+      "Odporność Psychiczna",
+      "Znawca (Medycyna)",
+      "Zręczny"
+    ],
+    "wyposażenie": [
+      "Nominacja",
+      "Strój Dworski"
+    ]
+  },
+  "Nowicjuszka": {
+    "status": "Brąz 1",
+    "umiejętności": [
+      "Leczenie",
+      "Modlitwa",
+      "Odporność",
+      "Opanowanie",
+      "Plotkowanie",
+      "Sztuka (Kaligrafia)",
+      "Wiedza (Teologia)",
+      "Występy (Gawędziarstwo)"
+    ],
+    "talenty": [
+      "Błogosławieństwo (Dowolne Bóstwo)",
+      "Czytanie/ Pisanie",
+      "Naciągacz",
+      "Wstrzemięźliwy"
+    ],
+    "wyposażenie": [
+      "Symbol Religijny",
+      "Szata"
+    ]
+  },
+  "Mniszka": {
+    "status": "Brąz 4",
+    "umiejętności": [
+      "Badania Naukowe",
+      "Broń Biała (Dowolna)",
+      "Przekonywanie",
+      "Rzemiosło (Browarnik)",
+      "Rzemiosło (Winiarz)",
+      "Rzemiosło (Zielarz)"
+    ],
+    "talenty": [
+      "Etykieta (Kultyści)",
+      "Inwokacja (Dowolne Bóstwo)",
+      "Pierwsza Pomoc",
+      "Święte Wizje"
+    ],
+    "wyposażenie": [
+      "Księga (Religia)",
+      "Narzędzia Pracy (Dowolne)",
+      "Relikwia"
+    ]
+  },
+  "Przeorysza": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Dowodzenie",
+      "Percepcja",
+      "Wiedza (Lokalna)",
+      "Wiedza (Polityka)"
+    ],
+    "talenty": [
+      "Odporny na (Dowolne Zagrożenie)",
+      "Krzepki",
+      "Znawca (Teologia)",
+      "Waleczne Serce"
+    ],
+    "wyposażenie": [
+      "Opactwo",
+      "Biblioteka (Teologia)"
+    ]
+  },
+  "Matka Przełożona": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Język (Dowolny)",
+      "Wiedza (Dowolna)"
+    ],
+    "talenty": [
+      "Czysta Dusza",
+      "Odporność Psychiczna",
+      "Władcza Postura",
+      "Żelazna Wola"
+    ],
+    "wyposażenie": [
+      "Zakon Religijny"
+    ]
+  },
+  "Student Prawa": {
+    "status": "Brąz 4",
+    "umiejętności": [
+      "Badania Naukowe",
+      "Język (Klasyczny)",
+      "Mocna Głowa",
+      "Odporność",
+      "Percepcja",
+      "Targowanie",
+      "Wiedza (Prawo)",
+      "Wiedza (Teologia)"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Etykieta (Uczeni)",
+      "Gadanina",
+      "Szybkie Czytanie"
+    ],
+    "wyposażenie": [
+      "Księga (Prawo)",
+      "Lupa"
+    ]
+  },
+  "Prawnik": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Przekupstwo",
+      "Charyzma",
+      "Plotkowanie",
+      "Intuicja",
+      "Język (Gildii)",
+      "Sekretne Znaki (Gildii)"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Etykieta (Członkowie Gildii)",
+      "Przekonujący",
+      "Przestępca"
+    ],
+    "wyposażenie": [
+      "Licencja Gildii",
+      "Szaty Dworskie",
+      "Zestaw do Pisania"
+    ]
+  },
+  "Adwokat": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Sztuka (Pisarstwo)",
+      "Wiedza (Dowolna)",
+      "Występy (Przemowy)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Błyskotliwość",
+      "Gładkie Słówka",
+      "Mól Książkowy",
+      "Porywająca Gorliwość"
+    ],
+    "wyposażenie": [
+      "Kantor",
+      "Asystent (Student lub Służący)"
+    ]
+  },
+  "Sędzia": {
+    "status": "Złoto 2",
+    "umiejętności": [
+      "Opanowanie",
+      "Wiedza (Polityka)"
+    ],
+    "talenty": [
+      "Majętny",
+      "Szycha",
+      "Władcza Postura",
+      "Znawca (Prawo)"
+    ],
+    "wyposażenie": [
+      "Młotek Sędziego",
+      "Pretensjonalna Peruka"
+    ]
+  },
+  "Student": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Badania Naukowe",
+      "Hazard",
+      "Język (Klasyczny)",
+      "Mocna Głowa",
+      "Plotkowanie",
+      "Targowanie",
+      "Wiedza (Dowolna)",
+      "Występy (Gawędziarstwo)"
+    ],
+    "talenty": [
+      "Błyskotliwość",
+      "Czytanie/Pisanie",
+      "Geniusz Arytmetyczny",
+      "Hulaka"
+    ],
+    "wyposażenie": [
+      "Alkohol",
+      "Księga",
+      "Listy Polecające",
+      "Zestaw do Pisania"
+    ]
+  },
+  "Uczony": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Intuicja",
+      "Język (Dowolny)",
+      "Percepcja",
+      "Rzemiosło (Dowolne)",
+      "Sztuka (Pisarstwo)",
+      "Wiedza (Dowolna)"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Etykieta (Uczeni)",
+      "Mól Książkowy",
+      "Szybkie Czytanie"
+    ],
+    "wyposażenie": [
+      "Dostęp do Biblioteki",
+      "Stopień Naukowy"
+    ]
+  },
+  "Wykładowca": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Język (Dowolny)",
+      "Wiedza (Dowolna)",
+      "Występy (Wykłady)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Mówca",
+      "Poliglota",
+      "Wieża Pamięci",
+      "Znawca (Dowolna Dziedzina)"
+    ],
+    "wyposażenie": [
+      "Biret",
+      "Szata"
+    ]
+  },
+  "Profesor": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Wiedza (Dowolna)",
+      "Występy (Retoryka)"
+    ],
+    "talenty": [
+      "Arcydzieło",
+      "Czujny",
+      "Krasomówstwo",
+      "Znawca (Dowolna Dziedzina)"
+    ],
+    "wyposażenie": [
+      "Gabinet"
+    ]
+  },
+  "Pamflecista": {
+    "status": "Brąz 1",
+    "umiejętności": [
+      "Charyzma",
+      "Mocna Głowa",
+      "Plotkowanie",
+      "Przekupstwo",
+      "Rzemiosło (Drukarstwo)",
+      "Sztuka (Pisarstwo)",
+      "Targowanie",
+      "Wiedza (Polityka)"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Gadanina",
+      "Naciągacz",
+      "Towarzyski"
+    ],
+    "wyposażenie": [
+      "Młotek i Gwoździe",
+      "Plik Ulotek",
+      "Zestaw do Pisania"
+    ]
+  },
+  "Agitator": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Dowodzenie",
+      "Hazard",
+      "Intuicja",
+      "Opanowanie",
+      "Unik",
+      "Występy (Gawędziarstwo)"
+    ],
+    "talenty": [
+      "Mówca",
+      "Porywająca Gorliwość",
+      "Przekonujący",
+      "Ulicznik"
+    ],
+    "wyposażenie": [
+      "Skórzana Kurta"
+    ]
+  },
+  "Podżegacz": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Biała (Bijatyka)",
+      "Percepcja",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Chodu!",
+      "Cios Poniżej Pasa",
+      "Gładkie Słówka",
+      "Zejście z Linii"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Pomocny Pamflecista"
+    ]
+  },
+  "Demagog": {
+    "status": "Brąz 5",
+    "umiejętności": [
+      "Jeździectwo (Konie)",
+      "Wiedza (Heraldyka)"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Etykieta (Dowolna Grupa)",
+      "Intrygant",
+      "Krasomówstwo"
+    ],
+    "wyposażenie": [
+      "Imponujący Kapelusz",
+      "Patron",
+      "Prasa Drukarska",
+      "Trzech Pamflecistów"
+    ]
+  },
+  "Przekupka": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Charyzma",
+      "Hazard",
+      "Mocna Głowa",
+      "Powożenie",
+      "Plotkowanie",
+      "Targowanie",
+      "Unik",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Ulicznik",
+      "Niegodny Uwagi",
+      "Etykieta (Słudzy)",
+      "Krzepki"
+    ],
+    "wyposażenie": [
+      "Mieszkanie na Mieście",
+      "Mocne Buty"
+    ]
+  },
+  "Mieszczka": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Broń Biała (Bijatyka)",
+      "Intuicja",
+      "Muzyka (Dowolna)",
+      "Przekupstwo",
+      "Wiedza (Lokalna)",
+      "Wycena"
+    ],
+    "talenty": [
+      "Defraudant",
+      "Etykieta (Dowolna Grupa)",
+      "Towarzyski",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Skromna Kamienica",
+      "Służący",
+      "Pióro i Kałamarz"
+    ]
+  },
+  "Rajca Miejski": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Badania Naukowe",
+      "Opanowanie",
+      "Percepcja",
+      "Wiedza (Prawo)"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Łapówkarz",
+      "Mówca",
+      "Pomocny"
+    ],
+    "wyposażenie": [
+      "Powóz z Woźnicą",
+      "Kamienica"
+    ]
+  },
+  "Burmistrz": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Wiedza (Polityka)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Intrygant",
+      "Krasomówstwo",
+      "Władcza Postura"
+    ],
+    "wyposażenie": [
+      "Dobre Ubranie",
+      "Duża Kamienica z Ogrodami i Służbą",
+      "Powóz z Lokajem",
+      "Sieć Biur"
+    ]
+  },
+  "Czeladnik": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Atletyka",
+      "Opanowanie",
+      "Mocna Głowa",
+      "Unik",
+      "Odporność",
+      "Wycena",
+      "Skradanie (Miasto)",
+      "Rzemiosło (Dowolne)"
+    ],
+    "talenty": [
+      "Bardzo Silny",
+      "Mocne Plecy",
+      "Talent Artystyczny",
+      "Wytwórca (Dowolne Rzemiosło)"
+    ],
+    "wyposażenie": [
+      "Kreda",
+      "Skórzany Kaftan",
+      "k10 Szmat"
+    ]
+  },
+  "Rzemieślnik": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Charyzma",
+      "Język (Cechu)",
+      "Percepcja",
+      "Plotkowanie",
+      "Targowanie",
+      "Wiedza (Lokalna)"
+    ],
+    "talenty": [
+      "Etykieta (Członkowie Cechu)",
+      "Tragarz",
+      "Zręczny",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Licencja Cechu",
+      "Narzędzia Pracy"
+    ]
+  },
+  "Mistrz Rzemiosła": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Badania Naukowe",
+      "Dowodzenie",
+      "Intuicja",
+      "Sekretne Znaki (Cechu)"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Mistrz Rzemiosła (Dowolne)",
+      "Wyczulony Zmysł (Smak albo Dotyk)",
+      "Złota Rączka"
+    ],
+    "wyposażenie": [
+      "Uczeń",
+      "Warsztat"
+    ]
+  },
+  "Mistrz Cechu": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Przekupstwo",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Arcydzieło",
+      "Intrygant",
+      "Łapówkarz",
+      "Mówca"
+    ],
+    "wyposażenie": [
+      "Cech",
+      "Dobre Ubranie"
+    ]
+  },
+  "Rekrut Straży": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Biała (Dowolna)",
+      "Hazard",
+      "Mocna Głowa",
+      "Odporność",
+      "Percepcja",
+      "Unik",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Ogłuszenie",
+      "Musztra",
+      "Twardziel",
+      "Wytrwały"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Mundur",
+      "Skórzana Kurta"
+    ]
+  },
+  "Strażnik": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Charyzma",
+      "Intuicja",
+      "Opanowanie",
+      "Plotkowanie",
+      "Wiedza (Lokalna)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Przestępca",
+      "Szybkobiegacz",
+      "Widzenie w Ciemności",
+      "Wtargnięcie z Włamaniem"
+    ],
+    "wyposażenie": [
+      "Latarnia na Drągu",
+      "Lampa Oliwna",
+      "Miedziana Odznaka"
+    ]
+  },
+  "Sierżant Straży": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Dowodzenie",
+      "Targowanie",
+      "Wiedza (Prawo)",
+      "Występy (Gawędziarstwo)"
+    ],
+    "talenty": [
+      "Etykieta (Żołnierze)",
+      "Nieustraszony (Przestępcy)",
+      "Nos do Kłopotów",
+      "Rozbrojenie"
+    ],
+    "wyposażenie": [
+      "Hełm",
+      "Napierśnik",
+      "Symbol Rangi"
+    ]
+  },
+  "Kapitan Straży": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Wiedza (Polityka)",
+      "Jeździectwo (Konie)"
+    ],
+    "talenty": [
+      "Krzepki",
+      "Intrygant",
+      "Mówca",
+      "Szycha"
+    ],
+    "wyposażenie": [
+      "Dobra Broń Ręczna",
+      "Dobry Kapelusz",
+      "Imponujący Symbol Rangi",
+      "Koń Wierzchowy z Rzędem"
+    ]
+  },
+  "Łowca Szczurów": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Atletyka",
+      "Tresura (Psy)",
+      "Oswajanie",
+      "Mocna Głowa",
+      "Odporność",
+      "Broń Biała (Podstawowa)",
+      "Broń Zasięgowa (Proca)",
+      "Skradanie (Miasto albo Podziemia)"
+    ],
+    "talenty": [
+      "Odporny na (Choroby)",
+      "Ogłuszenie",
+      "Silny Cios",
+      "Widzenie w Ciemności"
+    ],
+    "wyposażenie": [
+      "Mały",
+      "ale Zajadły Pies",
+      "Proca z Amunicją",
+      "Worek"
+    ]
+  },
+  "Szczurołap": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Opieka nad Zwierzętami",
+      "Percepcja",
+      "Plotkowanie",
+      "Targowanie",
+      "Wiedza (Trucizny)",
+      "Zastawianie Pułapek"
+    ],
+    "talenty": [
+      "Etykieta (Członkowie Cechu)",
+      "Nieustraszony (Szczury)",
+      "Niezwykle odporny",
+      "Walka w Ciasnocie"
+    ],
+    "wyposażenie": [
+      "Sidła na zwierzęta",
+      "Drąg na martwe szczury"
+    ]
+  },
+  "Strażnik Kanałów": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Broń Zasięgowa (Kusza Pistoletowa)",
+      "Opanowanie",
+      "Unik",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Silne Nogi",
+      "Szczur Kanałowy",
+      "Twardziel",
+      "Waleczne Serce"
+    ],
+    "wyposażenie": [
+      "Lampa Davricha",
+      "Broń Ręczna",
+      "Skórzana Kurta"
+    ]
+  },
+  "Tępiciel": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Dowodzenie",
+      "Tropienie"
+    ],
+    "talenty": [
+      "Groźny",
+      "Krzepki",
+      "Odporność Psychiczna",
+      "Nieustraszony (Skaveny)"
+    ],
+    "wyposażenie": [
+      "Asystent",
+      "Duży i Zajadły Pies",
+      "Worek Zatrutej Przynęty (10 Porcji Sercoboju)"
+    ]
+  },
+  "Szpicel": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Charyzma",
+      "Intuicja",
+      "Opanowanie",
+      "Percepcja",
+      "Plotkowanie",
+      "Skradanie (Miasto)",
+      "Tropienie",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Czujny",
+      "Niegodny Uwagi",
+      "Ulicznik"
+    ],
+    "wyposażenie": [
+      "Dziennik",
+      "Lampa Oliwna",
+      "Latarnia",
+      "Pióro i Kałamarz"
+    ]
+  },
+  "Śledczy": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Broń Biała (Bijatyka)",
+      "Mocna Głowa",
+      "Otwieranie Zamków",
+      "Unik",
+      "Wiedza (Prawo)",
+      "Zwinne Palce"
+    ],
+    "talenty": [
+      "Błyskotliwość",
+      "Cień",
+      "Etykieta (Dowolna Grupa)",
+      "Wytrwały"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Lupa",
+      "Skórzana Kurta",
+      "Wytrych"
+    ]
+  },
+  "Mistrz Śledczy": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Dowodzenie",
+      "Przekupstwo",
+      "Wiedza (Dowolna)",
+      "Wycena"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Szósty Zmysł",
+      "Mól Książkowy",
+      "Wtargnięcie z Włamaniem"
+    ],
+    "wyposażenie": [
+      "Asystent",
+      "Biuro"
+    ]
+  },
+  "Detektyw": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Wiedza (Dowolna)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Szybkie Czytanie",
+      "Wieża Pamięci",
+      "Wyczulony Zmysł (Dowolny)",
+      "Znawca (Dowolna Dziedzina)"
+    ],
+    "wyposażenie": [
+      "Luneta",
+      "Sieć Informatorów"
+    ]
+  },
+  "Biedak": {
+    "status": "Brąz 0",
+    "umiejętności": [
+      "Atletyka",
+      "Charyzma",
+      "Intuicja",
+      "Mocna Głowa",
+      "Odporność",
+      "Opanowanie",
+      "Skradanie (Miasto)",
+      "Unik"
+    ],
+    "talenty": [
+      "Naciągacz",
+      "Niezwykle Odporny",
+      "Odporny na (Choroby)",
+      "Wstrzemięźliwy Wyposażenie: Podłej Jakości Koc",
+      "Kubek"
+    ],
+    "wyposażenie": [
+      "Podłej Jakości Koc",
+      "Kubek"
+    ]
+  },
+  "Żebrak": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Percepcja",
+      "Plotkowanie",
+      "Targowanie",
+      "Występy (Aktorstwo)",
+      "Występy (Dowolne)",
+      "Zwinne Palce"
+    ],
+    "talenty": [
+      "Etykieta (Przestępcy)",
+      "Niegodny Uwagi",
+      "Przestępca",
+      "Ulicznik"
+    ],
+    "wyposażenie": [
+      "Kule do Chodzenia",
+      "Miska"
+    ]
+  },
+  "Mistrz Żebraków": {
+    "status": "Brąz 4",
+    "umiejętności": [
+      "Dowodzenie",
+      "Oswajanie",
+      "Sekretne Znaki (Włóczykijów),Wiedza (Lokalna)"
+    ],
+    "talenty": [
+      "Cios Poniżej Pasa",
+      "Gadanina",
+      "Twardziel",
+      "Zejście z Linii"
+    ],
+    "wyposażenie": [
+      "Kryjówka",
+      "Towarzyszący Biedak",
+      "Zestaw do Charakteryzacji"
+    ]
+  },
+  "Król Żebraków": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Przekupstwo",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Gładkie Słówka",
+      "Nieustraszony (Strażnicy)",
+      "Szycha"
+    ],
+    "wyposażenie": [
+      "Kryjówka",
+      "Duża Grupa Towarzyszących Żebraków"
+    ]
+  },
+  "Uczennica Artysty": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Mocna Głowa",
+      "Odporność",
+      "Opanowanie,"
+    ],
+    "talenty": [
+      "Czujny",
+      "Mocne Plecy",
+      "Talent Artystyczny",
+      "Wytrwały"
+    ],
+    "wyposażenie": [
+      "Dłuto albo Pędzel",
+      "albo Pióro"
+    ]
+  },
+  "Artystka": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Język (Klasyczny)",
+      "Hazard",
+      "Intuicja",
+      "Targowanie",
+      "Wspinaczka",
+      "Rzemiosło (Przybory dla artystów)"
+    ],
+    "talenty": [
+      "Hulaka",
+      "Przestępca",
+      "Towarzyski",
+      "Zręczny"
+    ],
+    "wyposażenie": [
+      "Torba na Ramię Zawierająca Narzędzia Pracy (Artysty)"
+    ]
+  },
+  "Mistrzyni Sztuki": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Charyzma",
+      "Dowodzenie",
+      "Wiedza (Sztuka)",
+      "Wiedza (Heraldyka)"
+    ],
+    "talenty": [
+      "Etykieta (Dowolna Grupa)",
+      "Nos do Kłopotów",
+      "Wyczulony Zmysł (Dowolny)",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Patron",
+      "Uczeń",
+      "Warsztat (Artysty)"
+    ]
+  },
+  "Maestro": {
+    "status": "Złoto 2",
+    "umiejętności": [
+      "Badania Naukowe",
+      "Jeździectwo (Konie)"
+    ],
+    "talenty": [
+      "Arcydzieło",
+      "Czytanie/Pisanie",
+      "Oburęczność",
+      "Szycha"
+    ],
+    "wyposażenie": [
+      "Biblioteka (Sztuka)",
+      "Duży Warsztat (Artysty)",
+      "3 Uczniów"
+    ]
+  },
+  "Asystent": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Język (Klasyczny)",
+      "Mocna Głowa",
+      "Odporność",
+      "Percepcja",
+      "Plotkowanie",
+      "Przekupstwo",
+      "Targowanie",
+      "Wiedza (Polityka)"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Etykieta (Dowolna Grupa)",
+      "Niegodny Uwagi",
+      "Towarzyski"
+    ],
+    "wyposażenie": [
+      "Zestaw do Pisania"
+    ]
+  },
+  "Doradca": {
+    "status": "Srebro 4",
+    "umiejętności": [
+      "Hazard",
+      "Intuicja",
+      "Opanowanie",
+      "Przekonywanie",
+      "Wiedza (Lokalna)",
+      "Wycena"
+    ],
+    "talenty": [
+      "Gadanina",
+      "Intrygant",
+      "Pomocny",
+      "Przestępca"
+    ],
+    "wyposażenie": [
+      "Liberia"
+    ]
+  },
+  "Radca": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Dowodzenie",
+      "Język (Dowolny)",
+      "Wiedza (Dowolna)",
+      "Występy (Gawędziarstwo)"
+    ],
+    "talenty": [
+      "Gładkie Słówka",
+      "Hulaka",
+      "Łapówkarz",
+      "Przekonujący"
+    ],
+    "wyposażenie": [
+      "Asystent",
+      "Dobre Ubranie"
+    ]
+  },
+  "Kanclerz": {
+    "status": "Złoto 3",
+    "umiejętności": [
+      "Jeździectwo (Konie),Wiedza (Heraldyka)"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Defraudant",
+      "Szycha",
+      "Władcza Postura"
+    ],
+    "wyposażenie": [
+      "Dobry Strój Dworski",
+      "Koń Wierzchowy z Rzędem",
+      "Zespół Doradców i Asystentów"
+    ]
+  },
+  "Nadzorca": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Atletyka",
+      "Intuicja",
+      "Mocna Głowa",
+      "Opanowanie",
+      "Odporność",
+      "Oswajanie",
+      "Percepcja",
+      "Wiedza (Lokalna)"
+    ],
+    "talenty": [
+      "Czujny",
+      "Groźny",
+      "Ogłuszenie",
+      "Widzenie w Ciemności"
+    ],
+    "wyposażenie": [
+      "Klucze",
+      "Lampa Oliwna",
+      "Latarnia",
+      "Liberia"
+    ]
+  },
+  "Namiestnik": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Broń Zasięgowa (Łuk)",
+      "Jeździectwo (Konie)",
+      "Opieka nad Zwierzętami",
+      "Pływanie",
+      "Sztuka Przetrwania"
+    ],
+    "talenty": [
+      "Posłuch u Zwierząt",
+      "Etykieta (Słudzy)",
+      "Doświadczony Wędrowiec (Dowolne)",
+      "Włóczykij"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna albo Łuk z 10 Strzałami",
+      "Koń Wierzchowy z Rzędem",
+      "Skórzana Kurta"
+    ]
+  },
+  "Seneszal": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Charyzma",
+      "Plotkowanie",
+      "Przekupstwo",
+      "Przywództwo"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Defraudant",
+      "Numizmatyka",
+      "Pomocny"
+    ],
+    "wyposażenie": [
+      "Ceremonialne Berło",
+      "Grupa Nadzorców i Namiestników",
+      "Napierśnik"
+    ]
+  },
+  "Gubernator": {
+    "status": "Złoto 3",
+    "umiejętności": [
+      "Język (Dowolny),Wycena"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Etykieta (Dowolna Grupa)",
+      "Władcza Postura",
+      "Znawca (Wiedza Lokalna)"
+    ],
+    "wyposażenie": [
+      "Asystent",
+      "Rezydencja Gubernatora",
+      "Służący"
+    ]
+  },
+  "Herold": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Atletyka",
+      "Charyzma",
+      "Intuicja",
+      "Jeździectwo (Konie)",
+      "Odporność",
+      "Powożenie",
+      "Unik",
+      "Wioślarstwo"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Czytanie/Pisanie",
+      "Etykieta (Szlachta)",
+      "Gadanina"
+    ],
+    "wyposażenie": [
+      "Liberia",
+      "Skórzana Kurta",
+      "Tuba na Zwoje"
+    ]
+  },
+  "Poseł": {
+    "status": "Srebro 4",
+    "umiejętności": [
+      "Opanowanie",
+      "Plotkowanie",
+      "Przekupstwo",
+      "Sztuka (Pisarstwo)",
+      "Targowanie",
+      "Wiedza (Polityka)"
+    ],
+    "talenty": [
+      "Atrakcyjny",
+      "Gładkie Słówka",
+      "Etykieta (Dowolna Grupa)",
+      "Doświadczony Wędrowiec"
+    ],
+    "wyposażenie": [
+      "Pióro i Kałamarz",
+      "10 Arkuszy Pergaminu"
+    ]
+  },
+  "Dyplomata": {
+    "status": "Złoto 2",
+    "umiejętności": [
+      "Dowodzenie",
+      "Język (Dowolny)",
+      "Nawigacja",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Hulaka",
+      "Intrygant",
+      "Towarzyski",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Asystent",
+      "Dobre Ubranie",
+      "Mapa"
+    ]
+  },
+  "Ambasador": {
+    "status": "Złoto 5",
+    "umiejętności": [
+      "Język (Dowolny)",
+      "Wiedza (Dowolna)"
+    ],
+    "talenty": [
+      "Błękitna Krew",
+      "Błyskotliwość",
+      "Łapówkarz",
+      "Władcza Postura"
+    ],
+    "wyposażenie": [
+      "Asystent",
+      "Strój Dworski Najlepszej Jakości",
+      "Ekipa Dyplomatów",
+      "Herold"
+    ]
+  },
+  "Posługacz": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Atletyka",
+      "Intuicja",
+      "Odporność",
+      "Percepcja",
+      "Powożenie",
+      "Skradanie (Dowolne)",
+      "Unik",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Krzepki",
+      "Mocne Plecy",
+      "Niegodny Uwagi",
+      "Odporność Psychiczna"
+    ],
+    "wyposażenie": [
+      "Szczotka do Podłogi"
+    ]
+  },
+  "Służący": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Hazard",
+      "Mocna Głowa",
+      "Opieka nad Zwierzętami",
+      "Plotkowanie",
+      "Targowanie",
+      "Wycena"
+    ],
+    "talenty": [
+      "Cień",
+      "Dobrze Przygotowany",
+      "Etykieta (Słudzy)",
+      "Wytrwały"
+    ],
+    "wyposażenie": [
+      "Liberia"
+    ]
+  },
+  "Lokaj": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Charyzma",
+      "Wiedza (Lokalna)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Defraudant",
+      "Odporny na (Trucizny)",
+      "Pomocny"
+    ],
+    "wyposażenie": [
+      "Lampa Oliwna",
+      "Lampa Sztormowa",
+      "Liberia Dobrej Jakości",
+      "Pudełko na Hubkę i Krzesiwo"
+    ]
+  },
+  "Ochmistrz": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Dowodzenie"
+    ],
+    "talenty": [
+      "Błyskotliwość",
+      "Czytanie/Pisanie",
+      "Etykieta (Dowolna Grupa)",
+      "Numizmatyka"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Dobre Ubranie",
+      "Służący"
+    ]
+  },
+  "Dziedzic": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Broń Biała (Szermiercza)",
+      "Hazard",
+      "Dowodzenie",
+      "Mocna Głowa",
+      "Muzyka (Dowolna)",
+      "Przekupstwo",
+      "Wiedza (Heraldyka)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Błękitna Krew",
+      "Czytanie/Pisanie",
+      "Etykieta (Szlachta)",
+      "Szczęście"
+    ],
+    "wyposażenie": [
+      "Biżuteria warta 3k10 ZK",
+      "Dworski Strój",
+      "Lusterko Ręczne albo Floret",
+      "Osobisty Służący"
+    ]
+  },
+  "Szlachcic": {
+    "status": "Złoto 3",
+    "umiejętności": [
+      "Broń Biała (Parująca)",
+      "Charyzma",
+      "Język (Klasyczny)",
+      "Jeździectwo (Konie)",
+      "Plotkowanie",
+      "Wiedza (Lokalna)"
+    ],
+    "talenty": [
+      "Atrakcyjny",
+      "Charyzmatyczny",
+      "Hulaka",
+      "Łapówkarz"
+    ],
+    "wyposażenie": [
+      "Biżuteria warta 50 ZK",
+      "Dobry Płaszcz albo Lewak",
+      "Dworski Strój Dobrej Jakości",
+      "Dworski Strój",
+      "Koń Wierzchowy z Rzędem albo Powóz",
+      "4 Służący Domowi"
+    ]
+  },
+  "Magnat": {
+    "status": "Złoto 5",
+    "umiejętności": [
+      "Intuicja",
+      "Język (Dowolny)",
+      "Percepcja",
+      "Wiedza (Polityka)"
+    ],
+    "talenty": [
+      "Intrygant",
+      "Mówca",
+      "Zimna krew",
+      "Żyłka handlowa"
+    ],
+    "wyposażenie": [
+      "Biżuteria warta 200 ZK",
+      "Lenno",
+      "Sygnet",
+      "2 Komplety Strojów Dworskich Dobrej Jakości",
+      "200 ZK"
+    ]
+  },
+  "Lord": {
+    "status": "Złoto 7",
+    "umiejętności": [
+      "Tropienie",
+      "Wiedza (Dowolna)"
+    ],
+    "talenty": [
+      "Majętny",
+      "Władcza Postura",
+      "Wódz",
+      "Żelazna Wola"
+    ],
+    "wyposażenie": [
+      "Biżuteria warta 500 ZK",
+      "Lusterko Ręczne albo Floret Dobrej Jakości",
+      "500 ZK",
+      "4 Komplety Strojów Dworskich Najlepszej Jakości",
+      "Prowincja"
+    ]
+  },
+  "Informator": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Charyzma",
+      "Hazard",
+      "Opanowanie",
+      "Percepcja",
+      "Plotkowanie",
+      "Przekupstwo",
+      "Skradanie (Dowolne)",
+      "Targowanie"
+    ],
+    "talenty": [
+      "Cień",
+      "Gadanina",
+      "Hulaka",
+      "Towarzyski"
+    ],
+    "wyposażenie": [
+      "Płaszcz z Kapturem",
+      "Torba na Ramię Zawierająca 2 różne Komplety Ubrań",
+      "Węgiel do Rysowania"
+    ]
+  },
+  "Szpieg": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Intuicja",
+      "Sekretne Znaki (Dowolne)",
+      "Wspinaczka",
+      "Występy (Aktorstwo)",
+      "Zwinne Palce"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Czytanie z Ruchu Warg",
+      "Etykieta (Dowolna Grupa)",
+      "Sekretna Tożsamość"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Informator",
+      "Sieć Informatorów",
+      "Teleskop",
+      "Zestaw do Charakteryzacji"
+    ]
+  },
+  "Agent": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Dowodzenie",
+      "Język (Dowolny)",
+      "Opieka nad Zwierzętami",
+      "Tresura (Gołąb)"
+    ],
+    "talenty": [
+      "Atrakcyjny",
+      "Gładkie Słówka",
+      "Mistrz Charakteryzacji",
+      "Naśladowca"
+    ],
+    "wyposażenie": [
+      "Kałamarz i Pióro",
+      "Księga (Kryptografia)",
+      "Sieć Szpiegów i Informatorów",
+      "Strych z Gołębiami Pocztowymi"
+    ]
+  },
+  "Mistrz Szpiegów": {
+    "status": "Złoto 4",
+    "umiejętności": [
+      "Badania Naukowe",
+      "Wiedza (Dowolna)"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Intrygant",
+      "Łapówkarz",
+      "Wieża Pamięci"
+    ],
+    "wyposażenie": [
+      "Duża Szpiegowska Sieć Agentów",
+      "Szpiegów i Informatorów",
+      "Kantor z Pracownikami"
+    ]
+  },
+  "Szermierz": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Biała (Dowolna)",
+      "Intuicja",
+      "temu udoskonalić swoje umiejętności walki. Język (Klasyczny)",
+      "Leczenie",
+      "Odporność",
+      "Percepcja",
+      "Unik"
+    ],
+    "talenty": [
+      "Finta",
+      "Rozproszenie Uwagi",
+      "Zbicie Broni",
+      "Zejście z Linii"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna albo Rapier",
+      "Torba na Ramię Zawierająca Ubranie i 1k10 Bandaży"
+    ]
+  },
+  "Zwadźca": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Broń Biała (Parująca)",
+      "Broń Zasięgowa (Prochowa)",
+      "Charyzma",
+      "Hazard",
+      "Opanowanie",
+      "Rzemiosło (Rusznikarz)"
+    ],
+    "talenty": [
+      "Bitewny Refleks",
+      "Błyskawiczny Strzał",
+      "Etykieta (Dowolna Grupa)",
+      "Odwrócenie Szans"
+    ],
+    "wyposażenie": [
+      "Lewak albo Łamacz Mieczy",
+      "Pistolet z Prochem i Amunicją"
+    ]
+  },
+  "Mistrz Pojedynków": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Dowodzenie",
+      "Występy (Akrobatyka)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Dwie Bronie",
+      "Oburęczność",
+      "Riposta",
+      "Rozbrojenie"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Dobry Rapier",
+      "2 Drewniane Miecze Treningowe",
+      "Zaufany Sekundant"
+    ]
+  },
+  "Szampierz Sądowy": {
+    "status": "Złoto 3",
+    "umiejętności": [
+      "Broń Biała (Dowolna)",
+      "Wiedza (Prawo)"
+    ],
+    "talenty": [
+      "Atak Wyprzedzający",
+      "Groźny",
+      "Mistrz Walki",
+      "Morderczy Atak"
+    ],
+    "wyposażenie": [
+      "2 sztuki Broni Dobrej Jakości"
+    ]
+  },
+  "Parobek": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Biała (Bijatyka)",
+      "Mocna Głowa",
+      "Odporność",
+      "Opieka nad Zwierzętami",
+      "Plotkowanie",
+      "Sztuka Przetrwania",
+      "Wiedza (Lokalna)"
+    ],
+    "talenty": [
+      "Mocne Plecy",
+      "Odporność Psychiczna",
+      "Włóczykij",
+      "Wstrzemięźliwy"
+    ],
+    "wyposażenie": [
+      "Brak"
+    ]
+  },
+  "Chłop": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Powożenie",
+      "Rzemiosło (Dowolne)",
+      "Targowanie",
+      "Unik",
+      "Występy (Gawędziarstwo)"
+    ],
+    "talenty": [
+      "Bardzo Silny",
+      "Posłuch u Zwierząt,T wardziel",
+      "Wytrwały"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna (Topór)",
+      "Narzędzia Pracy (Odpowiednie dla Rzemiosła)",
+      "Skórzany Kaftan"
+    ]
+  },
+  "Kmieć": {
+    "status": "Brąz 4",
+    "umiejętności": [
+      "Charyzma",
+      "Dowodzenie",
+      "Przekupstwo",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Niezwykle Odporny",
+      "Waleczne Serce",
+      "Wytwórca (Dowolny)",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Wóz z Mułem",
+      "Dom Wiejski z Warsztatem"
+    ]
+  },
+  "Starszy Wioskowy": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Intuicja",
+      "Wiedza (Historia)"
+    ],
+    "talenty": [
+      "Mistrz Rzemiosła (Dowolne)",
+      "Mówca",
+      "Znawca (Wiedza Lokalna)",
+      "Zręczny"
+    ],
+    "wyposażenie": [
+      "Szacunek Wioski"
+    ]
+  },
+  "Poszukiwacz": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Broń Biała (Dwuręczna)",
+      "Intuicja",
+      "Odporność",
+      "Opanowanie",
+      "Percepcja",
+      "Pływanie",
+      "Sztuka Przetrwania",
+      "Wiedza (Lokalna)"
+    ],
+    "talenty": [
+      "Doświadczony Wędrowiec (Teren Skalisty)",
+      "Tragarz",
+      "Włóczykij",
+      "Wytrwały"
+    ],
+    "wyposażenie": [
+      "Kiepska Mapa",
+      "Panew",
+      "Szpadel",
+      "Węgiel do Rysowania"
+    ]
+  },
+  "Górnik": {
+    "status": "Brąz 4",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Mocna Głowa,"
+    ],
+    "talenty": [
+      "Bardzo Silny",
+      "Mocne Plecy",
+      "Silny Cios",
+      "Widzenie w Ciemności"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna (Kilof )",
+      "Lampa Davricha",
+      "Lampa Oliwna",
+      "Skórzana Kurta"
+    ]
+  },
+  "Mistrz Górniczy": {
+    "status": "Brąz 5",
+    "umiejętności": [
+      "Plotkowanie",
+      "Rzemiosło (Inżynieria)",
+      "Skradanie (Podziemia)",
+      "Wiedza (Geologia)"
+    ],
+    "talenty": [
+      "Cios Mierzony",
+      "Szczur Tunelowy",
+      "Wytwórca (Materiały Wybuchowe)",
+      "Złota Rączka"
+    ],
+    "wyposażenie": [
+      "Hełm",
+      "Narzędzia Pracy (Inżyniera)",
+      "Wielka Broń (Dwuręczny Kilof )"
+    ]
+  },
+  "Sztygar": {
+    "status": "Srebro 4",
+    "umiejętności": [
+      "Charyzma",
+      "Dowodzenie"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Defraudant",
+      "Odporność Psychiczna",
+      "Przekonujący"
+    ],
+    "wyposażenie": [
+      "Brygada Górników",
+      "Zestaw do Pisania"
+    ]
+  },
+  "Uczeń Guślarza": {
+    "status": "Brąz 1",
+    "umiejętności": [
+      "Intuicja",
+      "Język (Magiczny)",
+      "Odporność",
+      "Percepcja",
+      "Splatanie Magii",
+      "Sztuka Przetrwania",
+      "Wiedza (Ludowa)",
+      "Wiedza (Zioła)"
+    ],
+    "talenty": [
+      "Magia Prosta",
+      "Doświadczony Wędrowiec (Lasy)",
+      "Ruchliwe Dłonie",
+      "Włóczykij"
+    ],
+    "wyposażenie": [
+      "Kostur",
+      "Plecak",
+      "1k10 Amuletów na Szczęście"
+    ]
+  },
+  "Guślarz": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Opanowanie",
+      "Plotkowanie",
+      "Leczenie",
+      "Wiedza (Lokalna)",
+      "Rzemiosło (Amulety)",
+      "Rzemiosło (Zielarz)"
+    ],
+    "talenty": [
+      "Magia Tajemna (Guślarstwo)",
+      "Posłuch u Zwierząt",
+      "Szósty Zmysł",
+      "Zmysł Magii"
+    ],
+    "wyposażenie": [
+      "Kataplazm Leczniczy",
+      "Narzędzia Pracy (Zielarza)",
+      "Zestaw do Leczenia Zatruć"
+    ]
+  },
+  "Starszy Guślarzy": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Targowanie",
+      "Wiedza (Duchy)",
+      "Wiedza (Genealogia)",
+      "Wiedza (Magia)"
+    ],
+    "talenty": [
+      "Czysta Dusza",
+      "Odporny na (Choroby)",
+      "Wykrywanie Magii",
+      "Wytwórca (Zielarz)"
+    ],
+    "wyposażenie": [
+      "Odosobniona Chata",
+      "Uczeń"
+    ]
+  },
+  "Wiedzący": {
+    "status": "Brąz 5",
+    "umiejętności": [
+      "Modlitwa",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Mistrz Rzemiosła (Zielarz)",
+      "Odporność Psychiczna",
+      "Widzenie w Ciemności",
+      "Wyczulony Zmysł (Dowolny)"
+    ],
+    "wyposażenie": [
+      "Ceremonialny Płaszcz z Wiankiem",
+      "Zbiór Zwierzęcych Czaszek"
+    ]
+  },
+  "Traper": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Broń Zasięgowa (Proca)",
+      "Odporność",
+      "Oswajanie",
+      "Percepcja",
+      "Sztuka Przetrwania",
+      "Wiedza (Zwierzęta)",
+      "Wspinaczka",
+      "Zastawianie Pułapek"
+    ],
+    "talenty": [
+      "Doświadczony Wędrowiec (Dowolny Teren)",
+      "Traper",
+      "Twardziel",
+      "Włóczykij"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Mocne Buty i Płaszcz",
+      "Wybór Sideł na Zwierzęta",
+      "Proca z 10 Kamiennymi Pociskami"
+    ]
+  },
+  "Łowca": {
+    "status": "Brąz 4",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Broń Zasięgowa (Łuk)",
+      "Intuicja",
+      "Opanowanie",
+      "Sekretne Znaki (Łowców)",
+      "Skradanie (Wieś)"
+    ],
+    "talenty": [
+      "Błyskawiczny Strzał",
+      "Celny Strzał",
+      "Oko Łowcy",
+      "Strzelec Wyborowy"
+    ],
+    "wyposażenie": [
+      "Łuk z 10 Strzałami"
+    ]
+  },
+  "Tropiciel": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Jeździectwo (Konie)",
+      "Nawigacja",
+      "Pływanie",
+      "Tropienie"
+    ],
+    "talenty": [
+      "Nieustraszony (Zwierzęta)",
+      "Prosto Między Oczy",
+      "Strzał w Dziesiątkę",
+      "Wyczulony Zmysł (Dowolny)"
+    ],
+    "wyposażenie": [
+      "Namiot",
+      "Plecak",
+      "Zwijane Posłanie"
+    ]
+  },
+  "Mistrz Łowów": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Opieka nad Zwierzętami",
+      "Tresura (Dowolna)"
+    ],
+    "talenty": [
+      "Krzepki",
+      "Nieustraszony (Potwory)",
+      "Snajper",
+      "Strzał Przebijający"
+    ],
+    "wyposażenie": [
+      "Koń Wierzchowy z Rzędem",
+      "Psiarnia z Psami Łowieckimi"
+    ]
+  },
+  "Wróżbiarz": {
+    "status": "Brąz 1",
+    "umiejętności": [
+      "Charyzma",
+      "Intuicja",
+      "Percepcja",
+      "Plotkowanie",
+      "Targowanie",
+      "Unik",
+      "Występy (Wróżenie)",
+      "Zwinne Palce"
+    ],
+    "talenty": [
+      "Atrakcyjny",
+      "Charyzmatyczny",
+      "Percepcja Magiczna",
+      "Szczęście"
+    ],
+    "wyposażenie": [
+      "Talia Kart albo Zestaw Kości,Tania Biżuteria"
+    ]
+  },
+  "Mistyk": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Opanowanie",
+      "Przekupstwo",
+      "Wiedza (Astrologia)",
+      "Wycena",
+      "Występy (Proroctwa)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Dobrze Przygotowany",
+      "Rozpoznanie Artefaktu",
+      "Szósty Zmysł",
+      "Święte Wizje"
+    ],
+    "wyposażenie": [
+      "Wybór Amuletów"
+    ]
+  },
+  "Mędrzec": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Język (Dowolny)",
+      "Oswajanie",
+      "Sztuka (Pisarstwo)",
+      "Występy (Gawędziarstwo)"
+    ],
+    "talenty": [
+      "Czarownica!",
+      "Czytanie/Pisanie",
+      "Magia Prosta",
+      "Nos do Kłopotów"
+    ],
+    "wyposażenie": [
+      "Narzędzia Pracy (Pisarza)"
+    ]
+  },
+  "Prorok": {
+    "status": "Brąz 4",
+    "umiejętności": [
+      "Splatanie Magii (Azyr)",
+      "Wiedza (Proroctwa)"
+    ],
+    "talenty": [
+      "Groźny",
+      "Odporność Psychiczna",
+      "Magia Tajemna (Niebios)",
+      "Wykrywanie Magii"
+    ],
+    "wyposażenie": [
+      "Narzędzia Pracy (Astrologa)"
+    ]
+  },
+  "Poborca Podatków": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Odporność",
+      "Opanowanie",
+      "Percepcja",
+      "Plotkowanie",
+      "Targowanie",
+      "Unik",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Defraudant",
+      "Mocne plecy",
+      "Numizmatyka",
+      "Wytrwały"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Mała Zamykana Szkatułka"
+    ]
+  },
+  "Zarządca": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Dowodzenie",
+      "Intuicja",
+      "Przekupstwo",
+      "Przekonywanie",
+      "Wiedza (Lokalna)",
+      "Wycena"
+    ],
+    "talenty": [
+      "Ogłuszenie",
+      "Przemawianie",
+      "Przestępca",
+      "Wtargnięcie z Włamaniem"
+    ],
+    "wyposażenie": [
+      "Skórzana Kurta",
+      "3 Poborców Podatków"
+    ]
+  },
+  "Włodarz": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Jeździectwo (Konie)",
+      "Nawigacja",
+      "Opieka nad Zwierzętami",
+      "Wiedza (Heraldyka)"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Groźny",
+      "Nos do Kłopotów",
+      "Szycha"
+    ],
+    "wyposażenie": [
+      "Koń z Siodłem i Uprzężą",
+      "Napierśnik",
+      "Zarządca"
+    ]
+  },
+  "Komornik": {
+    "status": "Złoto 3",
+    "umiejętności": [
+      "Język (Klasyczny)",
+      "Wiedza (Prawo)"
+    ],
+    "talenty": [
+      "Błyskotliwość",
+      "Intrygant",
+      "Władcza Postura",
+      "Żelazna Wola"
+    ],
+    "wyposażenie": [
+      "Biblioteka (Prawo)",
+      "Pieczęć Urzędowa",
+      "Szata Dobrej Jakości"
+    ]
+  },
+  "Zbieraczka Ziół": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Odporność",
+      "Oswajanie",
+      "Percepcja",
+      "Pływanie",
+      "Rzemiosło (Zielarz)",
+      "Sztuka Przetrwania",
+      "Wiedza (Zioła)",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Doświadczony Wędrowiec (Dowolny Teren)",
+      "Włóczykij",
+      "Wyczucie Kierunku",
+      "Wyczulony Zmysł (Smak)"
+    ],
+    "wyposażenie": [
+      "Buty",
+      "Płaszcz",
+      "Torba na Ramię Zawierająca Wybór Ziół"
+    ]
+  },
+  "Zielarka": {
+    "status": "Brąz 4",
+    "umiejętności": [
+      "Leczenie",
+      "Mocna Głowa",
+      "Opanowanie",
+      "Plotkowanie",
+      "Targowanie",
+      "Wiedza (Lokalna)"
+    ],
+    "talenty": [
+      "Czujny",
+      "Tragarz",
+      "Zręczne Palce",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna (Sierp)",
+      "Kataplazm Leczniczy",
+      "Narzędzia Pracy (Zielarza)"
+    ]
+  },
+  "Mistrzyni Ziołolecznictwa": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Dowodzenie",
+      "Intuicja",
+      "Rzemiosło (Trucizny)",
+      "Wiedza (Medycyna)"
+    ],
+    "talenty": [
+      "Błyskotliwość",
+      "Pierwsza Pomoc",
+      "Twardziel",
+      "Wytwórca (Zielarz)"
+    ],
+    "wyposażenie": [
+      "Mikstura Lecznicza",
+      "Warsztat (Zielarza)",
+      "Zbieracz Ziół",
+      "3 Kataplazmy Lecznicze"
+    ]
+  },
+  "Arcyzielarka": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Powożenie",
+      "Nawigacja"
+    ],
+    "talenty": [
+      "Mistrz Rzemiosła (Zielarstwo)",
+      "Odporny na (Trucizny)",
+      "Przyrządzanie Mikstur",
+      "Znawca (Zioła)"
+    ],
+    "wyposażenie": [
+      "Wóz z Kucem"
+    ]
+  },
+  "Przewodnik": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Odporność",
+      "Oswajanie",
+      "Percepcja",
+      "Plotkowanie",
+      "Sztuka Przetrwania",
+      "Wiedza (Lokalna)",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Czujny",
+      "Doświadczony Wędrowiec (Dowolny Teren)",
+      "Włóczykij",
+      "Wyczucie Kierunku"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Lina",
+      "Mocne Buty i Płaszcz",
+      "Skórzana Kurta"
+    ]
+  },
+  "Zwiadowca": {
+    "status": "Brąz 5",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Zasięgowa (Łuk)",
+      "Jeździectwo (Konie)",
+      "Nawigacja",
+      "Skradanie (Wieś)",
+      "Tropienie"
+    ],
+    "talenty": [
+      "Nos do Kłopotów",
+      "Obieżyświat",
+      "Widzenie w Ciemności",
+      "Zmysł Bitewny"
+    ],
+    "wyposażenie": [
+      "Łuk i 10 Strzał",
+      "Kaftan Kolczy"
+    ]
+  },
+  "Przepatrywacz": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Opieka nad Zwierzętami",
+      "Pływanie",
+      "Sekretne Znaki (Łowców)",
+      "Targowanie"
+    ],
+    "talenty": [
+      "Niezwykle Odporny",
+      "Silne Nogi",
+      "Szósty Zmysł",
+      "Wyczulony Zmysł (Wzrok)"
+    ],
+    "wyposażenie": [
+      "Koń Wierzchowy z Rzędem",
+      "Juki z Prowiantem na 2 Tygodnie",
+      "Mapa",
+      "Namiot"
+    ]
+  },
+  "Odkrywca": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Język (Dowolny)",
+      "Rzemiosło (Kartograf )"
+    ],
+    "talenty": [
+      "Poliglota",
+      "Twardziel",
+      "Wytrwały",
+      "Znawca (Wiedza Lokalna)"
+    ],
+    "wyposażenie": [
+      "Wybór Map",
+      "Narzędzia Pracy (Kartografa)"
+    ]
+  },
+  "Gorliwiec": {
+    "status": "Brąz 0",
+    "umiejętności": [
+      "Broń Biała (Korbacz)",
+      "Intuicja",
+      "Leczenie",
+      "Odporność",
+      "Sztuka Przetrwania",
+      "Unik",
+      "Wiedza (Sigmar)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Berserkerska Szarża",
+      "Czytanie/Pisanie",
+      "Szał Bojowy",
+      "Wstrzemięźliwy"
+    ],
+    "wyposażenie": [
+      "Korbacz",
+      "Postrzępione Odzienie"
+    ]
+  },
+  "Biczownik": {
+    "status": "Brąz 0",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Zasięgowa (Proca)",
+      "Język (Klasyczny)",
+      "Opanowanie",
+      "Sztuka (Ikony)",
+      "Wiedza (Imperium)"
+    ],
+    "talenty": [
+      "Biczownik",
+      "Nienawiść (Heretycy)",
+      "Nieubłagany",
+      "Twardziel"
+    ],
+    "wyposażenie": [
+      "Symbol Religijny",
+      "Proca",
+      "Tabliczka"
+    ]
+  },
+  "Pokutnik": {
+    "status": "Brąz 0",
+    "umiejętności": [
+      "Charyzma",
+      "Język (Dowolny)",
+      "Percepcja",
+      "Wiedza (Teologia)"
+    ],
+    "talenty": [
+      "Groźny",
+      "Obieżyświat",
+      "Pierwsza Pomoc",
+      "Wściekły Atak"
+    ],
+    "wyposażenie": [
+      "Relikwia"
+    ]
+  },
+  "Piewca Zagłady": {
+    "status": "Brąz 0",
+    "umiejętności": [
+      "Dowodzenie",
+      "Występy (Przemowy)"
+    ],
+    "talenty": [
+      "Bitewna Furia",
+      "Nieustraszony (Heretycy)",
+      "Porywająca Gorliwość",
+      "Straszny"
+    ],
+    "wyposażenie": [
+      "Księga (Religia)",
+      "Towarzysze (włącznie z Pokutnikami",
+      "Biczownikami i Gorliwcami)"
+    ]
+  },
+  "Włóczykij": {
+    "status": "Brąz 1",
+    "umiejętności": [
+      "Charyzma",
+      "Intuicja",
+      "Odporność",
+      "Plotkowanie",
+      "Skradanie (Miasto albo Wieś)",
+      "Sztuka Przetrwania",
+      "Targowanie",
+      "Występy (Gawędziarstwo)"
+    ],
+    "talenty": [
+      "Chodu!",
+      "Rybak",
+      "Włóczykij",
+      "Złota Rączka"
+    ],
+    "wyposażenie": [
+      "Plecak",
+      "Namiot",
+      "Zwijane Posłanie",
+      "Towary warte 2k10 Brązowych Monet"
+    ]
+  },
+  "Domokrążca": {
+    "status": "Brąz 4",
+    "umiejętności": [
+      "Jeździectwo (Konie)",
+      "Mocna Głowa",
+      "Opieka nad Zwierzętami",
+      "Oswajanie",
+      "Rzemiosło (Złota Rączka)",
+      "Wycena"
+    ],
+    "talenty": [
+      "Mocne Plecy",
+      "Obieżyświat",
+      "Wyczucie Kierunku",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Muł z Jukami",
+      "Narzędzia Pracy (Złotej Rączki)",
+      "Wybór Rondli i Patelni",
+      "Towary warte 2k10 Srebrnych Monet"
+    ]
+  },
+  "Mistrz Domokrążców": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Język (Dowolny)",
+      "Percepcja",
+      "Powożenie",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Dobrze Przygotowany",
+      "Niezwykle Odporny",
+      "Numizmatyka",
+      "Tragarz"
+    ],
+    "wyposażenie": [
+      "Wóz",
+      "Towary warte co najmniej 2k10 Złotych Monet"
+    ]
+  },
+  "Wędrowny Handlarz": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Wiedza (Geografia)",
+      "Wiedza (Lokalna)"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Gładkie Słówka",
+      "Odporność Psychiczna",
+      "Wytrwały"
+    ],
+    "wyposażenie": [
+      "Wóz z Koniem Pociągowym",
+      "Towary warte co najmniej 5k10 Złotych i 50 Srebrnych Monet"
+    ]
+  },
+  "Grajek Uliczny": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Atletyka",
+      "Charyzma",
+      "Kuglarstwo (Dowolne) Muzyka (Dowolna)",
+      "Plotkowanie",
+      "Targowanie",
+      "Występy(Dowolne)"
+    ],
+    "talenty": [
+      "Atrakcyjny",
+      "Charyzmatyczny",
+      "Naśladowca",
+      "Mówca społeczności"
+    ],
+    "wyposażenie": [
+      "Instrument",
+      "Miska."
+    ]
+  },
+  "Kuglarz": {
+    "status": "Brąz 5",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Broń Zasięgowa(Rzucana)",
+      "Jeździectwo (Dowolne)",
+      "Kuglarstwo (Dowolne)",
+      "Muzyka (Dowolna)",
+      "Występy (Dowolne)"
+    ],
+    "talenty": [
+      "Człowiek Guma",
+      "Sprężynka",
+      "Strzał w Dziesiątkę",
+      "Woltyżerka"
+    ],
+    "wyposażenie": [
+      "Broń Rzucana (kilka sztuk)",
+      "Kostium",
+      "Instrument",
+      "Wybór Scenariuszy (których jeszcze nie możesz przeczytać)"
+    ]
+  },
+  "Trubadur": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Język (Dowolny)",
+      "Opieka nad Zwierzętami",
+      "Sztuka (Pisarstwo)",
+      "Tresura (Dowolne)"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Gadanina",
+      "Mistrz Charakteryzacji",
+      "Słuch Absolutny"
+    ],
+    "wyposażenie": [
+      "Tresowane Zwierzę",
+      "Zestaw do Pisania"
+    ]
+  },
+  "Kierownik Trupy": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Dowodzenie",
+      "Powożenie"
+    ],
+    "talenty": [
+      "Czujny",
+      "Etykieta (Dowolna Grupa)",
+      "Obieżyświat",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Garderoba z Kostiumami i Rekwizytami",
+      "Trupa Kuglarzy",
+      "Wóz (Scena) z Końmi Pociągowymi"
+    ]
+  },
+  "Oprawca": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Broń Biała (Bijatyka)",
+      "Charyzma",
+      "Intuicja",
+      "Leczenie",
+      "Mocna Głowa",
+      "Percepcja",
+      "Wiedza (Tortury)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Groźny",
+      "Nieugięty",
+      "Zimna Krew"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Narzędzia Tortur"
+    ]
+  },
+  "Łowca Czarownic": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Broń Biała (Dowolna)",
+      "Broń Zasięgowa (Dowolna)",
+      "Jeździectwo (Konie)",
+      "Opanowanie",
+      "Plotkowanie",
+      "Wiedza (Czarownice)"
+    ],
+    "talenty": [
+      "Cień",
+      "Dwie Bronie",
+      "Obieżyświat",
+      "Percepcja Magiczna",
+      "Strzelec Wyborowy"
+    ],
+    "wyposażenie": [
+      "Kapelusz (Kornet)",
+      "Koń Wierzchowy z Rzędem",
+      "Kusza Pistoletowa albo Pistolet",
+      "Lina",
+      "Posrebrzany Miecz",
+      "Skórzana Kurta"
+    ]
+  },
+  "Inkwizytor": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Dowodzenie",
+      "Odporność",
+      "Wiedza (Lokalna)",
+      "Wiedza (Prawo)"
+    ],
+    "talenty": [
+      "Odporność Psychiczna",
+      "Nieustępliwy",
+      "Nieustraszony (Czarownice)",
+      "Nos do Kłopotów"
+    ],
+    "wyposażenie": [
+      "Podwładni Oprawcy",
+      "Ubranie Dobrej Jakości"
+    ]
+  },
+  "Generał Łowców Czarownic": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Wiedza (Chaos)",
+      "Wiedza (Polityka)"
+    ],
+    "talenty": [
+      "Czysta Dusza",
+      "Straszny",
+      "Wykrywanie Magii",
+      "Żelazna Wola"
+    ],
+    "wyposażenie": [
+      "Podwładni Łowcy Czarownic",
+      "Strój Dworski Najlepszej Jakości"
+    ]
+  },
+  "Pogromczyni Złodziei": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Charyzma",
+      "Intuicja",
+      "Percepcja",
+      "Plotkowanie",
+      "Przekupstwo",
+      "Sztuka Przetrwania",
+      "Targowanie"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Cień",
+      "Ogłuszenie",
+      "Wtargnięcie z Włamaniem"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Lina",
+      "Skórzany Kaftan"
+    ]
+  },
+  "Łowczyni Nagród": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Zasięgowa (Kusza)",
+      "Broń Zasięgowa (Unieruchamiająca)",
+      "Odporność",
+      "Tropienie",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Mocne Plecy",
+      "Nieustępliwy",
+      "Obieżyświat",
+      "Strzelec Wyborowy"
+    ],
+    "wyposażenie": [
+      "Glejty",
+      "Kajdany",
+      "Kusza i 10 Bełtów",
+      "Skórzany Hełm",
+      "Sieć"
+    ]
+  },
+  "Mistrzyni Łowców Nagród": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Jeździectwo (Konie)",
+      "Opieka nad Zwierzętami",
+      "Pływanie",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Celny Strzał",
+      "Cios Mierzony",
+      "Dwie Bronie",
+      "Szybkobiegacz"
+    ],
+    "wyposażenie": [
+      "Kaftan Kolczy",
+      "Koń Wierzchowy z Siodłem"
+    ]
+  },
+  "Legenda Łowców Nagród": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Powożenie",
+      "Wiedza (Prawo)"
+    ],
+    "talenty": [
+      "Prosto Między Oczy",
+      "Nieustraszony (Cele Łowów)",
+      "Twardziel",
+      "Strzał Przebijający"
+    ],
+    "wyposażenie": [
+      "Kaftan Kolczy",
+      "Powóz z Koniem Pociągowym",
+      "4 pary Kajdan"
+    ]
+  },
+  "Goniec": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Biała (Bijatyka)",
+      "Unik",
+      "Nawigacja",
+      "Odporność",
+      "Percepcja",
+      "Plotkowanie",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Bardzo Szybki",
+      "Chodu!",
+      "Szybkobiegacz",
+      "Zejście z Linii"
+    ],
+    "wyposażenie": [
+      "Tuba na Zwoje"
+    ]
+  },
+  "Posłaniec": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Charyzma",
+      "Jeździectwo (Konie)",
+      "Opanowanie",
+      "Opieka nad Zwierzętami",
+      "Wiedza (Lokalna)"
+    ],
+    "talenty": [
+      "Obieżyświat",
+      "Przestępca",
+      "Wyczucie Kierunku",
+      "Z Bata"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Koń Wierzchowy z Rzędem",
+      "Skórzana Kurta"
+    ]
+  },
+  "Kurier": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Mocna Głowa",
+      "Oswajanie",
+      "Przekupstwo",
+      "Sztuka Przetrwania"
+    ],
+    "talenty": [
+      "Nieustępliwy",
+      "Nos do Kłopotów",
+      "Woltyżerka",
+      "Wytrwały"
+    ],
+    "wyposażenie": [
+      "Juki",
+      "Plecak",
+      "Tarcza"
+    ]
+  },
+  "Kapitan Kurierów": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Dowodzenie",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Nienawiść (Banici)",
+      "Niezwykle Odporny",
+      "Szycha",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Kaftan Kolczy",
+      "Kurierzy",
+      "Zestaw do Pisania"
+    ]
+  },
+  "Mytnik": {
+    "status": "Brąz 5",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Broń Zasięgowa (Kusza)",
+      "Hazard",
+      "Mocna Głowa",
+      "Percepcja",
+      "Plotkowanie",
+      "Przekupstwo",
+      "Targowanie"
+    ],
+    "talenty": [
+      "Defraudant",
+      "Numizmatyka",
+      "Strzelec Wyborowy",
+      "Zimna Krew"
+    ],
+    "wyposażenie": [
+      "Kusza z 10 Bełtami",
+      "Skórzana Kurta"
+    ]
+  },
+  "Strażnik Dróg": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Intuicja",
+      "Jeździectwo (Konie)",
+      "Odporność",
+      "Opieka nad Zwierzętami",
+      "Sztuka Przetrwania",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Obieżyświat",
+      "Przestępca",
+      "Urodzony w Siodle",
+      "Z Bata"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Kaftan Kolczy",
+      "Koń Wierzchowy z Rzędem",
+      "Lina"
+    ]
+  },
+  "Sierżant Strażników Dróg": {
+    "status": "Srebro 4",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Zasięgowa (Prochowa)",
+      "Charyzma",
+      "Dowodzenie"
+    ],
+    "talenty": [
+      "Etykieta (Żołnierze)",
+      "Nienawiść (Dowolne)",
+      "Nieustraszony (Banici)",
+      "Nos do Kłopotów"
+    ],
+    "wyposażenie": [
+      "Drużyna Strażników Dróg",
+      "Pistolet z 10 Nabojami",
+      "Tarcza",
+      "Symbol Rangi"
+    ]
+  },
+  "Kapitan Strażników Dróg": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Nawigacja",
+      "Wiedza (Imperium)"
+    ],
+    "talenty": [
+      "Mówca",
+      "Szycha",
+      "Władcza Postura",
+      "Zmysł Bitewny"
+    ],
+    "wyposażenie": [
+      "Kapelusz i Płaszcz Dobrej Jakości",
+      "Lekki"
+    ]
+  },
+  "Foryś": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Broń Zasięgowa (Unieruchamiająca)",
+      "Jeździectwo (Konie)",
+      "Odporność",
+      "Opieka nad Zwierzętami",
+      "Oswajanie",
+      "Percepcja",
+      "Powożenie",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Obieżyświat",
+      "Posłuch u Zwierząt",
+      "Woltyżerka",
+      "Wytrwały"
+    ],
+    "wyposażenie": [
+      "Bicz",
+      "Ciepły Płaszcz i Rękawice"
+    ]
+  },
+  "Woźnica": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Broń Zasięgowa (Prochowa)",
+      "Intuicja",
+      "Mocna Głowa",
+      "Plotkowanie",
+      "Nawigacja",
+      "Wiedza (Lokalna)"
+    ],
+    "talenty": [
+      "Artylerzysta",
+      "Odporność Psychiczna",
+      "Z Bata",
+      "Zimna Krew"
+    ],
+    "wyposażenie": [
+      "Garłacz z 10 Nabojami",
+      "Kapelusz",
+      "Skórzana Kurta",
+      "Trąbka od Powozu"
+    ]
+  },
+  "Mistrz Woźniców": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Język (Dowolny)",
+      "Tresura (Konie)",
+      "Wiedza (Szlaki)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Celny Strzał",
+      "Nieustraszony (Banici)",
+      "Nos do Kłopotów",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Dobry Płaszcz",
+      "Kaftan Kolczy",
+      "Pistolet"
+    ]
+  },
+  "Mistrz Szlaków": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Charyzma",
+      "Dowodzenie"
+    ],
+    "talenty": [
+      "Nieustraszony (Zwierzoludzie)",
+      "Strzelec Wyborowy",
+      "Szybkie Przeładowanie",
+      "Wyczucie Kierunku"
+    ],
+    "wyposażenie": [
+      "Flota Koni i Powozów",
+      "Mapy"
+    ]
+  },
+  "Pomocnik Dokera": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Biała (Podstawowa)",
+      "Mocna Głowa",
+      "Odporność",
+      "Plotkowanie",
+      "Pływanie",
+      "Unik",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Bardzo Silny",
+      "Cios Poniżej Pasa",
+      "Mocne Plecy",
+      "Tragarz"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna (Bosak)",
+      "Skórzane Rękawice"
+    ]
+  },
+  "Doker": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Hazard",
+      "Percepcja",
+      "Przekupstwo",
+      "Skradanie (Miasto)",
+      "Występy (Gawędziarstwo)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Etykieta (Członkowie Cechu)",
+      "Przestępca",
+      "Silne Nogi",
+      "Wytrwały"
+    ],
+    "wyposażenie": [
+      "Fajka i Tytoń",
+      "Licencja Cechu",
+      "Skórzany Kaftan",
+      "Czapka Tragarza"
+    ]
+  },
+  "Brygadzista": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Dowodzenie",
+      "Intuicja",
+      "Opanowanie",
+      "Wycena"
+    ],
+    "talenty": [
+      "Defraudant",
+      "Etykieta (Przestępcy)",
+      "Mówca",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Gang Dokerów",
+      "Gwizdek"
+    ]
+  },
+  "Mistrz Dokerów": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Charyzma",
+      "Wiedza (Podatki)"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Groźny",
+      "Numizmatyka",
+      "Szycha"
+    ],
+    "wyposażenie": [
+      "Kantor z Pracownikami",
+      "Zestaw do Pisania"
+    ]
+  },
+  "Rybak": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Atletyka",
+      "Mocna Głowa",
+      "Odporność",
+      "Plotkowanie",
+      "Pływanie",
+      "Sztuka Przetrwania",
+      "Unik",
+      "Wioślarstwo"
+    ],
+    "talenty": [
+      "Doświadczony Wędrowiec (Bagna)",
+      "Rybak",
+      "Świetny Pływak",
+      "Towarzyski"
+    ],
+    "wyposażenie": [
+      "Skórzane Nogawice",
+      "Wiadro",
+      "Wędka z Przynętą"
+    ]
+  },
+  "Flisak": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Broń Zasięgowa (Rzucana)",
+      "Broń Zasięgowa (Unieruchamiająca)",
+      "Hazard",
+      "Wiedza (Lokalna)",
+      "Wiedza (Szlaki Rzeczne)",
+      "Zastawianie Pułapek"
+    ],
+    "talenty": [
+      "Mocne Plecy",
+      "Włóczykij",
+      "Wodniak",
+      "Wytwórca (Szkutnik)"
+    ],
+    "wyposażenie": [
+      "Pułapka na Węgorze",
+      "Skórzany Kaftan",
+      "Sieć",
+      "Włócznia"
+    ]
+  },
+  "Znawca Rzeki": {
+    "status": "Brąz 5",
+    "umiejętności": [
+      "Broń Biała (Drzewcowa)",
+      "Intuicja",
+      "Percepcja",
+      "Przekonywanie"
+    ],
+    "talenty": [
+      "Bardzo Silny",
+      "Waleczne Serce",
+      "Wytrwały",
+      "Znawca (Szlaki Rzeczne)"
+    ],
+    "wyposażenie": [
+      "Lampa Sztormowa z Oliwą",
+      "Łódź Wiosłowa"
+    ]
+  },
+  "Starszy Rzeczny": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Wiedza (Ludowa)",
+      "Występy (Gawędziarstwo)"
+    ],
+    "talenty": [
+      "Czujny",
+      "Odporność Psychiczna",
+      "Mistrz Rzemiosła (Szkutnictwo)",
+      "Mówca"
+    ],
+    "wyposażenie": [
+      "Chata lub Szkuta"
+    ]
+  },
+  "Przewodnik Rzeczny": {
+    "status": "Brąz 4",
+    "umiejętności": [
+      "Intuicja",
+      "Mocna Głowa",
+      "Percepcja",
+      "Plotkowanie",
+      "Pływanie",
+      "Wiedza (Lokalna)",
+      "Wiedza (Szlaki Rzeczne)",
+      "Wioślarstwo"
+    ],
+    "talenty": [
+      "Rybak",
+      "Widzenie w Ciemności",
+      "Wodniak",
+      "Wyczucie Kierunku"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna (Bosak)",
+      "Lampa Sztormowa z Oliwą"
+    ]
+  },
+  "Pilot Rzeczny": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Charyzma",
+      "Język (Dowolny)",
+      "Nawigacja",
+      "Opanowanie",
+      "Występy (Gawędziarstwo)"
+    ],
+    "talenty": [
+      "Etykieta (Cechy)",
+      "Nos do Kłopotów",
+      "Pilot Rzeczny",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Lina",
+      "Łódź Wiosłowa",
+      "Skórzany Kaftan"
+    ]
+  },
+  "Starszy Pilot": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Targowanie",
+      "Wiedza (Lokalna)",
+      "Wiedza (Wraki)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Bardzo Silny",
+      "Pilot",
+      "Urodzony Żeglarz",
+      "Wyczulony Zmysł (Wzrok),"
+    ],
+    "wyposażenie": [
+      "Drąg",
+      "Lampa Sztormowa z Oliwą"
+    ]
+  },
+  "Mistrz Pilotów": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Dowodzenie",
+      "Żeglarstwo"
+    ],
+    "talenty": [
+      "Czujny",
+      "Szósty Zmysł",
+      "Świetny Pływak",
+      "Wytrwały"
+    ],
+    "wyposażenie": [
+      "Chłopiec Pokładowy",
+      "Mała Łódź Rzeczna"
+    ]
+  },
+  "Szabrownik": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Mocna Głowa",
+      "Odporność",
+      "Pływanie",
+      "Sztuka Przetrwania",
+      "Unik",
+      "Wioślarstwo",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Mocne Plecy",
+      "Przestępca",
+      "Rybak",
+      "Wtargnięcie z Włamaniem"
+    ],
+    "wyposażenie": [
+      "Duży Worek",
+      "Łom",
+      "Skórzane Rękawice"
+    ]
+  },
+  "Pirat Rzeczny": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Intuicja",
+      "Nawigacja",
+      "Opanowanie",
+      "Percepcja",
+      "Przekupstwo",
+      "Zastawianie Pułapek"
+    ],
+    "talenty": [
+      "Chodu!",
+      "Świetny Pływak",
+      "Traper",
+      "Włóczykij"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna (Bosak)",
+      "Skórzana Kurta",
+      "Lampa Sztormowa z Oliwą"
+    ]
+  },
+  "Łupieżca": {
+    "status": "Brąz 5",
+    "umiejętności": [
+      "Broń Zasięgowa (Kusza)",
+      "Plotkowanie",
+      "Skradanie (Wieś)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Cios Poniżej Pasa",
+      "Etykieta (Przestępcy)",
+      "Groźny",
+      "Wodniak"
+    ],
+    "wyposażenie": [
+      "Kotwiczka z Liną",
+      "Kusza z 10 Bełtami",
+      "Łódź Rzeczna"
+    ]
+  },
+  "Kapitan Łupieżców": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Dowodzenie",
+      "Wiedza (Szlaki Wodne)"
+    ],
+    "talenty": [
+      "Pilot",
+      "Skrócenie Dystansu",
+      "Urodzony Wojownik",
+      "Wściekły Atak"
+    ],
+    "wyposażenie": [
+      "Beczułka Piwa",
+      "Flota Łodzi Rzecznych z Załogą Piratów",
+      "Kajdany"
+    ]
+  },
+  "Szmuglerka Rzeczna": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Atletyka",
+      "Mocna Głowa",
+      "Opanowanie",
+      "Pływanie",
+      "Przekupstwo",
+      "Skradanie (Wieś albo Miasto)",
+      "Wioślarstwo",
+      "Żeglarstwo"
+    ],
+    "talenty": [
+      "Doświadczony Wędrowiec (Bagna)",
+      "Mocne Plecy",
+      "Przestępca",
+      "Rybak"
+    ],
+    "wyposażenie": [
+      "Chusta albo Maska",
+      "Duży Worek",
+      "Lampa Sztormowa z Oliwą",
+      "Pudełko na Hubkę i Krzesiwo"
+    ]
+  },
+  "Przemytniczka": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Percepcja",
+      "Plotkowanie",
+      "Sekretne Znaki (Przemytników)",
+      "Targowanie",
+      "Wiedza (Lokalna)"
+    ],
+    "talenty": [
+      "Bardzo Silny",
+      "Etykieta (Przestępcy)",
+      "Wodniak",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Skórzana Kurta",
+      "Łódź Wiosłowa",
+      "2 Beczki"
+    ]
+  },
+  "Mistrzyni Przemytników": {
+    "status": "Brąz 5",
+    "umiejętności": [
+      "Intuicja",
+      "Wiedza (Szlaki Rzeczne)",
+      "Wycena",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Łapówkarz",
+      "Nieustraszony (Strażnicy Rzeczni)",
+      "Pilot",
+      "Świetny Pływak"
+    ],
+    "wyposażenie": [
+      "Szmugler Rzeczny",
+      "Szybka Łódź Rzeczna"
+    ]
+  },
+  "Królowa Przemytników": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Dowodzenie",
+      "Język (Dowolny)"
+    ],
+    "talenty": [
+      "Błyskotliwość",
+      "Doświadczony Wędrowiec (Wybrzeża)",
+      "Szycha",
+      "Urodzony Żeglarz"
+    ],
+    "wyposażenie": [
+      "Mała Flota Łodzi Rzecznych",
+      "Zestaw do Charakteryzacji"
+    ]
+  },
+  "Chłopiec Pokładowy": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Broń Biała (Bijatyka)",
+      "Mocna Głowa",
+      "Odporność",
+      "Plotkowanie",
+      "Pływanie",
+      "Unik",
+      "Wioślarstwo",
+      "Żeglarstwo"
+    ],
+    "talenty": [
+      "Cios Poniżej Pasa",
+      "Mocne Plecy",
+      "Rybak",
+      "Świetny Pływak"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna (Bosak)",
+      "Drąg",
+      "Skórzana Kurta"
+    ]
+  },
+  "Przewoźnik": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Atletyka",
+      "Intuicja",
+      "Percepcja",
+      "Targowanie",
+      "Wiedza (Szlaki Rzeczne)",
+      "Występy (Gawędziarstwo)"
+    ],
+    "talenty": [
+      "Bardzo Silny",
+      "Etykieta (Cechy)",
+      "Obieżyświat",
+      "Wodniak"
+    ],
+    "wyposażenie": [
+      "Lina",
+      "Łódź Wiosłowa"
+    ]
+  },
+  "Sternik": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Leczenie",
+      "Rzemiosło (Szkutnictwo)",
+      "Wspinaczka",
+      "Występy (Śpiewanie)"
+    ],
+    "talenty": [
+      "Defraudant",
+      "Nos do Kłopotów",
+      "Silny Cios",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Plecak",
+      "Narzędzia Pracy (Szkutnika)"
+    ]
+  },
+  "Kapitan Barki": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Dowodzenie",
+      "Nawigacja"
+    ],
+    "talenty": [
+      "Groźny",
+      "Mówca",
+      "Pilot",
+      "Wyczucie Kierunku"
+    ],
+    "wyposażenie": [
+      "Kapelusz",
+      "Łódź Rzeczna z Załogą"
+    ]
+  },
+  "Rekrut Rzeczny": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Biała (Podstawowa)",
+      "Odporność",
+      "Percepcja",
+      "Pływanie",
+      "Unik",
+      "Wioślarstwo",
+      "Żeglarstwo"
+    ],
+    "talenty": [
+      "Bardzo Silny",
+      "Mocne Plecy",
+      "Świetny Pływak",
+      "Wodniak"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna (Miecz)",
+      "Mundur",
+      "Skórzana Kurta"
+    ]
+  },
+  "Strażnik Rzeczny": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Broń Zasięgowa (Prochowa)",
+      "Charyzma",
+      "Przekupstwo",
+      "Plotkowanie",
+      "Wiedza (Szlaki Rzeczne)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Artylerzysta",
+      "Obieżyświat",
+      "Przestępca",
+      "Rybak"
+    ],
+    "wyposażenie": [
+      "Latarnia z Oliwą",
+      "Pistolet z 10 Nabojami",
+      "Tarcza"
+    ]
+  },
+  "Żołnierz Okrętowy": {
+    "status": "Srebro 4",
+    "umiejętności": [
+      "Dowodzenie",
+      "Intuicja",
+      "Opanowanie",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Nienawiść (Dowolna)",
+      "Nieustraszony (Piraci Rzeczni)",
+      "Pilot",
+      "Urodzony Żeglarz"
+    ],
+    "wyposażenie": [
+      "Hełm",
+      "Kaftan Kolczy",
+      "Kotwiczka"
+    ]
+  },
+  "Mistrz Żołnierzy Okrętowych": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Nawigacja",
+      "Wiedza (Prawo)"
+    ],
+    "talenty": [
+      "Groźny",
+      "Szycha",
+      "Władcza Postura",
+      "Wyczucie Kierunku"
+    ],
+    "wyposażenie": [
+      "Łodzie Patrolowe z Załogą",
+      "Symbol Rangi"
+    ]
+  },
+  "Szczur Lądowy": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Broń Biała (Bijatyka)",
+      "Hazard",
+      "Mocna Głowa",
+      "Plotkowanie",
+      "Pływanie",
+      "Wioślarstwo",
+      "Wspinaczka",
+      "Żeglarstwo"
+    ],
+    "talenty": [
+      "Doświadczony Wędrowiec (Wybrzeża)",
+      "Mocne Plecy",
+      "Rybak",
+      "Świetny Pływak"
+    ],
+    "wyposażenie": [
+      "Mop",
+      "Szczotka",
+      "Wiadro"
+    ]
+  },
+  "Żeglarz": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Biała (Podstawowa)",
+      "Język (Dowolny)",
+      "Odporność",
+      "Unik",
+      "Występy (Śpiewanie)"
+    ],
+    "talenty": [
+      "Na Cztery Łapy",
+      "Obieżyświat",
+      "Silne Nogi",
+      "Urodzony Żeglarz"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna (Bosak)",
+      "Skórzany Kaftan"
+    ]
+  },
+  "Bosman": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Dowodzenie",
+      "Opanowanie",
+      "Percepcja",
+      "Rzemiosło (Cieśla)"
+    ],
+    "talenty": [
+      "Bardzo Silny",
+      "Silny Cios",
+      "Wilk Morski",
+      "Wytrwały"
+    ],
+    "wyposażenie": [
+      "Narzędzia Pracy (Cieśli)"
+    ]
+  },
+  "Kapitan Statku": {
+    "status": "Złoto 2",
+    "umiejętności": [
+      "Charyzma",
+      "Nawigacja"
+    ],
+    "talenty": [
+      "Błyskotliwość",
+      "Mówca",
+      "Pilot",
+      "Wyczucie Kierunku"
+    ],
+    "wyposażenie": [
+      "Luneta",
+      "Mapy Morskie",
+      "Sekstant",
+      "Statek Żeglowny z Załogą"
+    ]
+  },
+  "Zbój": {
+    "status": "Brąz 1",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Biała (Podstawowa)",
+      "Hazard",
+      "Mocna Głowa",
+      "Opanowanie",
+      "Odporność",
+      "Sztuka Przetrwania",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Zmysł Bitewny",
+      "Przestępca",
+      "Włóczykij",
+      "Chodu!"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Pudełko na Hubkę i Krzesiwo",
+      "Skórzany Kaftan",
+      "Zwijane Posłanie"
+    ]
+  },
+  "Banita": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Broń Zasięgowa (Łuk)",
+      "Leczenie",
+      "Percepcja",
+      "Skradanie (Wieś)",
+      "Unik",
+      "Wiedza (Lokalna)"
+    ],
+    "talenty": [
+      "Cios Poniżej Pasa",
+      "Ogłuszenie",
+      "Strzelec Wyborowy",
+      "Traper"
+    ],
+    "wyposażenie": [
+      "Łuk i 10 Strzał",
+      "Namiot",
+      "Tarcza"
+    ]
+  },
+  "Herszt Banitów": {
+    "status": "Brąz 4",
+    "umiejętności": [
+      "Dowodzenie",
+      "Intuicja",
+      "Jeździectwo (Konie)",
+      "Plotkowanie"
+    ],
+    "talenty": [
+      "Groźny",
+      "Niezwykle Odporny",
+      "Szybkie Przeładowanie",
+      "Urodzony w Siodle"
+    ],
+    "wyposażenie": [
+      "Banda Banitów",
+      "Hełm",
+      "Kaftan Kolczy z Rękawami",
+      "Koń Wierzchowy z Rzędem"
+    ]
+  },
+  "Król Bandytów": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Charyzma",
+      "Wiedza (Imperium)"
+    ],
+    "talenty": [
+      "Prosto Między Oczy",
+      "Nieustraszony (Strażnicy Dróg)",
+      "Żelazna Wola",
+      "Krzepki"
+    ],
+    "wyposażenie": [
+      "Hołd od Miejscowych Hersztów Banitów",
+      "Kryjówka"
+    ]
+  },
+  "Szeptucha": {
+    "status": "Brąz 1",
+    "umiejętności": [
+      "Język (Magiczny)",
+      "Odporność",
+      "Opanowanie",
+      "Plotkowanie",
+      "Skradanie (Wieś)",
+      "Splatanie Magii",
+      "Zastraszanie",
+      "Zwinne Palce"
+    ],
+    "talenty": [
+      "Groźny",
+      "Magia Prosta",
+      "Precyzyjne Inkantowanie",
+      "Przestępca"
+    ],
+    "wyposażenie": [
+      "Kreda",
+      "Lalka",
+      "Szpilki",
+      "Świece"
+    ]
+  },
+  "Czarownica": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Broń Biała (Drzewcowa)",
+      "Intuicja",
+      "Oswajanie",
+      "Percepcja",
+      "Rzemiosło (Zielarz)",
+      "Unik"
+    ],
+    "talenty": [
+      "Atrakcyjny",
+      "Czarownica!",
+      "Magia Tajemna (Czarownic)",
+      "Percepcja Magiczna",
+      "Szósty Zmysł"
+    ],
+    "wyposażenie": [
+      "Kostur",
+      "Narzędzia Pracy (Zielarza)",
+      "Worek",
+      "Wybór Ziół"
+    ]
+  },
+  "Wiedźma": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Charyzma",
+      "Przekupstwo",
+      "Targowanie",
+      "Wiedza (Mroczna Magia)"
+    ],
+    "talenty": [
+      "Posłuch u Zwierząt",
+      "Ruchliwe Dłonie",
+      "Straszny",
+      "Wykrywanie Magii"
+    ],
+    "wyposażenie": [
+      "Amulety na Szczęście",
+      "Plecak",
+      "Płaszcz z Kilkoma Kieszeniami"
+    ]
+  },
+  "Czarnoksiężnik": {
+    "status": "Brąz 5",
+    "umiejętności": [
+      "Wiedza (Demonologia)",
+      "Wiedza (Magia)"
+    ],
+    "talenty": [
+      "Niezwykle Odporny",
+      "Odporność Psychiczna",
+      "Szczęście",
+      "Zmysł Magii"
+    ],
+    "wyposażenie": [
+      "Czaszka",
+      "Szata"
+    ]
+  },
+  "Porywacz Zwłok": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Intuicja",
+      "Odporność",
+      "Opanowanie",
+      "Percepcja",
+      "Plotkowanie",
+      "Skradanie (Dowolne)",
+      "Unik",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Chodu!",
+      "Przestępca",
+      "Mocne Plecy",
+      "Ulicznik"
+    ],
+    "wyposażenie": [
+      "Łom",
+      "Plandeka",
+      "Płaszcz z Kapturem",
+      "Taczka"
+    ]
+  },
+  "Hiena Cmentarna": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Powożenie",
+      "Przekupstwo",
+      "Targowanie",
+      "Wiedza (Medycyna)",
+      "Wycena"
+    ],
+    "talenty": [
+      "Bardzo Silny",
+      "Odporny na (Choroby)",
+      "Widzenie w Ciemności",
+      "Wtargnięcie z Włamaniem"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Lampa Sztormowa z Oliwą",
+      "Plecak",
+      "Szpadel"
+    ]
+  },
+  "Rabuś Grobowców": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Badania Naukowe",
+      "Otwieranie Zamków",
+      "Wiedza (Historia)",
+      "Zastawianie Pułapek"
+    ],
+    "talenty": [
+      "Czytanie/Pisanie",
+      "Silny Cios",
+      "Szczur Kanałowy",
+      "Wytrwały"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna (Kilof )",
+      "Lina",
+      "Narzędzia Pracy (Złodziei)",
+      "Skórzana Kurta",
+      "Wóz z Koniem"
+    ]
+  },
+  "Łowca Skarbów": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Nawigacja",
+      "Rzemiosło (Inżynier)"
+    ],
+    "talenty": [
+      "Nieustraszony (Nieumarli)",
+      "Odporność Psychiczna",
+      "Szósty Zmysł",
+      "Traper"
+    ],
+    "wyposażenie": [
+      "Mapy",
+      "Namiot",
+      "Narzędzia Pracy (Inżyniera)",
+      "Zestaw do Pisania",
+      "Zwijane Posłanie"
+    ]
+  },
+  "Pośrednik": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Charyzma",
+      "Hazard",
+      "Mocna Głowa",
+      "Plotkowanie",
+      "Targowanie",
+      "Unik",
+      "Wycena"
+    ],
+    "talenty": [
+      "Szuler",
+      "Towarzyski",
+      "Ulicznik",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Skradzione Dobra warte 3k10 Szylingów"
+    ]
+  },
+  "Paser": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Intuicja",
+      "Opanowanie",
+      "Percepcja",
+      "Rzemiosło (Grawer)",
+      "Sekretne Znaki (Złodziei)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Błyskotliwość",
+      "Etykieta (Przestępcy)",
+      "Numizmatyka",
+      "Przestępca"
+    ],
+    "wyposażenie": [
+      "Monokl",
+      "Narzędzia Pracy (Grawera)",
+      "Zestaw do Pisania"
+    ]
+  },
+  "Mistrz Paserów": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Przekupstwo",
+      "Wiedza (Lokalna)",
+      "Wiedza (Sztuka)",
+      "Występy (Gawędziarstwo)"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Geniusz Arytmetyczny",
+      "Ogłuszenie",
+      "Szycha"
+    ],
+    "wyposażenie": [
+      "Lombard"
+    ]
+  },
+  "Broker Informacji": {
+    "status": "Srebro 4",
+    "umiejętności": [
+      "Badania Naukowe",
+      "Wiedza (Heraldyka)"
+    ],
+    "talenty": [
+      "Cios Poniżej Pasa",
+      "Groźny",
+      "Łapówkarz",
+      "Żelazna Wola"
+    ],
+    "wyposażenie": [
+      "Magazyn",
+      "Sieć Informatorów",
+      "Wynajęty Mięśniak"
+    ]
+  },
+  "Naganiacz": {
+    "status": "Brąz 1",
+    "umiejętności": [
+      "Charyzma",
+      "Hazard",
+      "Mocna Głowa",
+      "Przekupstwo",
+      "Plotkowanie",
+      "Targowanie",
+      "Występy (Dowolne)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Atrakcyjny",
+      "Gadanina",
+      "Towarzyski",
+      "Ulicznik"
+    ],
+    "wyposażenie": [
+      "Flaszka Mocnego Alkoholu"
+    ]
+  },
+  "Rajfur": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Broń Biała (Podstawowa),"
+    ],
+    "talenty": [
+      "Hulaka",
+      "Oburęczność",
+      "Odporny na (Choroby)",
+      "Przestępca"
+    ],
+    "wyposażenie": [
+      "Dawka Dziwnokorzenia",
+      "Dobre Ubranie"
+    ]
+  },
+  "Stręczyciel": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Język (Dowolny)",
+      "Opanowanie",
+      "Wiedza (Prawo)",
+      "Wycena"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Defraudant",
+      "Etykieta (Dowolna Grupa)",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Sieć Naganiaczy"
+    ]
+  },
+  "Herszt Rajfurów": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Dowodzenie",
+      "Wiedza (Heraldyka)"
+    ],
+    "talenty": [
+      "Błyskotliwość",
+      "Łapówkarz",
+      "Numizmatyka",
+      "Szycha"
+    ],
+    "wyposażenie": [
+      "Kamienica z Dyskretnym Wejściem od Tyłu",
+      "Sieć Rajfurów"
+    ]
+  },
+  "Zbir": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Broń Biała (Bijatyka)",
+      "Mocna Głowa",
+      "Odporność",
+      "Skradanie (Miasto)",
+      "Opanowanie",
+      "Unik",
+      "Wiedza (Lokalna)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Etykieta (Przestępcy)",
+      "Groźny",
+      "Przestępca",
+      "Silny Cios"
+    ],
+    "wyposażenie": [
+      "Kastet",
+      "Skórzana Kurta"
+    ]
+  },
+  "Reketer": {
+    "status": "Brąz 5",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Charyzma",
+      "Język (Estalijski albo Tileański)",
+      "Plotkowanie",
+      "Przekupstwo",
+      "Wycena"
+    ],
+    "talenty": [
+      "Cios Poniżej Pasa",
+      "Defraudant",
+      "Ogłuszenie",
+      "Urodzony Wojownik"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Kaftan Kolczy",
+      "Kapelusz"
+    ]
+  },
+  "Głowa Gangu": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Intuicja",
+      "Dowodzenie",
+      "Percepcja",
+      "Broń Zasięgowa (Kusza)"
+    ],
+    "talenty": [
+      "Krzepki",
+      "Nieustraszony (Straże)",
+      "Odporny na (Trucizny)",
+      "Żelazna Wola"
+    ],
+    "wyposażenie": [
+      "Gang Zbirów i Reketerów",
+      "Kryjówka",
+      "Kusza Pistoletowa z 10 Bełtami"
+    ]
+  },
+  "Król Podziemia": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Wiedza (Polityka)",
+      "Wiedza (Prawo)"
+    ],
+    "talenty": [
+      "Majętny",
+      "Straszny",
+      "Szycha",
+      "Władcza Postura"
+    ],
+    "wyposażenie": [
+      "Dobre Ubranie z Kapeluszem",
+      "Kilka Podporządkowanych Głów Gangów",
+      "Sieć Informatorów"
+    ]
+  },
+  "Kanciarz": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Charyzma",
+      "Hazard",
+      "Mocna Głowa",
+      "Plotkowanie",
+      "Przekupstwo",
+      "Targowanie",
+      "Występy (Gawędziarstwo)",
+      "Zwinne Palce"
+    ],
+    "talenty": [
+      "Etykieta (Dowolna Grupa)",
+      "Szczęście",
+      "Szuler",
+      "Szuler Kościany"
+    ],
+    "wyposażenie": [
+      "Plecak",
+      "Talia Kart",
+      "Zestaw Kości",
+      "2 Komplety Ubrań"
+    ]
+  },
+  "Szarlatan": {
+    "status": "Brąz 5",
+    "umiejętności": [
+      "Intuicja",
+      "Opanowanie",
+      "Percepcja",
+      "Unik",
+      "Wycena",
+      "Występy (Aktorstwo)"
+    ],
+    "talenty": [
+      "Gadanina",
+      "Przestępca",
+      "Ruchliwe Dłonie",
+      "Sekretna Tożsamość"
+    ],
+    "wyposażenie": [
+      "1 Sfałszowany Dokument",
+      "2 Komplety Ubrań Dobrej Jakości",
+      "Wybór Kolorowych Proszków i Płynów",
+      "Wybór Błyskotek i Amuletów"
+    ]
+  },
+  "Oszust": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Język (Grypsera)",
+      "Wiedza (Heraldyka)",
+      "Otwieranie Zamków",
+      "Sekretne Znaki (Złodziei)"
+    ],
+    "talenty": [
+      "Atrakcyjny",
+      "Czytanie/Pisanie",
+      "Gładkie Słówka",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "Zestaw do Charakteryzacji",
+      "Wytrychy",
+      "Liczne Sfałszowane Dokumenty"
+    ]
+  },
+  "Łajdak": {
+    "status": "Srebro 4",
+    "umiejętności": [
+      "Badania Naukowe",
+      "Wiedza (Genealogia)"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Mistrz Charakteryzacji",
+      "Nos do Kłopotów",
+      "Towarzyski"
+    ],
+    "wyposażenie": [
+      "Podrobiona Pieczęć",
+      "Zestaw do Pisania"
+    ]
+  },
+  "Bandzior": {
+    "status": "Brąz 1",
+    "umiejętności": [
+      "Atletyka",
+      "Intuicja",
+      "Odporność",
+      "Opanowanie",
+      "Percepcja",
+      "Skradanie (Miasto)",
+      "Unik",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Chodu!",
+      "Ogłuszenie",
+      "Przestępca",
+      "Ulicznik"
+    ],
+    "wyposażenie": [
+      "Łom",
+      "Skórzany Kaftan",
+      "Worek"
+    ]
+  },
+  "Złodziej": {
+    "status": "Brąz 3",
+    "umiejętności": [
+      "Otwieranie Zamków",
+      "Plotkowanie",
+      "Sekretne Znaki (Złodziei)",
+      "Wiedza (Lokalna)",
+      "Wycena",
+      "Zwinne Palce"
+    ],
+    "talenty": [
+      "Cień",
+      "Etykieta (Przestępcy)",
+      "Ruchliwe Dłonie",
+      "Szybki Refleks",
+      "Wtargnięcie z Włamaniem"
+    ],
+    "wyposażenie": [
+      "Lina",
+      "Narzędzia Pracy (Złodziei)"
+    ]
+  },
+  "Mistrz Złodziejski": {
+    "status": "Brąz 5",
+    "umiejętności": [
+      "Broń Zasięgowa (Kusza)",
+      "Hazard",
+      "Przekupstwo",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Traper",
+      "Widzenie w Ciemności",
+      "Zejście z Linii",
+      "Zręczne Palce"
+    ],
+    "wyposażenie": [
+      "Kusza Pistoletowa z 10 Bełtami"
+    ]
+  },
+  "Włamywacz": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Charyzma",
+      "Zastawianie Pułapek"
+    ],
+    "talenty": [
+      "Na Cztery Łapy",
+      "Majętny",
+      "Silne Nogi",
+      "Wyborny Wspinacz"
+    ],
+    "wyposażenie": [
+      "Ciemne Ubranie",
+      "Chusta albo Maska",
+      "Kotwiczka"
+    ]
+  },
+  "Pięściarz": {
+    "status": "Brąz 4",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Biała (Bijatyka)",
+      "Broń Biała (Dowolna)",
+      "Hazard",
+      "Odporność",
+      "Opanowanie",
+      "Unik",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Cios Poniżej Pasa",
+      "Odwrócenie Szans",
+      "Skrócenie Dystansu",
+      "Żelazna Szczęka"
+    ],
+    "wyposażenie": [
+      "Bandaże",
+      "Kastet",
+      "Skórzana Kurta"
+    ]
+  },
+  "Gladiator": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Targowanie",
+      "Intuicja",
+      "Broń Biała (Podstawowa)",
+      "Broń Biała (Korbacz albo Dwuręczna)",
+      "Percepcja",
+      "Broń Zasięgowa (Unieruchamiająca)"
+    ],
+    "talenty": [
+      "Bitewny Refleks",
+      "Dwie Bronie",
+      "Oburęczność",
+      "Tarczownik"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Bicz albo Sieć",
+      "Korbacz albo Broń Dwuręczna",
+      "Puklerz albo Tarcza"
+    ]
+  },
+  "Mistrz Areny": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Kuglarstwo (Walka Pokazowa)",
+      "Mocna Głowa",
+      "Plotkowanie",
+      "Wiedza (Anatomia)"
+    ],
+    "talenty": [
+      "Groźny",
+      "Krzepki",
+      "Mistrz Walki",
+      "Rozbrojenie"
+    ],
+    "wyposażenie": [
+      "Hełm",
+      "Napierśnik"
+    ]
+  },
+  "Legenda Areny": {
+    "status": "Złoto 2",
+    "umiejętności": [
+      "Broń Zasięgowa (Dowolna)",
+      "Charyzma"
+    ],
+    "talenty": [
+      "Atak Wyprzedzający",
+      "Nieubłagany",
+      "Straszny",
+      "Wściekły Atak"
+    ],
+    "wyposażenie": [
+      "Hełm Dobrej Jakości"
+    ]
+  },
+  "Nowicjusz Kapłanów-wojowników": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Broń Biała (Dowolna)",
+      "Dowodzenie",
+      "Leczenie",
+      "Modlitwa",
+      "Odporność",
+      "Opanowanie",
+      "Wiedza (Teologia)",
+      "Unik"
+    ],
+    "talenty": [
+      "Błogosławieństwo (Dowolna Tradycja)",
+      "Czytanie/ Pisanie",
+      "Etykieta (Kultyści)",
+      "Odporność Psychiczna"
+    ],
+    "wyposażenie": [
+      "Broń Biała (Dowolna)",
+      "Księga (Religia)",
+      "Skórzany Kaftan",
+      "Symbol Religijny",
+      "Szata"
+    ]
+  },
+  "Kapłan-wojownik": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Broń Biała (Dowolna)",
+      "Broń Zasięgowa (Dowolna)",
+      "Charyzma",
+      "Język (Bitewny)",
+      "Występy (Przemawianie)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Dwie Bronie",
+      "Inspirujący",
+      "Inwokacja (Dowolna Tradycja)",
+      "Obieżyświat"
+    ],
+    "wyposażenie": [
+      "Broń (Dowolna)",
+      "Napierśnik"
+    ]
+  },
+  "Kapłan-sierżant": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Intuicja",
+      "Jeździectwo (Konie)",
+      "Percepcja",
+      "Opieka nad zwierzętami"
+    ],
+    "talenty": [
+      "Czysta Dusza",
+      "Święte Wizje",
+      "Waleczne Serce",
+      "Zmysł Bitewny"
+    ],
+    "wyposażenie": [
+      "Lekki Koń Bojowy z Siodłem i Uprzężą"
+    ]
+  },
+  "Kapłan-kapitan": {
+    "status": "Srebro 4",
+    "umiejętności": [
+      "Mocna Głowa",
+      "Wiedza (Sztuka Wojenna)"
+    ],
+    "talenty": [
+      "Nieustraszony (Dowolny)",
+      "Święta Nienawiść",
+      "Wódz",
+      "Wściekły Atak"
+    ],
+    "wyposażenie": [
+      "Relikwia"
+    ]
+  },
+  "Jeździec": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Jeździectwo (Konie)",
+      "Język (Bitewny)",
+      "Odporność",
+      "Opieka nad Zwierzętami",
+      "Oswajanie",
+      "Percepcja",
+      "Sztuka Przetrwania"
+    ],
+    "talenty": [
+      "Szybki Refleks",
+      "Urodzony w Siodle",
+      "Z Bata",
+      "Zmysł Bitewny"
+    ],
+    "wyposażenie": [
+      "Koń Wierzchowy z Rzędem",
+      "Skórzana Kurta"
+    ]
+  },
+  "Kawalerzysta": {
+    "status": "Srebro 4",
+    "umiejętności": [
+      "Broń Biała (Kawaleryjska)",
+      "Broń Zasięgowa (Prochowa)",
+      "Charyzma",
+      "Mocna Głowa",
+      "Opanowanie",
+      "Plotkowanie"
+    ],
+    "talenty": [
+      "Artylerzysta",
+      "Etykieta (Żołnierze)",
+      "Obieżyświat",
+      "Woltyżerka"
+    ],
+    "wyposażenie": [
+      "Hełm",
+      "Lekki Koń Bojowy z Siodłem i Uprzężą",
+      "Napierśnik",
+      "Pistolet z 10 Nabojami",
+      "Tarcza"
+    ]
+  },
+  "Sierżant Kawalerii": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Intuicja",
+      "Dowodzenie",
+      "Wiedza (Sztuka Wojenna)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Bitewny Refleks",
+      "Błyskawiczny Strzał",
+      "Nienawiść (Dowolna)",
+      "Wódz"
+    ],
+    "wyposażenie": [
+      "Szarfa"
+    ]
+  },
+  "Oficer Kawalerii": {
+    "status": "Złoto 2",
+    "umiejętności": [
+      "Hazard",
+      "Wiedza (Heraldyka)"
+    ],
+    "talenty": [
+      "Atak Wyprzedzający",
+      "Celny Strzał",
+      "Inspirujący",
+      "Krzepki"
+    ],
+    "wyposażenie": [
+      "Dobre Ubranie",
+      "Talia Kart"
+    ]
+  },
+  "Stróż": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Hazard",
+      "Intuicja",
+      "Mocna Głowa",
+      "Odporność",
+      "Percepcja",
+      "Plotkowanie",
+      "Występy (Gawędziarstwo)"
+    ],
+    "talenty": [
+      "Etykieta (Słudzy)",
+      "Ogłuszenie",
+      "Szuler Kościany",
+      "Wytrwały"
+    ],
+    "wyposażenie": [
+      "Lampa Sztormowa z Oliwą",
+      "Puklerz",
+      "Skórzany Kaftan"
+    ]
+  },
+  "Ochroniarz": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Biała (Drzewcowa)",
+      "Broń Zasięgowa (Łuk)",
+      "Opanowanie",
+      "Unik",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Nieustępliwy",
+      "Odwrócenie Szans",
+      "Silny Cios",
+      "Tarczownik"
+    ],
+    "wyposażenie": [
+      "Kaftan Kolczy z Rękawami",
+      "Łuk i 10 Strzał",
+      "Tarcza",
+      "Włócznia"
+    ]
+  },
+  "Gwardzista": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Broń Biała (Dwuręczna)",
+      "Język (Bitewny)",
+      "Leczenie",
+      "Wiedza (Etykieta)"
+    ],
+    "talenty": [
+      "Nieustraszony (Intruzi)",
+      "Niewzruszony",
+      "Sprężynka",
+      "Waleczne Serce"
+    ],
+    "wyposażenie": [
+      "Broń Dwuręczna albo Halabarda",
+      "Hełm",
+      "Mundur"
+    ]
+  },
+  "Oficer Gwardii": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Dowodzenie",
+      "Wiedza (Sztuka Wojenna)"
+    ],
+    "talenty": [
+      "Krzepki",
+      "Mistrz Walki",
+      "Wściekły Atak",
+      "Żelazna Wola"
+    ],
+    "wyposażenie": [
+      "Napierśnik"
+    ]
+  },
+  "Tani Drań": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Biała (Dowolna)",
+      "Odporność",
+      "Plotkowanie",
+      "Targowanie",
+      "Unik",
+      "Występy (Szydzenie)",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Cios Poniżej Pasa",
+      "Groźny",
+      "Skrócenie Dystansu",
+      "Urodzony Wojownik"
+    ],
+    "wyposażenie": [
+      "Kastet",
+      "Kaptur albo Maska",
+      "Skórzana Kurta"
+    ]
+  },
+  "Oprych": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Charyzma",
+      "Intuicja",
+      "Jeździectwo (Konie)",
+      "Percepcja",
+      "Przekupstwo"
+    ],
+    "talenty": [
+      "Bitewny Refleks",
+      "Odwrócenie Szans",
+      "Ogłuszenie",
+      "Przestępca"
+    ],
+    "wyposażenie": [
+      "Broń Ręczna",
+      "Kaftan Kolczy",
+      "Koń Wierzchowy z Rzędem",
+      "Tarcza"
+    ]
+  },
+  "Płatny Morderca": {
+    "status": "Srebro 4",
+    "umiejętności": [
+      "Broń Zasięgowa (Rzucana)",
+      "Nawigacja",
+      "Opanowanie",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Cios Mierzony",
+      "Nieustępliwy",
+      "Rozbrojenie",
+      "Strzelec Wyborowy"
+    ],
+    "wyposażenie": [
+      "Garota",
+      "Noże do Rzucania",
+      "Płaszcz",
+      "Trucizna"
+    ]
+  },
+  "Skrytobójca": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Broń Zasięgowa (Kusza)",
+      "Występy (Aktorstwo)"
+    ],
+    "talenty": [
+      "Celny Strzał",
+      "Morderczy Atak",
+      "Oburęczność",
+      "Wściekły Atak"
+    ],
+    "wyposażenie": [
+      "Kusza z 10 Bełtami",
+      "Zestaw do Charakteryzacji"
+    ]
+  },
+  "Giermek": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Biała (Kawaleryjska)",
+      "Jeździectwo (Konie)",
+      "Leczenie",
+      "Opieka nad Zwierzętami",
+      "Oswajanie",
+      "Rzemiosło (Podkuwanie Koni)",
+      "Wiedza (Heraldyka)"
+    ],
+    "talenty": [
+      "Etykieta (Dowolna Grupa)",
+      "Tragarz",
+      "Urodzony Wojownik",
+      "Urodzony w Siodle"
+    ],
+    "wyposażenie": [
+      "Kaftan Kolczy",
+      "Koń Wierzchowy z Rzędem",
+      "Narzędzia Pracy (Podkuwanie Koni)",
+      "Skórzana Kurta",
+      ",Tarcza"
+    ]
+  },
+  "Rycerz": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Broń Biała (Dowolna)",
+      "Język (Bitewny)",
+      "Odporność",
+      "Opanowanie",
+      "Unik",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Groźny",
+      "Obieżyświat",
+      "Silny Cios",
+      "Tarczownik"
+    ],
+    "wyposażenie": [
+      "Broń Biała (Dowolna)",
+      "Kopia",
+      "Rumak z Siodłem i Uprzężą",
+      "Zbroja Płytowa z Hełmem"
+    ]
+  },
+  "Pierwszy Rycerz": {
+    "status": "Złoto 2",
+    "umiejętności": [
+      "Charyzma",
+      "Mocna Głowa",
+      "Dowodzenie",
+      "Wiedza (Sztuka Wojenna)"
+    ],
+    "talenty": [
+      "Niewzruszony",
+      "Nieustraszony (Dowolny)",
+      "Waleczne Serce",
+      "Wódz"
+    ],
+    "wyposażenie": [
+      "Kropierz",
+      "Mały Oddział Rycerzy"
+    ]
+  },
+  "Rycerz Wewnętrznego Kręgu": {
+    "status": "Złoto 4",
+    "umiejętności": [
+      "Sekretne Znaki (Zakonu Rycerskiego)",
+      "Wiedza (Dowolna)"
+    ],
+    "talenty": [
+      "Inspirujący",
+      "Morderczy Atak",
+      "Rozbrojenie",
+      "Żelazna Wola"
+    ],
+    "wyposażenie": [
+      "Giermek",
+      "Pełny Hełm z Pióropuszem",
+      "Duży Oddział lub kilka Małych Oddziałów Rycerzy"
+    ]
+  },
+  " Zabójca Trolli": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Broń Biała (Podstawowa)",
+      "Hazard",
+      "Leczenie",
+      "Mocna Głowa",
+      "Odporność",
+      "Opanowanie",
+      "Unik",
+      "Wiedza (Trolle)"
+    ],
+    "talenty": [
+      "Dwie Bronie",
+      "Nieustraszony (Wszystko)",
+      "Szał Bojowy",
+      "Zabójca"
+    ],
+    "wyposażenie": [
+      "Flaszka Mocnego Alkoholu",
+      "Topór",
+      "Tatuaże",
+      "Wstyd i Hańba"
+    ]
+  },
+  "Zabójca Olbrzymów": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Broń Biała (Dwuręczna)",
+      "Język (Bitewny)",
+      "Sztuka Przetrwania",
+      "Wiedza (Olbrzymy)",
+      "Wycena",
+      "Zastraszanie"
+    ],
+    "talenty": [
+      "Groźny",
+      "Nieubłagany",
+      "Odwrócenie Szans",
+      "Twardziel"
+    ],
+    "wyposażenie": [
+      "Biżuteria",
+      "Głowa Trolla",
+      "Wielki Topór"
+    ]
+  },
+  "Zabójca Smoków": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Broń Zasięgowa (Rzucana)",
+      "Percepcja",
+      "Wiedza (Smoki)",
+      "Występy (Gawędziarstwo)"
+    ],
+    "talenty": [
+      "Wściekły Atak",
+      "Nieustępliwy",
+      "Krzepki",
+      "Niezwykle Odporny"
+    ],
+    "wyposażenie": [
+      "Głowa Olbrzyma",
+      "Topory do Rzucania"
+    ]
+  },
+  "Zabójca Demonów": {
+    "status": "Brąz 2",
+    "umiejętności": [
+      "Intuicja",
+      "Wiedza (Chaos)"
+    ],
+    "talenty": [
+      "Bardzo Silny",
+      "Silny Cios",
+      "Straszny",
+      "Mistrz Walki"
+    ],
+    "wyposażenie": [
+      "Smoczy Łeb"
+    ]
+  },
+  "Rekrut": {
+    "status": "Srebro 1",
+    "umiejętności": [
+      "Atletyka",
+      "Broń Biała (Podstawowa)",
+      "Język (Bitewny)",
+      "Muzyka (Bęben albo Piszczałka)",
+      "Odporność",
+      "Opanowanie",
+      "Unik",
+      "Wspinaczka"
+    ],
+    "talenty": [
+      "Mocne Plecy",
+      "Strzelec Wyborowy",
+      "Szuler Kościany",
+      "Urodzony Wojownik"
+    ],
+    "wyposażenie": [
+      "Mundur",
+      "Skórzany Napierśnik",
+      "Sztylet"
+    ]
+  },
+  "Żołnierz": {
+    "status": "Srebro 3",
+    "umiejętności": [
+      "Broń Biała (Dowolna)",
+      "Broń Zasięgowa (Dowolna)",
+      "Hazard",
+      "Mocna Głowa",
+      "Plotkowanie",
+      "Sztuka Przetrwania"
+    ],
+    "talenty": [
+      "Etykieta (Żołnierze)",
+      "Musztra",
+      "Szybkie Przeładowanie",
+      "Tarczownik"
+    ],
+    "wyposażenie": [
+      "Broń (Dowolna)",
+      "Hełm",
+      "Napierśnik"
+    ]
+  },
+  "Sierżant": {
+    "status": "Srebro 5",
+    "umiejętności": [
+      "Dowodzenie",
+      "Intuicja",
+      "Leczenie",
+      "Percepcja"
+    ],
+    "talenty": [
+      "Niewzruszony",
+      "Walka w Ciasnocie",
+      "Wódz",
+      "Zmysł Bitewny"
+    ],
+    "wyposażenie": [
+      "Oddział Żołnierzy",
+      "Symbol Rangi"
+    ]
+  },
+  "Oficer": {
+    "status": "Złoto 1",
+    "umiejętności": [
+      "Nawigacja",
+      "Wiedza (Sztuka Wojenna)"
+    ],
+    "talenty": [
+      "Inspirujący",
+      "Mówca",
+      "Obieżyświat",
+      "Waleczne Serce"
+    ],
+    "wyposażenie": [
+      "Awans",
+      "Lekki Koń Bojowy z Siodłem i Uprzężą",
+      "Mapa",
+      "Mundur Dobrej Jakości",
+      "Oddział Żołnierzy",
+      "Rozkazy",
+      "Symbol Rangi"
+    ]
+  },
+  "Handlarz": {
+    "status": "Srebro 2",
+    "umiejętności": [
+      "Charyzma",
+      "Hazard",
+      "Mocna Głowa",
+      "Opieka nad Zwierzętami",
+      "Plotkowanie",
+      "Powożenie",
+      "Przekupstwo",
+      "Targowanie"
+    ],
+    "talenty": [
+      "Charyzmatyczny",
+      "Czytanie/Pisanie",
+      "Gadanina",
+      "Żyłka Handlowa"
+    ],
+    "wyposażenie": [
+      "liczydło",
+      "płócienna plandeka",
+      "wóz z mułem",
+      "3k10 srebrnych szylingów"
+    ]
+  }
+}
