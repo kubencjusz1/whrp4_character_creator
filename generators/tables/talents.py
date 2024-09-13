@@ -1,0 +1,43 @@
+from generators.globals import *
+
+random_talent = [
+    (1, 3, "Atrakcyjny"),
+    (4, 6, "Bardzo Silny"),
+    (7, 8, "Błękitna Krew"),
+    (9, 11, "Błyskotliwość"),
+    (12, 14, "Charyzmatyczny"),
+    (15, 17, "Chodu!"),
+    (18, 20, "Czujny"),
+    (21, 24, "Czysta Dusza"),
+    (25, 27, "Czytanie/Pisanie"),
+    (28, 31, "Geniusz Arytmetyczny"),
+    (32, 34, "Naśladowca"),
+    (35, 37, "Niezwykle Odporny"),
+    (38, 40, "Oburęczność"),
+    (41, 43, "Odporny na Zagrożenie"),
+    (44, 46, "Poliglota"),
+    (47, 49, "Posłuch u Zwierząt"),
+    (50, 52, "Silne Nogi"),
+    (53, 55, "Słuch Absolutny"),
+    (56, 58, "Strzelec Wyborowy"),
+    (59, 62, "Szczęście"),
+    (63, 66, "Szósty Zmysł"),
+    (67, 69, "Szybki Refleks"),
+    (70, 72, "Talent Artystyczny"),
+    (73, 75, "Tragarz"),
+    (76, 79, "Twardziel"),
+    (80, 82, "Urodzony Wojownik"),
+    (83, 85, "Widzenie w Ciemności"),
+    (86, 88, "Wyczucie Kierunku"),
+    (89, 91, "Wyczulony Zmysł"),
+    (92, 94, "Wytwórca"),
+    (95, 97, "Zimna Krew"),
+    (98, 100, "Zręczny")
+]
+talent_table = {
+    HUMAN: [["Błyskotliwość", "Charyzmatyczny"], ["Wróżba losu"], ["Losowy talent"], ["Losowy talent"], ["Losowy talent"]],
+    DWARF: [["Czytanie/Pisanie", "Nieustępliwy"], ["Odporność Psychiczna", "Nieugięty"], ["Odporny na Magię"], ["Tragarz"], ["Widzenie w Ciemności"]],
+    HALFLING: [["Mały"], ["Odporność na Chaos"], ["Widzenie w Ciemności"], ["Wyczulony Zmysł (Smak)"], ["Losowy talent"], ["Losowy talent"]],
+    HIGH_ELF: [["Błyskotliwość", "Zimna Krew"], ["Czytanie/Pisanie"], ["Wyczulony Zmysł (Wzrok)"], ["Widzenie w Ciemności"], ["Szósty Zmysł", "Percepcja Magiczna"]],
+    WOOD_ELF: [["Czytanie/Pisanie", "Niezwykle Odporny"], ["Włóczykij"], ["Twardziel", "Percepcja Magiczna"], ["Widzenie w Ciemności"], ["Wyczulony Zmysł (Wzrok)"]],
+}

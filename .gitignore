@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+smietnik.py
 build/
 develop-eggs/
 dist/
