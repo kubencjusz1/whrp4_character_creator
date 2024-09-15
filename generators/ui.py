@@ -18,15 +18,23 @@ class DraggableLabel(ttk.Label):
         self.place(x=x, y=y)
 
 
-def label_with_label(frame, text, var, column=0, row=0):
+def label_with_label(frame, text, var=None, column=0, row=0):
     label = ttk.Label(frame, textvariable=var)
     label.grid(row=row + 1, column=column, padx=5, pady=5)
     label = ttk.Label(frame, text=text)
     label.grid(row=row, column=column, padx=5, pady=5)
 
 
-def spinbox_with_label(frame, text, var, from_, to, column=0, row=0):
-    spinbox = ttk.Spinbox(frame,textvariable=var,from_=from_,to=to,width=5)
+def entry_with_label(frame, text, var=None, column=0, row=0):
+    entry = ttk.Entry(frame, textvariable=var)
+    entry.grid(row=row + 1, column=column, padx=5, pady=5)
+    label = ttk.Label(frame, text=text)
+    label.grid(row=row, column=column, padx=5, pady=5)
+    return entry
+
+
+def spinbox_with_label(frame, text, from_, to, var=None, column=0, row=0):
+    spinbox = ttk.Spinbox(frame, textvariable=var, from_=from_, to=to, width=5)
     spinbox.grid(row=row + 1, column=column, padx=5, pady=5)
     label = ttk.Label(frame, text=text)
     label.grid(row=row, column=column, padx=5, pady=5)
