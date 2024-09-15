@@ -92,7 +92,7 @@ class Character:
 
     def get_skills(self):
         self.skills[RACE_SKILLS] = race_skills_table.get(self.race)
-        self.skills[PROFESSION_SKILLS] = race_skills_table.get(self.race)
+        self.skills[PROFESSION_SKILLS] = [all_professions_details.get(self.true_profession).get("umiejętności")]
 
     def get_equipemnt(self):
         self.equipment.append(equipment_table.get(self.character_class))
