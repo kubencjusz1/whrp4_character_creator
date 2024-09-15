@@ -30,6 +30,8 @@ class CharacterApp(tk.Tk):
 
         self.skills_talents_frame()
 
+        self.aesthetics_and_name()
+
     def initialise_character(self):
         self.new_character = Character()
         self.new_character.get_race()
@@ -40,8 +42,10 @@ class CharacterApp(tk.Tk):
         self.var_status = tk.StringVar(value=self.new_character.status)
         self.var_character_class = tk.StringVar(value=self.new_character.character_class)
 
+        self.var_point_buy_skills = tk.IntVar(value=40)
         self.initialise_character_attributes()
         self.initialize_skills_and_talents()
+        self.initialize_aesthetics()
 
     def initialise_character_attributes(self):
         # attributes = {"WW": 0, "US": 0, "S": 0, "Wt": 0, "I": 0, "Zw": 0, "Zr": 0, "Int": 0, "SW": 0, "Ogd": 0}
@@ -86,8 +90,17 @@ class CharacterApp(tk.Tk):
 
         self.new_character.get_talents()
         self.new_character.get_skills()
-        if(len(self.new_character.skills.get(PROFESSION_SKILLS)[0])) != 8:
+        if (len(self.new_character.skills.get(PROFESSION_SKILLS)[0])) != 8:
             print("Błąd plików", self.new_character.true_profession)
+
+    def initialize_aesthetics(self):
+        self.new_character.get_name_and_look()
+        self.var_name = tk.StringVar(value=self.new_character.name)
+        self.var_name.trace("w", self.adjust_width)
+        self.var_hight = tk.StringVar(value=self.new_character.hight)
+        self.var_age = tk.StringVar(value=self.new_character.age)
+        self.var_hair_color = tk.StringVar(value=self.new_character.hair_color)
+        self.var_eye_color = tk.StringVar(value=self.new_character.eye_color)
 
     def reset_stats(self):
         self.var_ww.set(self.new_character.attributes.get(WW))
@@ -105,8 +118,8 @@ class CharacterApp(tk.Tk):
         frame = tk.LabelFrame(self.main_frame, text="Rasa Klasa i Profesja")
         frame.grid(row=0, column=0, padx=10, pady=10)
 
-        race_label = tk.Label(frame, text="Rasa")
-        race_label.grid(row=0, column=0)
+        entry_with_label(frame, "Rasa", var=self.var_race, row=0, column=0)
+
         profession_label = tk.Label(frame, text="Profesja")
         profession_label.grid(row=0, column=1)
         status_label = tk.Label(frame, text="Status")
@@ -114,8 +127,6 @@ class CharacterApp(tk.Tk):
         class_label = tk.Label(frame, text="Klasa")
         class_label.grid(row=0, column=3)
 
-        race_entry = tk.Entry(frame, textvariable=self.var_race)
-        race_entry.grid(row=1, column=0)
         profession_entry = tk.Entry(frame, textvariable=self.var_profession)
         profession_entry.grid(row=1, column=1)
         status_entry = tk.Entry(frame, textvariable=self.var_status)
@@ -144,10 +155,16 @@ class CharacterApp(tk.Tk):
                                              pady=5)
         for widget in self.sub_frame4.winfo_children():
             widget.destroy()
-        for i in range(len(self.new_character.skills.get(PROFESSION_SKILLS)[0])):
+        length_profession_skills = len(self.new_character.skills.get(PROFESSION_SKILLS)[0])
+        for i in range(length_profession_skills):
             spinbox = spinbox_with_label(self.sub_frame4, text=self.new_character.skills.get(PROFESSION_SKILLS)[0][i],
                                          var=None, from_=0, to=10, column=i, row=0)
             self.profession_skills_spinbox_map[spinbox] = f"{self.new_character.skills.get(PROFESSION_SKILLS)[0][i]}"
+            spinbox.bind("<<Increment>>", self.skills_spinbox_plus)
+            spinbox.bind("<<Decrement>>", self.skills_spinbox_minus)
+            spinbox.set(0)
+        label_with_label(self.sub_frame4, text="Punkty do wydania", var=self.var_point_buy_skills,
+                         column=length_profession_skills + 1)
 
     def switch_frame(self):
         self.mode = tk.StringVar(value="Losowo")
@@ -223,20 +240,20 @@ class CharacterApp(tk.Tk):
                                          row=0, from_=self.att_race_table.get(self.labels_text[i]),
                                          to=self.att_race_table.get(self.labels_text[i]) + self.max_bonus)
             # ,lambda event: self.on_spinbox_plus(event, self.var_attributes_list[i].get()))
-            spinbox.bind("<<Increment>>", self.on_spinbox_plus)
-            spinbox.bind("<<Decrement>>", self.on_spinbox_minus)
+            spinbox.bind("<<Increment>>", self.attributes_spinbox_plus)
+            spinbox.bind("<<Decrement>>", self.attributes_spinbox_minus)
             self.attributes_spinbox_map[spinbox] = f"{self.labels_text[i]}"
 
         label_with_label(self.state_frame, var=self.var_att_points, text="Ilość puntków do wydania", row=0,
                          column=len(self.var_attributes_list) + 1)
 
-    def on_spinbox_plus(self, event):
+    def attributes_spinbox_plus(self, event):
         spinbox = event.widget  # ._name
         spinbox_id = self.attributes_spinbox_map.get(spinbox, "Unknown Spinbox")
         if int(spinbox.get()) < self.att_race_table.get(spinbox_id) + self.max_bonus:
             self.var_att_points.set(self.var_att_points.get() - 1)
 
-    def on_spinbox_minus(self, event):
+    def attributes_spinbox_minus(self, event):
         if self.var_att_points.get() < 100:
             self.var_att_points.set(self.var_att_points.get() + 1)
 
@@ -306,7 +323,48 @@ class CharacterApp(tk.Tk):
         for i in range(length_profession_skills):
             spinbox = spinbox_with_label(self.sub_frame4, text=self.new_character.skills.get(PROFESSION_SKILLS)[0][i],
                                          var=None, from_=0, to=10, column=i, row=0)
+            spinbox.set(0)
             self.profession_skills_spinbox_map[spinbox] = f"{self.new_character.skills.get(PROFESSION_SKILLS)[0][i]}"
+            spinbox.bind("<<Increment>>", self.skills_spinbox_plus)
+            spinbox.bind("<<Decrement>>", self.skills_spinbox_minus)
+        label_with_label(self.sub_frame4, text="Punkty do wydania", var=self.var_point_buy_skills,
+                         column=length_profession_skills + 1)
+
+    def skills_spinbox_plus(self, event):
+        value = event.widget.get()
+        if int(value) < 10:
+            self.var_point_buy_skills.set(self.var_point_buy_skills.get() - 1)
+
+    def skills_spinbox_minus(self, event):
+        value = event.widget.get()
+        if int(value) > 0:
+            self.var_point_buy_skills.set(self.var_point_buy_skills.get() + 1)
+
+    def aesthetics_and_name(self):
+        frame = tk.LabelFrame(self.main_frame, text="Wygląd i imie")
+        frame.grid(row=5, column=0, padx=5, pady=5)
+
+        self.name_entry = entry_with_label(frame, text="Imię", column=0, var=self.var_name)
+        self.adjust_width()
+        entry_with_label(frame, text="Wzorst", column=1, var=self.var_hight)
+        entry_with_label(frame, text="Wiek", column=2, var=self.var_age)
+        entry_with_label(frame, text="Kolor włosów", column=3, var=self.var_hair_color)
+        entry_with_label(frame, text="Kolor oczu", column=4, var=self.var_eye_color)
+
+        reroll_profession_button = tk.Button(frame, text="Przerzuć", command=self.reroll_aesthetics_and_name)
+        reroll_profession_button.grid(row=1, column=5, pady=5)
+
+    def reroll_aesthetics_and_name(self):
+        self.new_character.get_name_and_look()
+        self.var_name.set(value=self.new_character.name)
+        self.var_hight.set(value=self.new_character.hight)
+        self.var_age.set(value=self.new_character.age)
+        self.var_hair_color.set(value=self.new_character.hair_color)
+        self.var_eye_color.set(value=self.new_character.eye_color)
+
+    def adjust_width(self):
+        current_text = self.var_name.get()
+        self.name_entry.config(width=len(current_text) + 1)
 
 
 if __name__ == "__main__":
