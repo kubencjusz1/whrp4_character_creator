@@ -318,7 +318,7 @@ Talenty: Charyzmatyczny, Gładkie Słówka, Nieustraszony (Strażnicy), Szycha
 Wyposażenie: Kryjówka, Duża Grupa Towarzyszących Żebraków
 
 Uczennica Artysty - Srebro 1
-Umiejętności: Mocna Głowa, Odporność, Opanowanie,
+Umiejętności: Mocna Głowa, Odporność, Opanowanie,Percepcja, Plotkowanie, Skradanie (Miasto), Sztuka (Dowolna),Wycena
 Percepcja, Plotkowanie, Skradanie (Miasto), Sztuka (Dowolna), Wycena
 Talenty: Czujny, Mocne Plecy, Talent Artystyczny, Wytrwały
 Wyposażenie: Dłuto albo Pędzel, albo Pióro

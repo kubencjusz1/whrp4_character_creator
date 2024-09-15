@@ -20,10 +20,13 @@ class CharacterApp(tk.Tk):
         self.race_class_profession_frame()
 
         self.switch_frame()
-        self.attributes_spinbox_map = {}
-        self.talents_combobox_map = {}
 
         self.other_attributes()
+
+        self.attributes_spinbox_map = {}
+        self.talents_combobox_map = {}
+        self.race_skills_combobox_map = {}
+        self.profession_skills_spinbox_map = {}
 
         self.skills_talents_frame()
 
@@ -83,6 +86,8 @@ class CharacterApp(tk.Tk):
 
         self.new_character.get_talents()
         self.new_character.get_skills()
+        if(len(self.new_character.skills.get(PROFESSION_SKILLS)[0])) != 8:
+            print("Błąd plików", self.new_character.true_profession)
 
     def reset_stats(self):
         self.var_ww.set(self.new_character.attributes.get(WW))
@@ -132,10 +137,17 @@ class CharacterApp(tk.Tk):
         self.var_status.set(self.new_character.status)
         self.var_character_class.set(self.new_character.character_class)
 
-        self.race_talent_combobox.destroy()
-        self.race_talent_combobox = ttk.Combobox(self.st_frame, values=self.new_character.talents.get(PROFESSION_TALENTS)[0])
-        self.race_talent_combobox.grid(row=1, column=len(self.new_character.talents.get(RACE_TALENTS)), padx=5, pady=5)
-
+        self.profession_talent_combobox.destroy()
+        self.profession_talent_combobox = ttk.Combobox(self.sub_frame1,
+                                                       values=self.new_character.talents.get(PROFESSION_TALENTS)[0])
+        self.profession_talent_combobox.grid(row=1, column=len(self.new_character.talents.get(RACE_TALENTS)), padx=5,
+                                             pady=5)
+        for widget in self.sub_frame4.winfo_children():
+            widget.destroy()
+        for i in range(len(self.new_character.skills.get(PROFESSION_SKILLS)[0])):
+            spinbox = spinbox_with_label(self.sub_frame4, text=self.new_character.skills.get(PROFESSION_SKILLS)[0][i],
+                                         var=None, from_=0, to=10, column=i, row=0)
+            self.profession_skills_spinbox_map[spinbox] = f"{self.new_character.skills.get(PROFESSION_SKILLS)[0][i]}"
 
     def switch_frame(self):
         self.mode = tk.StringVar(value="Losowo")
@@ -254,25 +266,47 @@ class CharacterApp(tk.Tk):
                            to=self.var_points_to_choose.get() + self.var_hero_points.get())
 
     def skills_talents_frame(self):
-        self.st_frame = tk.LabelFrame(self.main_frame, text="Umiejętności i Talenty")
-        self.st_frame.grid(row=4, column=0, padx=5, pady=5)
-        length = len(self.new_character.talents.get(RACE_TALENTS))
+        skill_talent_frame = tk.LabelFrame(self.main_frame, text="Umiejętności i Talenty")
+        skill_talent_frame.grid(row=4, column=0, padx=5, pady=5)
+        length_talents = len(self.new_character.talents.get(RACE_TALENTS))
+        length_profession_skills = len(self.new_character.skills.get(PROFESSION_SKILLS)[0])
 
-        label = ttk.Label(self.st_frame, text="Talenty Rasowe")
-        label.grid(row=0, column=int(length/2))
+        self.sub_frame1 = tk.LabelFrame(skill_talent_frame, text="Talenty")
+        self.sub_frame1.grid(row=0, column=0, padx=5, pady=5)
 
-        for i in range(length):
-            combobox = ttk.Combobox(self.st_frame, values=self.new_character.talents.get(RACE_TALENTS)[i])
+        for i in range(length_talents):
+            combobox = ttk.Combobox(self.sub_frame1, values=self.new_character.talents.get(RACE_TALENTS)[i])
             combobox.grid(row=1, column=i, padx=5, pady=5)
             if len(self.new_character.talents.get(RACE_TALENTS)[i]) == 1:
                 combobox.set(self.new_character.talents.get(RACE_TALENTS)[i][0])
-            self.talents_combobox_map[combobox] = f"{self.labels_text[i]}"
+            self.talents_combobox_map[combobox] = f"{self.new_character.talents.get(RACE_TALENTS)[i][0]}"
 
-        label = ttk.Label(self.st_frame, text="Talent z Profesji")
-        label.grid(row=0, column=length, padx=5, pady=5)
-        self.race_talent_combobox = ttk.Combobox(self.st_frame, values=self.new_character.talents.get(PROFESSION_TALENTS)[0])
-        self.race_talent_combobox.grid(row=1, column=length, padx=5, pady=5)
+        label = ttk.Label(self.sub_frame1, text="Talent z Profesji")
+        label.grid(row=0, column=length_talents, padx=5, pady=5)
+        self.profession_talent_combobox = ttk.Combobox(self.sub_frame1,
+                                                       values=self.new_character.talents.get(PROFESSION_TALENTS)[0])
+        self.profession_talent_combobox.grid(row=1, column=length_talents, padx=5, pady=5)
 
+        sub_frame2 = tk.LabelFrame(skill_talent_frame, text="Umiejętności rasowe +5")
+        sub_frame2.grid(row=3, column=0, padx=5, pady=5)
+        for i in range(3):
+            combobox = ttk.Combobox(sub_frame2, values=self.new_character.skills.get(RACE_SKILLS))
+            combobox.grid(row=0, column=i, padx=5, pady=5)
+            self.race_skills_combobox_map[combobox] = f"Plus_Five{i}"
+
+        sub_frame3 = tk.LabelFrame(skill_talent_frame, text="Umiejętności rasowe +3")
+        sub_frame3.grid(row=4, column=0, padx=5, pady=5)
+        for i in range(3, 6):
+            combobox = ttk.Combobox(sub_frame3, values=self.new_character.skills.get(RACE_SKILLS))
+            combobox.grid(row=0, column=i, padx=5, pady=5)
+            self.race_skills_combobox_map[combobox] = f"Plus_Three{i}"
+
+        self.sub_frame4 = tk.LabelFrame(skill_talent_frame, text="Umiejętności z pofesji")
+        self.sub_frame4.grid(row=5, column=0, padx=5, pady=5)
+        for i in range(length_profession_skills):
+            spinbox = spinbox_with_label(self.sub_frame4, text=self.new_character.skills.get(PROFESSION_SKILLS)[0][i],
+                                         var=None, from_=0, to=10, column=i, row=0)
+            self.profession_skills_spinbox_map[spinbox] = f"{self.new_character.skills.get(PROFESSION_SKILLS)[0][i]}"
 
 
 if __name__ == "__main__":

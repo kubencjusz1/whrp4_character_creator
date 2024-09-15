@@ -4,7 +4,8 @@
     "umiejętności": [
       "Język (Klasyczny)",
       "Leczenie",
-      "Mocna Głowa,Rzemiosło (Aptekarstwo)",
+      "Mocna Głowa",
+      "Rzemiosło (Aptekarstwo)",
       "Rzemiosło (Truciciel)",
       "Wiedza(Chemia)",
       "Wiedza (Medycyna)",
@@ -163,14 +164,14 @@
   },
   "Student Inżynierii": {
     "status": "Brąz 4",
-    "umiejętności": [
-      "Broń Zasięgowa (Prochowa)",
+    "umiejętności": ["Broń Zasięgowa (Prochowa)",
       "Język (Klasyczny)",
       "Mocna Głowa",
       "Odporność",
       "Opanowanie",
       "Percepcja",
-      "Rzemiosło (Inżynier),Wiedza (Inżynier)"
+      "Rzemiosło (Inżynier)",
+      "Wiedza (Inżynier)"
     ],
     "talenty": [
       "Artylerzysta",
@@ -1226,10 +1227,14 @@
   },
   "Uczennica Artysty": {
     "status": "Srebro 1",
-    "umiejętności": [
-      "Mocna Głowa",
+    "umiejętności": ["Mocna Głowa",
       "Odporność",
-      "Opanowanie,"
+      "Opanowanie",
+      "Percepcja",
+      "Plotkowanie",
+      "Skradanie (Miasto)",
+      "Sztuka (Dowolna)",
+      "Wycena"
     ],
     "talenty": [
       "Czujny",
@@ -1811,7 +1816,7 @@
       "Atletyka",
       "Broń Biała (Dowolna)",
       "Intuicja",
-      "temu udoskonalić swoje umiejętności walki. Język (Klasyczny)",
+      "Język (Klasyczny)",
       "Leczenie",
       "Odporność",
       "Percepcja",
@@ -2701,13 +2706,14 @@
   },
   "Grajek Uliczny": {
     "status": "Brąz 3",
-    "umiejętności": [
-      "Atletyka",
+    "umiejętności": ["Atletyka",
       "Charyzma",
-      "Kuglarstwo (Dowolne) Muzyka (Dowolna)",
+      "Kuglarstwo (Dowolne)",
+      "Muzyka (Dowolna)",
       "Plotkowanie",
       "Targowanie",
-      "Występy(Dowolne)"
+      "Występy (Dowolne)",
+      "Zwinne Palce"
     ],
     "talenty": [
       "Atrakcyjny",
