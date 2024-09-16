@@ -97,7 +97,7 @@ class CharacterApp(tk.Tk):
         self.new_character.get_name_and_look()
         self.var_name = tk.StringVar(value=self.new_character.name)
         self.var_name.trace("w", self.adjust_width)
-        self.var_hight = tk.StringVar(value=self.new_character.hight)
+        self.var_hight = tk.StringVar(value=self.new_character.height)
         self.var_age = tk.StringVar(value=self.new_character.age)
         self.var_hair_color = tk.StringVar(value=self.new_character.hair_color)
         self.var_eye_color = tk.StringVar(value=self.new_character.eye_color)
@@ -357,7 +357,7 @@ class CharacterApp(tk.Tk):
     def reroll_aesthetics_and_name(self):
         self.new_character.get_name_and_look()
         self.var_name.set(value=self.new_character.name)
-        self.var_hight.set(value=self.new_character.hight)
+        self.var_hight.set(value=self.new_character.height)
         self.var_age.set(value=self.new_character.age)
         self.var_hair_color.set(value=self.new_character.hair_color)
         self.var_eye_color.set(value=self.new_character.eye_color)

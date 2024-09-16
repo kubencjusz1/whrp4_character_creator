@@ -35,7 +35,7 @@ hair_colors = {
                   [8, 11, 'Brązowy'], [12, 14, 'Mahoniowy'], [15, 17, 'Ciemny brąz'], [18, 18, 'Sjena'],
                   [19, 19, 'Hebanowy'], [20, 20, 'Niebiesko-czarny']]}
 
-hight_age_table = {
+height_age_table = {
     HUMAN: {"age": [15, 1], "height": [150, 4]},
     DWARF: {"age": [15, 10], "height": [130, 2]},
     HALFLING: {"age": [15, 5], "height": [95, 2]},
