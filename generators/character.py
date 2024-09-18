@@ -34,7 +34,7 @@ class Character:
         self.age = ""
         self.eye_color = ""
         self.hair_color = ""
-        self.hight = ""
+        self.height = ""
 
     def print_info(self):
         for attribute, value in vars(self).items():
@@ -109,9 +109,9 @@ class Character:
     def get_name_and_look(self):
         self.eye_color = roll_on_table(roll_d10(2), eye_colors.get(self.race))[2]
         self.hair_color = roll_on_table(roll_d10(2), hair_colors.get(self.race))[2]
-        self.age = hight_age_table.get(self.race).get("age")[0] + roll_d10(hight_age_table.get(self.race).get("age")[1])
-        self.hight = hight_age_table.get(self.race).get("height")[0] + roll_d10(
-            hight_age_table.get(self.race).get("height")[1])
+        self.age = height_age_table.get(self.race).get("age")[0] + roll_d10(height_age_table.get(self.race).get("age")[1])
+        self.height = height_age_table.get(self.race).get("height")[0] + roll_d10(
+            height_age_table.get(self.race).get("height")[1])
 
         if self.race == HUMAN:
             self.name = f"{random.choice(human_names_table)} {random.choice(human_second_names_table)} von {random.choice(imperium_cities_table)}"
